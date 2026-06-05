@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+seen_projects.json
+.DS_Store
