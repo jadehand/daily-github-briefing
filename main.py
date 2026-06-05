@@ -209,19 +209,23 @@ def build_repo_info(item):
 # ── AI 摘要生成 ──────────────────────────────────────────
 
 def call_anthropic_api(prompt):
-    """调用 Anthropic Claude API"""
+    """调用 Anthropic Claude API（支持自定义 Base URL）"""
+    base_url = os.getenv("ANTHROPIC_BASE_URL", "https://api.anthropic.com/v1")
     headers = {
         "x-api-key": CLAUDE_API_KEY,
         "anthropic-version": "2023-06-01",
         "content-type": "application/json",
     }
+    model = AI_MODEL
+    if not model.startswith("claude") and not model.startswith("deepseek"):
+        model = "claude-sonnet-4-6"
     payload = {
-        "model": AI_MODEL if AI_MODEL.startswith("claude") else "claude-sonnet-4-6",
+        "model": model,
         "max_tokens": 2048,
         "messages": [{"role": "user", "content": prompt}],
     }
     resp = requests.post(
-        "https://api.anthropic.com/v1/messages",
+        f"{base_url.rstrip('/')}/messages",
         headers=headers,
         json=payload,
         timeout=60,
