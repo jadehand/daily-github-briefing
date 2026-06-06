@@ -231,7 +231,10 @@ def call_anthropic_api(prompt):
         timeout=60,
     )
     resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    # 过滤出 text 类型的 content block（跳过 thinking 等）
+    contents = resp.json().get("content", [])
+    text_blocks = [c["text"] for c in contents if c.get("type") == "text"]
+    return "\n".join(text_blocks) if text_blocks else contents[0].get("text", "")
 
 
 def call_openai_compatible_api(prompt):
