@@ -221,7 +221,7 @@ def call_anthropic_api(prompt):
         model = "claude-sonnet-4-6"
     payload = {
         "model": model,
-        "max_tokens": 2048,
+        "max_tokens": 4096,
         "messages": [{"role": "user", "content": prompt}],
     }
     resp = requests.post(
@@ -249,7 +249,7 @@ def call_openai_compatible_api(prompt):
             {"role": "system", "content": "你是一个专业的技术编辑，擅长用通俗易懂的中文解释开源项目。"},
             {"role": "user", "content": prompt},
         ],
-        "max_tokens": 2048,
+        "max_tokens": 4096,
         "temperature": 0.7,
     }
     resp = requests.post(
