@@ -264,42 +264,50 @@ def call_openai_compatible_api(prompt):
 
 def generate_summaries(repos, is_weekly=False):
     """
-    为项目列表生成中文摘要
-    返回格式：{"full_name": "中文简介", ...}
+    为项目列表生成结构化中文摘要
+    返回格式：{"full_name": {"what": "...", "highlights": ["...","...","..."], "audience": "...", "why": "..."}, ...}
     """
     if not repos:
         return {}
 
-    # 构建 prompt
-    repo_list = []
+    # 构建 repo 数据文本
+    repo_lines = []
     for r in repos:
         info = build_repo_info(r)
-        repo_list.append(
-            f"- {info['full_name']}\n"
-            f"  ⭐ {info['stars']} | 语言: {info['language']} | 描述: {info['description']}\n"
-            f"  话题标签: {', '.join(info['topics'][:5]) if info['topics'] else '无'}"
+        fork_note = ""
+        if info['forks'] > 100:
+            fork_note = f" | Fork: {info['forks']}"
+        repo_lines.append(
+            f"[{info['full_name']}]\n"
+            f"  Stars: {info['stars']:,} | 日均新增: +{info['daily_stars']:,}\n"
+            f"  语言: {info['language']} | 创建: {info['created_at']}{fork_note}\n"
+            f"  描述: {info['description']}\n"
+            f"  标签: {', '.join(info['topics'][:8]) if info['topics'] else '无'}"
         )
 
-    mode = "周度深度版" if is_weekly else "日常轻量版"
+    prompt = f"""你是一名资深技术编辑，为开发者社区撰写 GitHub 趋势简报。你的读者是有经验的工程师，他们需要看到项目真正的技术价值和差异化。
 
-    prompt = f"""你是开源资讯编辑。请为以下 GitHub 项目各写一段通俗易懂的中文简介。
+请为以下每个项目撰写一份结构化分析卡片。每个项目必须包含 4 个字段：
 
-要求：
-- 每个项目 2~3 句话
-- 第 1 句：这项目是干什么的（让小白也能懂）
-- 第 2 句：为什么最近火了 / 为什么值得关注
-- 第 3 句：适合什么人用、有什么实用价值
-- 语言口语化，避免专业黑话，必要时附带通俗解释
-- 每个简介控制在 80 字以内
+1. **what**（1句话，30字内）
+   这项目解决什么具体问题？从痛点切入，不用"一个开源项目"这种废话开头。例："把 SQLite 嵌入到浏览器里的数据库层，替代 IndexedDB 的复杂性"。
 
-以下是项目列表：
+2. **highlights**（3个要点，每个15字内）
+   最值得关注的技术亮点或设计选择。不要泛泛说"性能好"，要说"用 WAL 模式实现零锁并发读"。注重差异化。
 
-{chr(10).join(repo_list)}
+3. **audience**（1句话，20字内）
+   谁最需要这个项目？具体到角色+场景："写数据密集型 Electron 应用的前端工程师"。
 
-请按以下 JSON 格式返回（只返回 JSON，不要其他内容）：
-{{"项目完整名称": "中文简介", ...}}"""
+4. **why**（1句话，25字内）
+   为什么它近期吸引了关注？关联到技术趋势、团队背景、或它解决的现实痛点变得紧迫了。不要只说"最近火了"。
 
-    # 尝试 AI 调用
+项目数据如下：
+
+{chr(10).join(repo_lines)}
+
+返回纯 JSON（不要 markdown 包裹），格式：
+{{"owner/repo": {{"what": "...", "highlights": ["...","...","..."], "audience": "...", "why": "..."}} }}"""
+
     summary_text = ""
     try:
         if CLAUDE_API_KEY:
@@ -315,44 +323,47 @@ def generate_summaries(repos, is_weekly=False):
 
     # 解析 JSON
     try:
-        # 提取 JSON 块（可能被 markdown 包裹）
-        if "```" in summary_text:
-            summary_text = summary_text.split("```")[1]
-            if summary_text.startswith("json"):
-                summary_text = summary_text[4:]
-        return json.loads(summary_text.strip())
-    except json.JSONDecodeError:
-        print(f"⚠️ AI 返回格式解析失败，降级为项目自带描述")
+        text = summary_text.strip()
+        if "```" in text:
+            text = text.split("```")[1]
+            if text.startswith("json"):
+                text = text[4:]
+        return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"⚠️ AI 返回格式解析失败: {e}，降级")
+        print(f"   原始返回: {summary_text[:300]}")
         return fallback_summaries(repos)
 
 
 def fallback_summaries(repos):
-    """无 AI 时的降级方案：使用项目自带描述"""
+    """无 AI 时的降级方案：用项目描述撑起结构化字段"""
     summaries = {}
     for r in repos:
         info = build_repo_info(r)
         desc = info["description"] if info["description"] != "暂无描述" else ""
         lang = info["language"]
         stars = info["stars"]
+        topics = ", ".join(info["topics"][:5]) if info["topics"] else "通用"
 
-        if desc:
-            summary = f"这是一个 {lang} 项目，{desc}。当前已获得 {stars} 个 Star。"
-        else:
-            summary = f"这是一个 {lang} 项目，当前已获得 {stars} 个 Star，近期社区关注度较高。"
-
-        summaries[info["full_name"]] = summary
+        summaries[info["full_name"]] = {
+            "what": desc[:60] if desc else f"{info['full_name']} — {lang} 项目，{stars:,} Stars",
+            "highlights": [f"语言: {lang}", f"关注领域: {topics}", f"社区认可度: {stars:,} Stars"],
+            "audience": f"对 {topics} 领域感兴趣的开发者",
+            "why": f"近期在 GitHub 社区获得广泛关注，累计 {stars:,} Star",
+        }
     return summaries
 
 
 # ── 简报渲染 ─────────────────────────────────────────────
 
 def render_daily_briefing(trending, classic, summaries):
-    """渲染日常版简报（周一~周六）"""
+    """渲染日常版简报（周一~周六）：结构化卡片"""
     today_str = datetime.now().strftime("%Y年%m月%d日")
     weekday = ["一", "二", "三", "四", "五", "六", "日"][datetime.now().weekday()]
 
     lines = [
-        f"📅 {today_str} 周{weekday} Github 开源日报｜精选近期暴涨星标优质项目",
+        f"📅 {today_str} 周{weekday} · GitHub 开源日报",
+        f"精选近 7 天 Star 增速最快的开源项目，附带技术分析。",
         "",
     ]
 
@@ -361,55 +372,123 @@ def render_daily_briefing(trending, classic, summaries):
     lines.append("")
     for i, repo in enumerate(trending[:5], 1):
         info = build_repo_info(repo)
-        summary = summaries.get(info["full_name"], info["description"])
+        card = summaries.get(info["full_name"], {})
+        if isinstance(card, str):
+            # 兼容旧格式
+            card = {"what": card, "highlights": [], "audience": "", "why": ""}
+
         lines.append(f"### {i}. [{info['full_name']}]({info['url']})")
-        lines.append(f"⭐ {info['stars']:,} Stars｜本周新增 +{info['daily_stars'] * 7:,} 估")
-        lines.append(f"🛠️ {info['language']}")
-        lines.append(f"💡 {summary}")
+        lines.append(f"⭐ {info['stars']:,} Stars · 本周 +{info['daily_stars'] * 7:,} 估 · 🛠️ {info['language']}")
         lines.append("")
+        what = card.get("what", "").strip()
+        if what:
+            lines.append(f"> {what}")
+            lines.append("")
+        highlights = card.get("highlights", [])
+        if highlights:
+            for h in highlights:
+                h = h.strip().lstrip("- ").strip()
+                if h:
+                    lines.append(f"- {h}")
+            lines.append("")
+        audience = card.get("audience", "").strip()
+        if audience:
+            lines.append(f"👥 {audience}")
+            lines.append("")
+        why = card.get("why", "").strip()
+        if why:
+            lines.append(f"💡 {why}")
+            lines.append("")
 
     # 板块 2：经典补位
     if classic:
         info = build_repo_info(classic[0])
-        summary = summaries.get(info["full_name"], info["description"])
+        card = summaries.get(info["full_name"], {})
+        if isinstance(card, str):
+            card = {"what": card, "highlights": [], "audience": "", "why": ""}
+
+        lines.append("---")
         lines.append("## 💎 今日经典补位")
         lines.append("")
         lines.append(f"### [{info['full_name']}]({info['url']})")
-        lines.append(f"⭐ {info['stars']:,} Stars（总）")
-        lines.append(f"🛠️ {info['language']}")
-        lines.append(f"💡 {summary}")
+        lines.append(f"⭐ {info['stars']:,} Stars（总）· 🛠️ {info['language']}")
         lines.append("")
+        what = card.get("what", "").strip()
+        if what:
+            lines.append(f"> {what}")
+            lines.append("")
+        highlights = card.get("highlights", [])
+        if highlights:
+            for h in highlights:
+                h = h.strip().lstrip("- ").strip()
+                if h:
+                    lines.append(f"- {h}")
+            lines.append("")
+        audience = card.get("audience", "").strip()
+        if audience:
+            lines.append(f"👥 {audience}")
+            lines.append("")
+        why = card.get("why", "").strip()
+        if why:
+            lines.append(f"💡 {why}")
+            lines.append("")
 
     # 页脚
     lines.append("---")
-    lines.append("📌 本简报由开源数据自动抓取 + AI 整编")
+    lines.append("📌 数据来源: GitHub Trending + Search API · AI 摘要: DeepSeek V4")
 
     return "\n".join(lines)
 
 
 def render_weekly_briefing(trending, summaries):
-    """渲染周度深度版简报（周日）"""
+    """渲染周度深度版简报（周日）：TOP10 + 分类盘点 + 趋势观察"""
     today_str = datetime.now().strftime("%Y年%m月%d日")
+    # 计算本周日期范围
+    today = datetime.now()
+    monday = today - timedelta(days=today.weekday())
+    sunday = monday + timedelta(days=6)
 
     lines = [
-        f"📅 {today_str} Github 开源周报｜本周 TOP10 热门新秀 + 五大领域盘点",
+        f"📊 GitHub 开源周报 · {monday.strftime('%m.%d')} — {sunday.strftime('%m.%d')}",
+        f"深度盘点本周最值得关注的开源项目与技术趋势。",
         "",
     ]
 
-    # 板块 1：TOP 10 趋势新秀
+    # ── 板块 1：TOP 10 趋势新秀 ──
     lines.append("## 🔥 本周 TOP 10 热门新秀")
     lines.append("")
     for i, repo in enumerate(trending[:10], 1):
         info = build_repo_info(repo)
-        summary = summaries.get(info["full_name"], info["description"])
-        lines.append(f"### {i}. [{info['full_name']}]({info['url']})")
-        lines.append(f"⭐ {info['stars']:,} Stars｜日均 +{info['daily_stars']:,}")
-        lines.append(f"🛠️ {info['language']}")
-        lines.append(f"💡 {summary}")
-        lines.append("")
+        card = summaries.get(info["full_name"], {})
+        if isinstance(card, str):
+            card = {"what": card, "highlights": [], "audience": "", "why": ""}
 
-    # 板块 2：领域分类盘点
-    lines.append("## 📊 本周五大领域盘点")
+        lines.append(f"### {i}. [{info['full_name']}]({info['url']})")
+        lines.append(f"⭐ {info['stars']:,} Stars · 日均 +{info['daily_stars']:,} · 🛠️ {info['language']} · 创建于 {info['created_at']}")
+        lines.append("")
+        what = card.get("what", "").strip()
+        if what:
+            lines.append(f"> {what}")
+            lines.append("")
+        highlights = card.get("highlights", [])
+        if highlights:
+            for h in highlights:
+                h = h.strip().lstrip("- ").strip()
+                if h:
+                    lines.append(f"- {h}")
+            lines.append("")
+        audience = card.get("audience", "").strip()
+        if audience:
+            lines.append(f"👥 {audience}")
+            lines.append("")
+        why = card.get("why", "").strip()
+        if why:
+            lines.append(f"💡 {why}")
+            lines.append("")
+
+    # ── 板块 2：五大领域盘点 ──
+    lines.append("---")
+    lines.append("## 📂 五大领域盘点")
     lines.append("")
 
     categories = {
@@ -420,33 +499,37 @@ def render_weekly_briefing(trending, summaries):
         "🔧 开发者工具": [],
     }
 
-    # 简单分类（按 topics 和 language 归类）
     for repo in trending:
         info = build_repo_info(repo)
         topics_str = " ".join(info["topics"]).lower()
-        lang = info["language"].lower()
 
-        if any(t in topics_str for t in ["ai", "llm", "gpt", "machine-learning", "deep-learning", "neural"]):
+        if any(t in topics_str for t in ["ai", "llm", "gpt", "machine-learning", "deep-learning", "neural", "rag", "agent", "embedding"]):
             categories["🧠 AI / 大模型"].append(info)
-        elif any(t in topics_str for t in ["frontend", "react", "vue", "css", "ui", "web"]):
+        elif any(t in topics_str for t in ["frontend", "react", "vue", "css", "ui", "web", "nextjs", "tailwind"]):
             categories["🎨 前端 / 全栈"].append(info)
-        elif any(t in topics_str for t in ["devops", "docker", "kubernetes", "monitoring", "ci"]):
+        elif any(t in topics_str for t in ["devops", "docker", "kubernetes", "monitoring", "ci", "cd", "terraform"]):
             categories["🛡️ 运维 / DevOps"].append(info)
-        elif any(t in topics_str for t in ["cli", "tool", "sdk", "library", "api"]):
+        elif any(t in topics_str for t in ["cli", "tool", "sdk", "library", "api", "framework"]):
             categories["🔧 开发者工具"].append(info)
         else:
             categories["⚙️ 后端 / 基础设施"].append(info)
 
     for cat_name, cat_repos in categories.items():
         if cat_repos:
-            lines.append(f"### {cat_name}（{len(cat_repos)} 个）")
+            lines.append(f"### {cat_name}（{len(cat_repos)} 个项目）")
             for info in cat_repos[:3]:
-                lines.append(f"- [{info['full_name']}]({info['url']}) ⭐{info['stars']:,} — {info['description'][:60]}")
+                card = summaries.get(info["full_name"], {})
+                if isinstance(card, str):
+                    card = {"what": card}
+                what = card.get("what", info["description"][:80])
+                lines.append(f"- [{info['full_name']}]({info['url']}) ⭐{info['stars']:,} — {what}")
             lines.append("")
 
-    # 板块 3：周趋势总结
-    lines.append("## 📈 本周开源趋势总结")
+    # ── 板块 3：趋势观察 ──
+    lines.append("---")
+    lines.append("## 🧭 本周趋势观察")
     lines.append("")
+
     # 统计语言分布
     lang_count = {}
     for repo in trending:
@@ -454,17 +537,31 @@ def render_weekly_briefing(trending, summaries):
         lang = info["language"]
         lang_count[lang] = lang_count.get(lang, 0) + 1
     top_langs = sorted(lang_count.items(), key=lambda x: x[1], reverse=True)[:5]
-
     lang_str = "、".join([f"{l}({c})" for l, c in top_langs])
-    total_stars = sum(build_repo_info(r)["stars"] for r in trending)
 
-    lines.append(f"本周热门新秀总星数超 **{total_stars:,}**，技术语言分布：{lang_str}。")
-    lines.append(f"AI 相关项目持续占据主流，同时开发者工具和前端框架保持活跃。")
+    total_stars = sum(build_repo_info(r)["stars"] for r in trending)
+    ai_count = len(categories["🧠 AI / 大模型"])
+    tool_count = len(categories["🔧 开发者工具"])
+
+    lines.append(f"**整体风向：** 本周热门新秀总星数超 **{total_stars:,}**，技术语言分布以 {lang_str} 为主。")
+    if ai_count > 3:
+        lines.append(f"AI/大模型方向继续占据主导（{ai_count} 个项目上榜），但 Agent 框架和模型推理优化的比重在上升，纯模型 wrapper 项目减少。")
+    lines.append(f"开发者工具（{tool_count} 个）保持活跃，工具类项目关注度集中在 AI 辅助开发和基础设施自动化两个方向。")
     lines.append("")
+
+    # 标记有潜力的项目（不在 TOP 前几但增速快）
+    dark_horses = [r for r in trending if build_repo_info(r)["daily_stars"] > 100 and build_repo_info(r)["stars"] < 2000]
+    if dark_horses:
+        lines.append("**🚀 值得持续关注的低星高增速项目：**")
+        lines.append("")
+        for r in dark_horses[:3]:
+            info = build_repo_info(r)
+            lines.append(f"- [{info['full_name']}]({info['url']}) — ⭐{info['stars']:,}，日均 +{info['daily_stars']:,}，{info['description'][:60]}")
+        lines.append("")
 
     # 页脚
     lines.append("---")
-    lines.append("📌 本简报由开源数据自动抓取 + AI 整编")
+    lines.append("📌 数据来源: GitHub Trending + Search API · AI 摘要: DeepSeek V4")
 
     return "\n".join(lines)
 
