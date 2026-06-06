@@ -40,7 +40,7 @@ AI_MODEL = os.getenv("AI_MODEL", "claude-sonnet-4-6")
 
 # 推送配置
 SMTP_HOST = os.getenv("SMTP_HOST", "")
-SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
+SMTP_PORT = int(os.getenv("SMTP_PORT") or "587")
 SMTP_USER = os.getenv("SMTP_USER", "")
 SMTP_PASS = os.getenv("SMTP_PASS", "")
 TO_EMAIL = os.getenv("TO_EMAIL", "")
