@@ -14,7 +14,13 @@
     "nexu-io/html-anything": "2026-06-06",
     "vercel-labs/zerolang": "2026-06-06",
     "anthropics/defending-code-reference-harness": "2026-06-06",
-    "tastyeffectco/sandboxes": "2026-06-06"
+    "tastyeffectco/sandboxes": "2026-06-06",
+    "helloianneo/ian-xiaohei-illustrations": "2026-06-07",
+    "OpenBMB/PilotDeck": "2026-06-07",
+    "FoundZiGu/GuJumpgate": "2026-06-07",
+    "alibaba/open-code-review": "2026-06-07",
+    "simplifaisoul/osiris": "2026-06-07",
+    "microsoft/SkillOpt": "2026-06-07"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
