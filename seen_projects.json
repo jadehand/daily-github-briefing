@@ -20,11 +20,16 @@
     "FoundZiGu/GuJumpgate": "2026-06-07",
     "alibaba/open-code-review": "2026-06-07",
     "simplifaisoul/osiris": "2026-06-07",
-    "microsoft/SkillOpt": "2026-06-07"
+    "microsoft/SkillOpt": "2026-06-07",
+    "JimLiu/baoyu-design": "2026-06-08",
+    "amElnagdy/guard-skills": "2026-06-08",
+    "NoopApp/noop": "2026-06-08",
+    "open-gsd/gsd-core": "2026-06-08"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
     "vuejs/vue": "2026-06-06",
-    "yt-dlp/yt-dlp": "2026-06-06"
+    "yt-dlp/yt-dlp": "2026-06-06",
+    "twbs/bootstrap": "2026-06-08"
   }
 }
