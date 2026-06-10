@@ -1,20 +1,5 @@
 {
   "trending": {
-    "pewdiepie-archdaemon/odysseus": "2026-06-06",
-    "b-nnett/goose": "2026-06-06",
-    "cpaczek/skylight": "2026-06-06",
-    "zgwl/chinese-buy-us-stock-guide": "2026-06-06",
-    "unicity-astrid/sdk-js": "2026-06-06",
-    "Jane-xiaoer/xiaoer-videolab": "2026-06-06",
-    "AprilNEA/OpenLogi": "2026-06-06",
-    "op7418/guizang-social-card-skill": "2026-06-06",
-    "asz798838958/aBaiAutoplus": "2026-06-06",
-    "FULU-Foundation/OrcaSlicer-bambulab": "2026-06-06",
-    "perplexityai/bumblebee": "2026-06-06",
-    "nexu-io/html-anything": "2026-06-06",
-    "vercel-labs/zerolang": "2026-06-06",
-    "anthropics/defending-code-reference-harness": "2026-06-06",
-    "tastyeffectco/sandboxes": "2026-06-06",
     "helloianneo/ian-xiaohei-illustrations": "2026-06-07",
     "OpenBMB/PilotDeck": "2026-06-07",
     "FoundZiGu/GuJumpgate": "2026-06-07",
@@ -25,13 +10,19 @@
     "amElnagdy/guard-skills": "2026-06-08",
     "NoopApp/noop": "2026-06-08",
     "open-gsd/gsd-core": "2026-06-08",
-    "GordenSun/GordenSuperPPTSkills": "2026-06-09"
+    "GordenSun/GordenSuperPPTSkills": "2026-06-09",
+    "pewdiepie-archdaemon/odysseus": "2026-06-10",
+    "zgwl/chinese-buy-us-stock-guide": "2026-06-10",
+    "apple/coreai-models": "2026-06-10",
+    "unicity-astrid/sdk-js": "2026-06-10",
+    "xiaohuailabs/xiaohu-video-translate": "2026-06-10"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
     "vuejs/vue": "2026-06-06",
     "yt-dlp/yt-dlp": "2026-06-06",
     "twbs/bootstrap": "2026-06-08",
-    "TheAlgorithms/Python": "2026-06-09"
+    "TheAlgorithms/Python": "2026-06-09",
+    "trimstray/the-book-of-secret-knowledge": "2026-06-10"
   }
 }
