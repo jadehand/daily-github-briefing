@@ -1,11 +1,5 @@
 {
   "trending": {
-    "helloianneo/ian-xiaohei-illustrations": "2026-06-07",
-    "OpenBMB/PilotDeck": "2026-06-07",
-    "FoundZiGu/GuJumpgate": "2026-06-07",
-    "alibaba/open-code-review": "2026-06-07",
-    "simplifaisoul/osiris": "2026-06-07",
-    "microsoft/SkillOpt": "2026-06-07",
     "JimLiu/baoyu-design": "2026-06-08",
     "amElnagdy/guard-skills": "2026-06-08",
     "NoopApp/noop": "2026-06-08",
@@ -15,7 +9,12 @@
     "zgwl/chinese-buy-us-stock-guide": "2026-06-10",
     "apple/coreai-models": "2026-06-10",
     "unicity-astrid/sdk-js": "2026-06-10",
-    "xiaohuailabs/xiaohu-video-translate": "2026-06-10"
+    "xiaohuailabs/xiaohu-video-translate": "2026-06-10",
+    "XiaomiMiMo/MiMo-Code": "2026-06-11",
+    "shadcn/improve": "2026-06-11",
+    "MSNightmare/RoguePlanet": "2026-06-11",
+    "diffusionstudio/lottie": "2026-06-11",
+    "anthropics/defending-code-reference-harness": "2026-06-11"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -23,6 +22,7 @@
     "yt-dlp/yt-dlp": "2026-06-06",
     "twbs/bootstrap": "2026-06-08",
     "TheAlgorithms/Python": "2026-06-09",
-    "trimstray/the-book-of-secret-knowledge": "2026-06-10"
+    "trimstray/the-book-of-secret-knowledge": "2026-06-10",
+    "996icu/996.ICU": "2026-06-11"
   }
 }
