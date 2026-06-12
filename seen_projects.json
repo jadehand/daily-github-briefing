@@ -1,9 +1,5 @@
 {
   "trending": {
-    "JimLiu/baoyu-design": "2026-06-08",
-    "amElnagdy/guard-skills": "2026-06-08",
-    "NoopApp/noop": "2026-06-08",
-    "open-gsd/gsd-core": "2026-06-08",
     "GordenSun/GordenSuperPPTSkills": "2026-06-09",
     "pewdiepie-archdaemon/odysseus": "2026-06-10",
     "zgwl/chinese-buy-us-stock-guide": "2026-06-10",
@@ -14,7 +10,12 @@
     "shadcn/improve": "2026-06-11",
     "MSNightmare/RoguePlanet": "2026-06-11",
     "diffusionstudio/lottie": "2026-06-11",
-    "anthropics/defending-code-reference-harness": "2026-06-11"
+    "anthropics/defending-code-reference-harness": "2026-06-11",
+    "NoopApp/noop": "2026-06-12",
+    "AprilNEA/OpenLogi": "2026-06-12",
+    "helloianneo/ian-xiaohei-illustrations": "2026-06-12",
+    "alibaba/open-code-review": "2026-06-12",
+    "op7418/guizang-social-card-skill": "2026-06-12"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -23,6 +24,7 @@
     "twbs/bootstrap": "2026-06-08",
     "TheAlgorithms/Python": "2026-06-09",
     "trimstray/the-book-of-secret-knowledge": "2026-06-10",
-    "996icu/996.ICU": "2026-06-11"
+    "996icu/996.ICU": "2026-06-11",
+    "Snailclimb/JavaGuide": "2026-06-12"
   }
 }
