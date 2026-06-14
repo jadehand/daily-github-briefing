@@ -1,10 +1,5 @@
 {
   "trending": {
-    "pewdiepie-archdaemon/odysseus": "2026-06-10",
-    "zgwl/chinese-buy-us-stock-guide": "2026-06-10",
-    "apple/coreai-models": "2026-06-10",
-    "unicity-astrid/sdk-js": "2026-06-10",
-    "xiaohuailabs/xiaohu-video-translate": "2026-06-10",
     "XiaomiMiMo/MiMo-Code": "2026-06-11",
     "shadcn/improve": "2026-06-11",
     "MSNightmare/RoguePlanet": "2026-06-11",
@@ -19,7 +14,14 @@
     "SkyBlue997/enableMacosAI": "2026-06-13",
     "levy-street/world-of-claudecraft": "2026-06-13",
     "MSNightmare/GreatXML": "2026-06-13",
-    "perplexityai/bumblebee": "2026-06-13"
+    "perplexityai/bumblebee": "2026-06-13",
+    "pewdiepie-archdaemon/odysseus": "2026-06-14",
+    "lenucksi/aur-malware-check": "2026-06-14",
+    "unicity-astrid/sdk-js": "2026-06-14",
+    "zgwl/chinese-buy-us-stock-guide": "2026-06-14",
+    "omnigent-ai/omnigent": "2026-06-14",
+    "joeseesun/qiaomu-goal-meta-skill": "2026-06-14",
+    "plannotator/effective-html": "2026-06-14"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
