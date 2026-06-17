@@ -1,10 +1,5 @@
 {
   "trending": {
-    "DietrichGebert/ponytail": "2026-06-13",
-    "SkyBlue997/enableMacosAI": "2026-06-13",
-    "levy-street/world-of-claudecraft": "2026-06-13",
-    "MSNightmare/GreatXML": "2026-06-13",
-    "perplexityai/bumblebee": "2026-06-13",
     "pewdiepie-archdaemon/odysseus": "2026-06-14",
     "lenucksi/aur-malware-check": "2026-06-14",
     "unicity-astrid/sdk-js": "2026-06-14",
@@ -21,7 +16,12 @@
     "EEliberto/IPA-Download": "2026-06-16",
     "alibaba/open-code-review": "2026-06-16",
     "helloianneo/ian-xiaohei-illustrations": "2026-06-16",
-    "AprilNEA/OpenLogi": "2026-06-16"
+    "AprilNEA/OpenLogi": "2026-06-16",
+    "DietrichGebert/ponytail": "2026-06-17",
+    "alchaincyf/loop-engineering-orange-book": "2026-06-17",
+    "SkyBlue997/enableMacosAI": "2026-06-17",
+    "op7418/guizang-social-card-skill": "2026-06-17",
+    "open-gsd/gsd-core": "2026-06-17"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -34,6 +34,7 @@
     "Snailclimb/JavaGuide": "2026-06-12",
     "vinta/awesome-python": "2026-06-13",
     "practical-tutorials/project-based-learning": "2026-06-15",
-    "anthropics/skills": "2026-06-16"
+    "anthropics/skills": "2026-06-16",
+    "obra/superpowers": "2026-06-17"
   }
 }
