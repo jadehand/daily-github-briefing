@@ -1,12 +1,5 @@
 {
   "trending": {
-    "pewdiepie-archdaemon/odysseus": "2026-06-14",
-    "lenucksi/aur-malware-check": "2026-06-14",
-    "unicity-astrid/sdk-js": "2026-06-14",
-    "zgwl/chinese-buy-us-stock-guide": "2026-06-14",
-    "omnigent-ai/omnigent": "2026-06-14",
-    "joeseesun/qiaomu-goal-meta-skill": "2026-06-14",
-    "plannotator/effective-html": "2026-06-14",
     "XiaomiMiMo/MiMo-Code": "2026-06-15",
     "shadcn/improve": "2026-06-15",
     "tamnd/kage": "2026-06-15",
@@ -21,7 +14,12 @@
     "alchaincyf/loop-engineering-orange-book": "2026-06-17",
     "SkyBlue997/enableMacosAI": "2026-06-17",
     "op7418/guizang-social-card-skill": "2026-06-17",
-    "open-gsd/gsd-core": "2026-06-17"
+    "open-gsd/gsd-core": "2026-06-17",
+    "pewdiepie-archdaemon/odysseus": "2026-06-18",
+    "vercel/eve": "2026-06-18",
+    "omnigent-ai/omnigent": "2026-06-18",
+    "Plaer1/junction": "2026-06-18",
+    "lenucksi/aur-malware-check": "2026-06-18"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -35,6 +33,7 @@
     "vinta/awesome-python": "2026-06-13",
     "practical-tutorials/project-based-learning": "2026-06-15",
     "anthropics/skills": "2026-06-16",
-    "obra/superpowers": "2026-06-17"
+    "obra/superpowers": "2026-06-17",
+    "f/prompts.chat": "2026-06-18"
   }
 }
