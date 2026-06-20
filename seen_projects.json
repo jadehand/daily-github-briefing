@@ -1,10 +1,5 @@
 {
   "trending": {
-    "diffusionstudio/lottie": "2026-06-16",
-    "EEliberto/IPA-Download": "2026-06-16",
-    "alibaba/open-code-review": "2026-06-16",
-    "helloianneo/ian-xiaohei-illustrations": "2026-06-16",
-    "AprilNEA/OpenLogi": "2026-06-16",
     "DietrichGebert/ponytail": "2026-06-17",
     "alchaincyf/loop-engineering-orange-book": "2026-06-17",
     "SkyBlue997/enableMacosAI": "2026-06-17",
@@ -19,7 +14,12 @@
     "shadcn/improve": "2026-06-19",
     "tamnd/kage": "2026-06-19",
     "zgwl/chinese-buy-us-stock-guide": "2026-06-19",
-    "Waishnav/devspace": "2026-06-19"
+    "Waishnav/devspace": "2026-06-19",
+    "MstKail/polymarket-trading-bot-services-polyedge365": "2026-06-20",
+    "diffusionstudio/lottie": "2026-06-20",
+    "helloianneo/ian-xiaohei-illustrations": "2026-06-20",
+    "anthropics/defending-code-reference-harness": "2026-06-20",
+    "AprilNEA/OpenLogi": "2026-06-20"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -35,6 +35,7 @@
     "anthropics/skills": "2026-06-16",
     "obra/superpowers": "2026-06-17",
     "f/prompts.chat": "2026-06-18",
-    "anomalyco/opencode": "2026-06-19"
+    "anomalyco/opencode": "2026-06-19",
+    "github/gitignore": "2026-06-20"
   }
 }
