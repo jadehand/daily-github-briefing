@@ -1,10 +1,5 @@
 {
   "trending": {
-    "pewdiepie-archdaemon/odysseus": "2026-06-18",
-    "vercel/eve": "2026-06-18",
-    "omnigent-ai/omnigent": "2026-06-18",
-    "Plaer1/junction": "2026-06-18",
-    "lenucksi/aur-malware-check": "2026-06-18",
     "XiaomiMiMo/MiMo-Code": "2026-06-19",
     "shadcn/improve": "2026-06-19",
     "tamnd/kage": "2026-06-19",
@@ -20,7 +15,12 @@
     "MstKail/wc2026-crypto-sportsbook": "2026-06-21",
     "BuilderIO/skills": "2026-06-21",
     "zhongerxin/cowart": "2026-06-21",
-    "open-gsd/gsd-core": "2026-06-21"
+    "open-gsd/gsd-core": "2026-06-21",
+    "pewdiepie-archdaemon/odysseus": "2026-06-22",
+    "zhongerxin/Cowart": "2026-06-22",
+    "omnigent-ai/omnigent": "2026-06-22",
+    "vercel/eve": "2026-06-22",
+    "lyra81604/zhengxi-views": "2026-06-22"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -37,6 +37,7 @@
     "obra/superpowers": "2026-06-17",
     "f/prompts.chat": "2026-06-18",
     "anomalyco/opencode": "2026-06-19",
-    "github/gitignore": "2026-06-20"
+    "github/gitignore": "2026-06-20",
+    "521xueweihan/HelloGitHub": "2026-06-22"
   }
 }
