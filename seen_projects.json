@@ -1,10 +1,5 @@
 {
   "trending": {
-    "XiaomiMiMo/MiMo-Code": "2026-06-19",
-    "shadcn/improve": "2026-06-19",
-    "tamnd/kage": "2026-06-19",
-    "zgwl/chinese-buy-us-stock-guide": "2026-06-19",
-    "Waishnav/devspace": "2026-06-19",
     "MstKail/polymarket-trading-bot-services-polyedge365": "2026-06-20",
     "diffusionstudio/lottie": "2026-06-20",
     "helloianneo/ian-xiaohei-illustrations": "2026-06-20",
@@ -20,7 +15,12 @@
     "zhongerxin/Cowart": "2026-06-22",
     "omnigent-ai/omnigent": "2026-06-22",
     "vercel/eve": "2026-06-22",
-    "lyra81604/zhengxi-views": "2026-06-22"
+    "lyra81604/zhengxi-views": "2026-06-22",
+    "XiaomiMiMo/MiMo-Code": "2026-06-23",
+    "kanavtwtgg/birds.cafe": "2026-06-23",
+    "shadcn/improve": "2026-06-23",
+    "aidenybai/cnfast": "2026-06-23",
+    "zgwl/chinese-buy-us-stock-guide": "2026-06-23"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -38,6 +38,7 @@
     "f/prompts.chat": "2026-06-18",
     "anomalyco/opencode": "2026-06-19",
     "github/gitignore": "2026-06-20",
-    "521xueweihan/HelloGitHub": "2026-06-22"
+    "521xueweihan/HelloGitHub": "2026-06-22",
+    "multica-ai/andrej-karpathy-skills": "2026-06-23"
   }
 }
