@@ -1,10 +1,5 @@
 {
   "trending": {
-    "MstKail/polymarket-trading-bot-services-polyedge365": "2026-06-20",
-    "diffusionstudio/lottie": "2026-06-20",
-    "helloianneo/ian-xiaohei-illustrations": "2026-06-20",
-    "anthropics/defending-code-reference-harness": "2026-06-20",
-    "AprilNEA/OpenLogi": "2026-06-20",
     "DietrichGebert/ponytail": "2026-06-21",
     "Forsy-AI/agent-apprenticeship": "2026-06-21",
     "MstKail/wc2026-crypto-sportsbook": "2026-06-21",
@@ -20,7 +15,12 @@
     "kanavtwtgg/birds.cafe": "2026-06-23",
     "shadcn/improve": "2026-06-23",
     "aidenybai/cnfast": "2026-06-23",
-    "zgwl/chinese-buy-us-stock-guide": "2026-06-23"
+    "zgwl/chinese-buy-us-stock-guide": "2026-06-23",
+    "baidu/Unlimited-OCR": "2026-06-24",
+    "bozhouDev/codex-orange-book": "2026-06-24",
+    "unicity-astrid/book": "2026-06-24",
+    "unicity-astrid/handbook": "2026-06-24",
+    "HKUDS/AgentSpace": "2026-06-24"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -39,6 +39,7 @@
     "anomalyco/opencode": "2026-06-19",
     "github/gitignore": "2026-06-20",
     "521xueweihan/HelloGitHub": "2026-06-22",
-    "multica-ai/andrej-karpathy-skills": "2026-06-23"
+    "multica-ai/andrej-karpathy-skills": "2026-06-23",
+    "openclaw/openclaw": "2026-06-24"
   }
 }
