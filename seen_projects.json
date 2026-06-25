@@ -1,11 +1,5 @@
 {
   "trending": {
-    "DietrichGebert/ponytail": "2026-06-21",
-    "Forsy-AI/agent-apprenticeship": "2026-06-21",
-    "MstKail/wc2026-crypto-sportsbook": "2026-06-21",
-    "BuilderIO/skills": "2026-06-21",
-    "zhongerxin/cowart": "2026-06-21",
-    "open-gsd/gsd-core": "2026-06-21",
     "pewdiepie-archdaemon/odysseus": "2026-06-22",
     "zhongerxin/Cowart": "2026-06-22",
     "omnigent-ai/omnigent": "2026-06-22",
@@ -20,7 +14,12 @@
     "bozhouDev/codex-orange-book": "2026-06-24",
     "unicity-astrid/book": "2026-06-24",
     "unicity-astrid/handbook": "2026-06-24",
-    "HKUDS/AgentSpace": "2026-06-24"
+    "HKUDS/AgentSpace": "2026-06-24",
+    "DietrichGebert/ponytail": "2026-06-25",
+    "goehou/tabbit-toy": "2026-06-25",
+    "helloianneo/ian-xiaohei-illustrations": "2026-06-25",
+    "StarTrail-org/PixelRAG": "2026-06-25",
+    "diffusionstudio/lottie": "2026-06-25"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -40,6 +39,7 @@
     "github/gitignore": "2026-06-20",
     "521xueweihan/HelloGitHub": "2026-06-22",
     "multica-ai/andrej-karpathy-skills": "2026-06-23",
-    "openclaw/openclaw": "2026-06-24"
+    "openclaw/openclaw": "2026-06-24",
+    "nilbuild/developer-roadmap": "2026-06-25"
   }
 }
