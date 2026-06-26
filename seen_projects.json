@@ -1,10 +1,5 @@
 {
   "trending": {
-    "pewdiepie-archdaemon/odysseus": "2026-06-22",
-    "zhongerxin/Cowart": "2026-06-22",
-    "omnigent-ai/omnigent": "2026-06-22",
-    "vercel/eve": "2026-06-22",
-    "lyra81604/zhengxi-views": "2026-06-22",
     "XiaomiMiMo/MiMo-Code": "2026-06-23",
     "kanavtwtgg/birds.cafe": "2026-06-23",
     "shadcn/improve": "2026-06-23",
@@ -19,7 +14,12 @@
     "goehou/tabbit-toy": "2026-06-25",
     "helloianneo/ian-xiaohei-illustrations": "2026-06-25",
     "StarTrail-org/PixelRAG": "2026-06-25",
-    "diffusionstudio/lottie": "2026-06-25"
+    "diffusionstudio/lottie": "2026-06-25",
+    "pewdiepie-archdaemon/odysseus": "2026-06-26",
+    "zhongerxin/Cowart": "2026-06-26",
+    "omnigent-ai/omnigent": "2026-06-26",
+    "Yu9191/wloc": "2026-06-26",
+    "benchflow-ai/awesome-evals": "2026-06-26"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -40,6 +40,7 @@
     "521xueweihan/HelloGitHub": "2026-06-22",
     "multica-ai/andrej-karpathy-skills": "2026-06-23",
     "openclaw/openclaw": "2026-06-24",
-    "nilbuild/developer-roadmap": "2026-06-25"
+    "nilbuild/developer-roadmap": "2026-06-25",
+    "microsoft/markitdown": "2026-06-26"
   }
 }
