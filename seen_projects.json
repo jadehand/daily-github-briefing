@@ -1,10 +1,5 @@
 {
   "trending": {
-    "XiaomiMiMo/MiMo-Code": "2026-06-23",
-    "kanavtwtgg/birds.cafe": "2026-06-23",
-    "shadcn/improve": "2026-06-23",
-    "aidenybai/cnfast": "2026-06-23",
-    "zgwl/chinese-buy-us-stock-guide": "2026-06-23",
     "baidu/Unlimited-OCR": "2026-06-24",
     "bozhouDev/codex-orange-book": "2026-06-24",
     "unicity-astrid/book": "2026-06-24",
@@ -19,7 +14,12 @@
     "zhongerxin/Cowart": "2026-06-26",
     "omnigent-ai/omnigent": "2026-06-26",
     "Yu9191/wloc": "2026-06-26",
-    "benchflow-ai/awesome-evals": "2026-06-26"
+    "benchflow-ai/awesome-evals": "2026-06-26",
+    "XiaomiMiMo/MiMo-Code": "2026-06-27",
+    "winsznx/theeleven": "2026-06-27",
+    "shadcn/improve": "2026-06-27",
+    "vercel/eve": "2026-06-27",
+    "Waishnav/devspace": "2026-06-27"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -41,6 +41,7 @@
     "multica-ai/andrej-karpathy-skills": "2026-06-23",
     "openclaw/openclaw": "2026-06-24",
     "nilbuild/developer-roadmap": "2026-06-25",
-    "microsoft/markitdown": "2026-06-26"
+    "microsoft/markitdown": "2026-06-26",
+    "affaan-m/ECC": "2026-06-27"
   }
 }
