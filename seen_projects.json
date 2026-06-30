@@ -1,10 +1,5 @@
 {
   "trending": {
-    "pewdiepie-archdaemon/odysseus": "2026-06-26",
-    "zhongerxin/Cowart": "2026-06-26",
-    "omnigent-ai/omnigent": "2026-06-26",
-    "Yu9191/wloc": "2026-06-26",
-    "benchflow-ai/awesome-evals": "2026-06-26",
     "XiaomiMiMo/MiMo-Code": "2026-06-27",
     "winsznx/theeleven": "2026-06-27",
     "shadcn/improve": "2026-06-27",
@@ -22,7 +17,12 @@
     "DietrichGebert/ponytail": "2026-06-29",
     "downclash/clash": "2026-06-29",
     "cobusgreyling/loop-engineering": "2026-06-29",
-    "tamnd/kage": "2026-06-29"
+    "tamnd/kage": "2026-06-29",
+    "pewdiepie-archdaemon/odysseus": "2026-06-30",
+    "Krishnagangwal/CS-Fundamentals": "2026-06-30",
+    "yynxxxxx/Codex-5.5-codex-instruct-5.5": "2026-06-30",
+    "zhongerxin/Cowart": "2026-06-30",
+    "Yu9191/wloc": "2026-06-30"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -46,6 +46,7 @@
     "nilbuild/developer-roadmap": "2026-06-25",
     "microsoft/markitdown": "2026-06-26",
     "affaan-m/ECC": "2026-06-27",
-    "Significant-Gravitas/AutoGPT": "2026-06-29"
+    "Significant-Gravitas/AutoGPT": "2026-06-29",
+    "flutter/flutter": "2026-06-30"
   }
 }
