@@ -1,9 +1,5 @@
 {
   "trending": {
-    "DietrichGebert/ponytail": "2026-06-29",
-    "downclash/clash": "2026-06-29",
-    "cobusgreyling/loop-engineering": "2026-06-29",
-    "tamnd/kage": "2026-06-29",
     "pewdiepie-archdaemon/odysseus": "2026-06-30",
     "Krishnagangwal/CS-Fundamentals": "2026-06-30",
     "yynxxxxx/Codex-5.5-codex-instruct-5.5": "2026-06-30",
@@ -18,7 +14,12 @@
     "baidu/Unlimited-OCR": "2026-07-02",
     "mekos2772/ios-location-spoofer": "2026-07-02",
     "bikini/exploitarium": "2026-07-02",
-    "unicity-astrid/book": "2026-07-02"
+    "unicity-astrid/book": "2026-07-02",
+    "DietrichGebert/ponytail": "2026-07-03",
+    "unicity-astrid/handbook": "2026-07-03",
+    "Kulaxyz/self-learning-skills": "2026-07-03",
+    "cobusgreyling/loop-engineering": "2026-07-03",
+    "vercel/eve": "2026-07-03"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -45,6 +46,7 @@
     "Significant-Gravitas/AutoGPT": "2026-06-29",
     "flutter/flutter": "2026-06-30",
     "ohmyzsh/ohmyzsh": "2026-07-01",
-    "donnemartin/system-design-primer": "2026-07-02"
+    "donnemartin/system-design-primer": "2026-07-02",
+    "react/react": "2026-07-03"
   }
 }
