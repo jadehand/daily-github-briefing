@@ -1,10 +1,5 @@
 {
   "trending": {
-    "pewdiepie-archdaemon/odysseus": "2026-06-30",
-    "Krishnagangwal/CS-Fundamentals": "2026-06-30",
-    "yynxxxxx/Codex-5.5-codex-instruct-5.5": "2026-06-30",
-    "zhongerxin/Cowart": "2026-06-30",
-    "Yu9191/wloc": "2026-06-30",
     "TianhangZhuzth/Fundamental-Ava": "2026-07-01",
     "XiaomiMiMo/MiMo-Code": "2026-07-01",
     "baairon/torlink": "2026-07-01",
@@ -19,7 +14,12 @@
     "unicity-astrid/handbook": "2026-07-03",
     "Kulaxyz/self-learning-skills": "2026-07-03",
     "cobusgreyling/loop-engineering": "2026-07-03",
-    "vercel/eve": "2026-07-03"
+    "vercel/eve": "2026-07-03",
+    "xuchonglang/investing-for-beginners": "2026-07-04",
+    "uzairansaruzi/hermex": "2026-07-04",
+    "asz798838958/FrciblyK12": "2026-07-04",
+    "jamesob/local-llm": "2026-07-04",
+    "jmerelnyc/Talos": "2026-07-04"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -47,6 +47,7 @@
     "flutter/flutter": "2026-06-30",
     "ohmyzsh/ohmyzsh": "2026-07-01",
     "donnemartin/system-design-primer": "2026-07-02",
-    "react/react": "2026-07-03"
+    "react/react": "2026-07-03",
+    "freeCodeCamp/freeCodeCamp": "2026-07-04"
   }
 }
