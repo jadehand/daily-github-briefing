@@ -1,10 +1,5 @@
 {
   "trending": {
-    "TianhangZhuzth/Fundamental-Ava": "2026-07-01",
-    "XiaomiMiMo/MiMo-Code": "2026-07-01",
-    "baairon/torlink": "2026-07-01",
-    "shadcn/improve": "2026-07-01",
-    "omnigent-ai/omnigent": "2026-07-01",
     "deepseek-ai/DeepSpec": "2026-07-02",
     "baidu/Unlimited-OCR": "2026-07-02",
     "mekos2772/ios-location-spoofer": "2026-07-02",
@@ -19,7 +14,16 @@
     "uzairansaruzi/hermex": "2026-07-04",
     "asz798838958/FrciblyK12": "2026-07-04",
     "jamesob/local-llm": "2026-07-04",
-    "jmerelnyc/Talos": "2026-07-04"
+    "jmerelnyc/Talos": "2026-07-04",
+    "XiaomiMiMo/MiMo-Code": "2026-07-05",
+    "Kulaxyz/token-diet": "2026-07-05",
+    "baairon/torlink": "2026-07-05",
+    "ammaarreshi/Generals-Mac-iOS-iPad": "2026-07-05",
+    "Yu9191/wloc": "2026-07-05",
+    "shadcn/improve": "2026-07-05",
+    "langchain-ai/openwiki": "2026-07-05",
+    "omnigent-ai/omnigent": "2026-07-05",
+    "Krishnagangwal/CS-Fundamentals": "2026-07-05"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
