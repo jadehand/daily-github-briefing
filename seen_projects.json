@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/DeepSpec": "2026-07-02",
-    "baidu/Unlimited-OCR": "2026-07-02",
-    "mekos2772/ios-location-spoofer": "2026-07-02",
-    "bikini/exploitarium": "2026-07-02",
-    "unicity-astrid/book": "2026-07-02",
     "DietrichGebert/ponytail": "2026-07-03",
     "unicity-astrid/handbook": "2026-07-03",
     "Kulaxyz/self-learning-skills": "2026-07-03",
@@ -23,7 +18,12 @@
     "shadcn/improve": "2026-07-05",
     "langchain-ai/openwiki": "2026-07-05",
     "omnigent-ai/omnigent": "2026-07-05",
-    "Krishnagangwal/CS-Fundamentals": "2026-07-05"
+    "Krishnagangwal/CS-Fundamentals": "2026-07-05",
+    "baidu/Unlimited-OCR": "2026-07-06",
+    "deepseek-ai/DeepSpec": "2026-07-06",
+    "elder-plinius/T3MP3ST": "2026-07-06",
+    "CalmNoteDepot/MECCHA-VISION-ULTIMATE": "2026-07-06",
+    "bikini/exploitarium": "2026-07-06"
   },
   "classic": {
     "tensorflow/tensorflow": "2026-06-06",
@@ -52,6 +52,7 @@
     "ohmyzsh/ohmyzsh": "2026-07-01",
     "donnemartin/system-design-primer": "2026-07-02",
     "react/react": "2026-07-03",
-    "freeCodeCamp/freeCodeCamp": "2026-07-04"
+    "freeCodeCamp/freeCodeCamp": "2026-07-04",
+    "ossu/computer-science": "2026-07-06"
   }
 }
