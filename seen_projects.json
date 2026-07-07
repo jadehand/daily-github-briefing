@@ -1,10 +1,5 @@
 {
   "trending": {
-    "DietrichGebert/ponytail": "2026-07-03",
-    "unicity-astrid/handbook": "2026-07-03",
-    "Kulaxyz/self-learning-skills": "2026-07-03",
-    "cobusgreyling/loop-engineering": "2026-07-03",
-    "vercel/eve": "2026-07-03",
     "xuchonglang/investing-for-beginners": "2026-07-04",
     "uzairansaruzi/hermex": "2026-07-04",
     "asz798838958/FrciblyK12": "2026-07-04",
@@ -23,12 +18,14 @@
     "deepseek-ai/DeepSpec": "2026-07-06",
     "elder-plinius/T3MP3ST": "2026-07-06",
     "CalmNoteDepot/MECCHA-VISION-ULTIMATE": "2026-07-06",
-    "bikini/exploitarium": "2026-07-06"
+    "bikini/exploitarium": "2026-07-06",
+    "DietrichGebert/ponytail": "2026-07-07",
+    "MaximeRivest/riddle": "2026-07-07",
+    "514-labs/dnsglobe": "2026-07-07",
+    "synthetic-sciences/openscience": "2026-07-07",
+    "mekos2772/ios-location-spoofer": "2026-07-07"
   },
   "classic": {
-    "tensorflow/tensorflow": "2026-06-06",
-    "vuejs/vue": "2026-06-06",
-    "yt-dlp/yt-dlp": "2026-06-06",
     "twbs/bootstrap": "2026-06-08",
     "TheAlgorithms/Python": "2026-06-09",
     "trimstray/the-book-of-secret-knowledge": "2026-06-10",
@@ -53,6 +50,7 @@
     "donnemartin/system-design-primer": "2026-07-02",
     "react/react": "2026-07-03",
     "freeCodeCamp/freeCodeCamp": "2026-07-04",
-    "ossu/computer-science": "2026-07-06"
+    "ossu/computer-science": "2026-07-06",
+    "sindresorhus/awesome": "2026-07-07"
   }
 }
