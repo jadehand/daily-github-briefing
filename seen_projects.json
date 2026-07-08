@@ -1,10 +1,5 @@
 {
   "trending": {
-    "xuchonglang/investing-for-beginners": "2026-07-04",
-    "uzairansaruzi/hermex": "2026-07-04",
-    "asz798838958/FrciblyK12": "2026-07-04",
-    "jamesob/local-llm": "2026-07-04",
-    "jmerelnyc/Talos": "2026-07-04",
     "XiaomiMiMo/MiMo-Code": "2026-07-05",
     "Kulaxyz/token-diet": "2026-07-05",
     "baairon/torlink": "2026-07-05",
@@ -23,7 +18,12 @@
     "MaximeRivest/riddle": "2026-07-07",
     "514-labs/dnsglobe": "2026-07-07",
     "synthetic-sciences/openscience": "2026-07-07",
-    "mekos2772/ios-location-spoofer": "2026-07-07"
+    "mekos2772/ios-location-spoofer": "2026-07-07",
+    "Shpigford/knockoff": "2026-07-08",
+    "x4gKing/X4G": "2026-07-08",
+    "jamesob/local-llm": "2026-07-08",
+    "simonlin1212/Vibe-Research": "2026-07-08",
+    "cobusgreyling/loop-engineering": "2026-07-08"
   },
   "classic": {
     "twbs/bootstrap": "2026-06-08",
@@ -51,6 +51,7 @@
     "react/react": "2026-07-03",
     "freeCodeCamp/freeCodeCamp": "2026-07-04",
     "ossu/computer-science": "2026-07-06",
-    "sindresorhus/awesome": "2026-07-07"
+    "sindresorhus/awesome": "2026-07-07",
+    "vuejs/vue": "2026-07-08"
   }
 }
