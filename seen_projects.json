@@ -1,14 +1,5 @@
 {
   "trending": {
-    "XiaomiMiMo/MiMo-Code": "2026-07-05",
-    "Kulaxyz/token-diet": "2026-07-05",
-    "baairon/torlink": "2026-07-05",
-    "ammaarreshi/Generals-Mac-iOS-iPad": "2026-07-05",
-    "Yu9191/wloc": "2026-07-05",
-    "shadcn/improve": "2026-07-05",
-    "langchain-ai/openwiki": "2026-07-05",
-    "omnigent-ai/omnigent": "2026-07-05",
-    "Krishnagangwal/CS-Fundamentals": "2026-07-05",
     "baidu/Unlimited-OCR": "2026-07-06",
     "deepseek-ai/DeepSpec": "2026-07-06",
     "elder-plinius/T3MP3ST": "2026-07-06",
@@ -23,10 +14,14 @@
     "x4gKing/X4G": "2026-07-08",
     "jamesob/local-llm": "2026-07-08",
     "simonlin1212/Vibe-Research": "2026-07-08",
-    "cobusgreyling/loop-engineering": "2026-07-08"
+    "cobusgreyling/loop-engineering": "2026-07-08",
+    "langchain-ai/openwiki": "2026-07-09",
+    "XiaomiMiMo/MiMo-Code": "2026-07-09",
+    "ammaarreshi/Generals-Mac-iOS-iPad": "2026-07-09",
+    "shadcn/improve": "2026-07-09",
+    "baairon/torlink": "2026-07-09"
   },
   "classic": {
-    "twbs/bootstrap": "2026-06-08",
     "TheAlgorithms/Python": "2026-06-09",
     "trimstray/the-book-of-secret-knowledge": "2026-06-10",
     "996icu/996.ICU": "2026-06-11",
@@ -52,6 +47,7 @@
     "freeCodeCamp/freeCodeCamp": "2026-07-04",
     "ossu/computer-science": "2026-07-06",
     "sindresorhus/awesome": "2026-07-07",
-    "vuejs/vue": "2026-07-08"
+    "vuejs/vue": "2026-07-08",
+    "public-apis/public-apis": "2026-07-09"
   }
 }
