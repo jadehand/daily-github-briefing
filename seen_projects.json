@@ -1,10 +1,5 @@
 {
   "trending": {
-    "baidu/Unlimited-OCR": "2026-07-06",
-    "deepseek-ai/DeepSpec": "2026-07-06",
-    "elder-plinius/T3MP3ST": "2026-07-06",
-    "CalmNoteDepot/MECCHA-VISION-ULTIMATE": "2026-07-06",
-    "bikini/exploitarium": "2026-07-06",
     "DietrichGebert/ponytail": "2026-07-07",
     "MaximeRivest/riddle": "2026-07-07",
     "514-labs/dnsglobe": "2026-07-07",
@@ -19,10 +14,14 @@
     "XiaomiMiMo/MiMo-Code": "2026-07-09",
     "ammaarreshi/Generals-Mac-iOS-iPad": "2026-07-09",
     "shadcn/improve": "2026-07-09",
-    "baairon/torlink": "2026-07-09"
+    "baairon/torlink": "2026-07-09",
+    "withmarbleapp/os-taxonomy": "2026-07-10",
+    "baidu/Unlimited-OCR": "2026-07-10",
+    "Robbyant/lingbot-world-v2": "2026-07-10",
+    "elder-plinius/T3MP3ST": "2026-07-10",
+    "Robbyant/lingbot-video": "2026-07-10"
   },
   "classic": {
-    "TheAlgorithms/Python": "2026-06-09",
     "trimstray/the-book-of-secret-knowledge": "2026-06-10",
     "996icu/996.ICU": "2026-06-11",
     "Snailclimb/JavaGuide": "2026-06-12",
@@ -48,6 +47,7 @@
     "ossu/computer-science": "2026-07-06",
     "sindresorhus/awesome": "2026-07-07",
     "vuejs/vue": "2026-07-08",
-    "public-apis/public-apis": "2026-07-09"
+    "public-apis/public-apis": "2026-07-09",
+    "huggingface/transformers": "2026-07-10"
   }
 }
