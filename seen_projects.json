@@ -1,10 +1,5 @@
 {
   "trending": {
-    "DietrichGebert/ponytail": "2026-07-07",
-    "MaximeRivest/riddle": "2026-07-07",
-    "514-labs/dnsglobe": "2026-07-07",
-    "synthetic-sciences/openscience": "2026-07-07",
-    "mekos2772/ios-location-spoofer": "2026-07-07",
     "Shpigford/knockoff": "2026-07-08",
     "x4gKing/X4G": "2026-07-08",
     "jamesob/local-llm": "2026-07-08",
@@ -19,10 +14,14 @@
     "baidu/Unlimited-OCR": "2026-07-10",
     "Robbyant/lingbot-world-v2": "2026-07-10",
     "elder-plinius/T3MP3ST": "2026-07-10",
-    "Robbyant/lingbot-video": "2026-07-10"
+    "Robbyant/lingbot-video": "2026-07-10",
+    "DietrichGebert/ponytail": "2026-07-11",
+    "deepseek-ai/DeepSpec": "2026-07-11",
+    "x4gKing/3x-ui-Upgrade": "2026-07-11",
+    "MaximeRivest/riddle": "2026-07-11",
+    "JustVugg/colibri": "2026-07-11"
   },
   "classic": {
-    "trimstray/the-book-of-secret-knowledge": "2026-06-10",
     "996icu/996.ICU": "2026-06-11",
     "Snailclimb/JavaGuide": "2026-06-12",
     "vinta/awesome-python": "2026-06-13",
@@ -48,6 +47,7 @@
     "sindresorhus/awesome": "2026-07-07",
     "vuejs/vue": "2026-07-08",
     "public-apis/public-apis": "2026-07-09",
-    "huggingface/transformers": "2026-07-10"
+    "huggingface/transformers": "2026-07-10",
+    "massgravel/Microsoft-Activation-Scripts": "2026-07-11"
   }
 }
