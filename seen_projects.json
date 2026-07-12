@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Shpigford/knockoff": "2026-07-08",
-    "x4gKing/X4G": "2026-07-08",
-    "jamesob/local-llm": "2026-07-08",
-    "simonlin1212/Vibe-Research": "2026-07-08",
-    "cobusgreyling/loop-engineering": "2026-07-08",
     "langchain-ai/openwiki": "2026-07-09",
     "XiaomiMiMo/MiMo-Code": "2026-07-09",
     "ammaarreshi/Generals-Mac-iOS-iPad": "2026-07-09",
@@ -19,10 +14,17 @@
     "deepseek-ai/DeepSpec": "2026-07-11",
     "x4gKing/3x-ui-Upgrade": "2026-07-11",
     "MaximeRivest/riddle": "2026-07-11",
-    "JustVugg/colibri": "2026-07-11"
+    "JustVugg/colibri": "2026-07-11",
+    "x4gKing/X4G": "2026-07-12",
+    "Shpigford/knockoff": "2026-07-12",
+    "Yu9191/wloc": "2026-07-12",
+    "bikini/exploitarium": "2026-07-12",
+    "zhongerxin/Cowart": "2026-07-12",
+    "oso95/scroll-world": "2026-07-12",
+    "bozhouDev/codex-orange-book": "2026-07-12",
+    "op7418/guizang-material-illustration": "2026-07-12"
   },
   "classic": {
-    "996icu/996.ICU": "2026-06-11",
     "Snailclimb/JavaGuide": "2026-06-12",
     "vinta/awesome-python": "2026-06-13",
     "practical-tutorials/project-based-learning": "2026-06-15",
