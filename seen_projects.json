@@ -1,10 +1,5 @@
 {
   "trending": {
-    "withmarbleapp/os-taxonomy": "2026-07-10",
-    "baidu/Unlimited-OCR": "2026-07-10",
-    "Robbyant/lingbot-world-v2": "2026-07-10",
-    "elder-plinius/T3MP3ST": "2026-07-10",
-    "Robbyant/lingbot-video": "2026-07-10",
     "DietrichGebert/ponytail": "2026-07-11",
     "deepseek-ai/DeepSpec": "2026-07-11",
     "x4gKing/3x-ui-Upgrade": "2026-07-11",
@@ -22,10 +17,14 @@
     "langchain-ai/openwiki": "2026-07-13",
     "synthetic-sciences/openscience": "2026-07-13",
     "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin": "2026-07-13",
-    "baairon/torlink": "2026-07-13"
+    "baairon/torlink": "2026-07-13",
+    "littledivy/mimic": "2026-07-14",
+    "withmarbleapp/os-taxonomy": "2026-07-14",
+    "baidu/Unlimited-OCR": "2026-07-14",
+    "x4gKing/Marzban-Panel": "2026-07-14",
+    "elder-plinius/T3MP3ST": "2026-07-14"
   },
   "classic": {
-    "vinta/awesome-python": "2026-06-13",
     "practical-tutorials/project-based-learning": "2026-06-15",
     "anthropics/skills": "2026-06-16",
     "obra/superpowers": "2026-06-17",
@@ -50,6 +49,7 @@
     "public-apis/public-apis": "2026-07-09",
     "huggingface/transformers": "2026-07-10",
     "massgravel/Microsoft-Activation-Scripts": "2026-07-11",
-    "yt-dlp/yt-dlp": "2026-07-13"
+    "yt-dlp/yt-dlp": "2026-07-13",
+    "twbs/bootstrap": "2026-07-14"
   }
 }
