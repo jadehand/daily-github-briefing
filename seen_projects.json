@@ -1,10 +1,5 @@
 {
   "trending": {
-    "DietrichGebert/ponytail": "2026-07-11",
-    "deepseek-ai/DeepSpec": "2026-07-11",
-    "x4gKing/3x-ui-Upgrade": "2026-07-11",
-    "MaximeRivest/riddle": "2026-07-11",
-    "JustVugg/colibri": "2026-07-11",
     "x4gKing/X4G": "2026-07-12",
     "Shpigford/knockoff": "2026-07-12",
     "Yu9191/wloc": "2026-07-12",
@@ -22,7 +17,12 @@
     "withmarbleapp/os-taxonomy": "2026-07-14",
     "baidu/Unlimited-OCR": "2026-07-14",
     "x4gKing/Marzban-Panel": "2026-07-14",
-    "elder-plinius/T3MP3ST": "2026-07-14"
+    "elder-plinius/T3MP3ST": "2026-07-14",
+    "JustVugg/colibri": "2026-07-15",
+    "deepseek-ai/DeepSpec": "2026-07-15",
+    "MDX-Tom/gpt-5.6-instruct": "2026-07-15",
+    "Kappaemme-git/codex-first-customer-finder-skill": "2026-07-15",
+    "x4gKing/Marzban-Node": "2026-07-15"
   },
   "classic": {
     "practical-tutorials/project-based-learning": "2026-06-15",
@@ -50,6 +50,7 @@
     "huggingface/transformers": "2026-07-10",
     "massgravel/Microsoft-Activation-Scripts": "2026-07-11",
     "yt-dlp/yt-dlp": "2026-07-13",
-    "twbs/bootstrap": "2026-07-14"
+    "twbs/bootstrap": "2026-07-14",
+    "tensorflow/tensorflow": "2026-07-15"
   }
 }
