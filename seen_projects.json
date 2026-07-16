@@ -1,13 +1,5 @@
 {
   "trending": {
-    "x4gKing/X4G": "2026-07-12",
-    "Shpigford/knockoff": "2026-07-12",
-    "Yu9191/wloc": "2026-07-12",
-    "bikini/exploitarium": "2026-07-12",
-    "zhongerxin/Cowart": "2026-07-12",
-    "oso95/scroll-world": "2026-07-12",
-    "bozhouDev/codex-orange-book": "2026-07-12",
-    "op7418/guizang-material-illustration": "2026-07-12",
     "mereyabdenbekuly-ctrl/clodex-ide": "2026-07-13",
     "langchain-ai/openwiki": "2026-07-13",
     "synthetic-sciences/openscience": "2026-07-13",
@@ -22,10 +14,14 @@
     "deepseek-ai/DeepSpec": "2026-07-15",
     "MDX-Tom/gpt-5.6-instruct": "2026-07-15",
     "Kappaemme-git/codex-first-customer-finder-skill": "2026-07-15",
-    "x4gKing/Marzban-Node": "2026-07-15"
+    "x4gKing/Marzban-Node": "2026-07-15",
+    "xai-org/grok-build": "2026-07-16",
+    "CluvexStudio/Aether": "2026-07-16",
+    "x4gKing/X4G": "2026-07-16",
+    "MatinSenPai/Aether-GUI": "2026-07-16",
+    "pixel-point/aval": "2026-07-16"
   },
   "classic": {
-    "practical-tutorials/project-based-learning": "2026-06-15",
     "anthropics/skills": "2026-06-16",
     "obra/superpowers": "2026-06-17",
     "f/prompts.chat": "2026-06-18",
@@ -51,6 +47,7 @@
     "massgravel/Microsoft-Activation-Scripts": "2026-07-11",
     "yt-dlp/yt-dlp": "2026-07-13",
     "twbs/bootstrap": "2026-07-14",
-    "tensorflow/tensorflow": "2026-07-15"
+    "tensorflow/tensorflow": "2026-07-15",
+    "NousResearch/hermes-agent": "2026-07-16"
   }
 }
