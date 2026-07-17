@@ -1,10 +1,5 @@
 {
   "trending": {
-    "mereyabdenbekuly-ctrl/clodex-ide": "2026-07-13",
-    "langchain-ai/openwiki": "2026-07-13",
-    "synthetic-sciences/openscience": "2026-07-13",
-    "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin": "2026-07-13",
-    "baairon/torlink": "2026-07-13",
     "littledivy/mimic": "2026-07-14",
     "withmarbleapp/os-taxonomy": "2026-07-14",
     "baidu/Unlimited-OCR": "2026-07-14",
@@ -19,10 +14,14 @@
     "CluvexStudio/Aether": "2026-07-16",
     "x4gKing/X4G": "2026-07-16",
     "MatinSenPai/Aether-GUI": "2026-07-16",
-    "pixel-point/aval": "2026-07-16"
+    "pixel-point/aval": "2026-07-16",
+    "Fei-Away/Codex-Dream-Skin": "2026-07-17",
+    "tandpfun/wardrobe": "2026-07-17",
+    "langchain-ai/openwiki": "2026-07-17",
+    "oso95/scroll-world": "2026-07-17",
+    "Yu9191/wloc": "2026-07-17"
   },
   "classic": {
-    "anthropics/skills": "2026-06-16",
     "obra/superpowers": "2026-06-17",
     "f/prompts.chat": "2026-06-18",
     "anomalyco/opencode": "2026-06-19",
@@ -48,6 +47,7 @@
     "yt-dlp/yt-dlp": "2026-07-13",
     "twbs/bootstrap": "2026-07-14",
     "tensorflow/tensorflow": "2026-07-15",
-    "NousResearch/hermes-agent": "2026-07-16"
+    "NousResearch/hermes-agent": "2026-07-16",
+    "n8n-io/n8n": "2026-07-17"
   }
 }
