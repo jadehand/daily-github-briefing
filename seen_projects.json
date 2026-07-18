@@ -1,10 +1,5 @@
 {
   "trending": {
-    "littledivy/mimic": "2026-07-14",
-    "withmarbleapp/os-taxonomy": "2026-07-14",
-    "baidu/Unlimited-OCR": "2026-07-14",
-    "x4gKing/Marzban-Panel": "2026-07-14",
-    "elder-plinius/T3MP3ST": "2026-07-14",
     "JustVugg/colibri": "2026-07-15",
     "deepseek-ai/DeepSpec": "2026-07-15",
     "MDX-Tom/gpt-5.6-instruct": "2026-07-15",
@@ -19,10 +14,14 @@
     "tandpfun/wardrobe": "2026-07-17",
     "langchain-ai/openwiki": "2026-07-17",
     "oso95/scroll-world": "2026-07-17",
-    "Yu9191/wloc": "2026-07-17"
+    "Yu9191/wloc": "2026-07-17",
+    "baidu/Unlimited-OCR": "2026-07-18",
+    "PengZhang64/circuit-framework": "2026-07-18",
+    "pablostanley/yoinks": "2026-07-18",
+    "withmarbleapp/os-taxonomy": "2026-07-18",
+    "elder-plinius/T3MP3ST": "2026-07-18"
   },
   "classic": {
-    "obra/superpowers": "2026-06-17",
     "f/prompts.chat": "2026-06-18",
     "anomalyco/opencode": "2026-06-19",
     "github/gitignore": "2026-06-20",
@@ -48,6 +47,7 @@
     "twbs/bootstrap": "2026-07-14",
     "tensorflow/tensorflow": "2026-07-15",
     "NousResearch/hermes-agent": "2026-07-16",
-    "n8n-io/n8n": "2026-07-17"
+    "n8n-io/n8n": "2026-07-17",
+    "torvalds/linux": "2026-07-18"
   }
 }
