@@ -1,10 +1,5 @@
 {
   "trending": {
-    "JustVugg/colibri": "2026-07-15",
-    "deepseek-ai/DeepSpec": "2026-07-15",
-    "MDX-Tom/gpt-5.6-instruct": "2026-07-15",
-    "Kappaemme-git/codex-first-customer-finder-skill": "2026-07-15",
-    "x4gKing/Marzban-Node": "2026-07-15",
     "xai-org/grok-build": "2026-07-16",
     "CluvexStudio/Aether": "2026-07-16",
     "x4gKing/X4G": "2026-07-16",
@@ -19,10 +14,16 @@
     "PengZhang64/circuit-framework": "2026-07-18",
     "pablostanley/yoinks": "2026-07-18",
     "withmarbleapp/os-taxonomy": "2026-07-18",
-    "elder-plinius/T3MP3ST": "2026-07-18"
+    "elder-plinius/T3MP3ST": "2026-07-18",
+    "JustVugg/colibri": "2026-07-19",
+    "nethical6/conversation-steganography": "2026-07-19",
+    "deepseek-ai/DeepSpec": "2026-07-19",
+    "littledivy/mimic": "2026-07-19",
+    "Blueturboguy07/cue": "2026-07-19",
+    "synthetic-sciences/openscience": "2026-07-19",
+    "oil-oil/beautify-github-readme": "2026-07-19"
   },
   "classic": {
-    "f/prompts.chat": "2026-06-18",
     "anomalyco/opencode": "2026-06-19",
     "github/gitignore": "2026-06-20",
     "521xueweihan/HelloGitHub": "2026-06-22",
