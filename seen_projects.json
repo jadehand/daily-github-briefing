@@ -1,10 +1,5 @@
 {
   "trending": {
-    "xai-org/grok-build": "2026-07-16",
-    "CluvexStudio/Aether": "2026-07-16",
-    "x4gKing/X4G": "2026-07-16",
-    "MatinSenPai/Aether-GUI": "2026-07-16",
-    "pixel-point/aval": "2026-07-16",
     "Fei-Away/Codex-Dream-Skin": "2026-07-17",
     "tandpfun/wardrobe": "2026-07-17",
     "langchain-ai/openwiki": "2026-07-17",
@@ -21,10 +16,14 @@
     "littledivy/mimic": "2026-07-19",
     "Blueturboguy07/cue": "2026-07-19",
     "synthetic-sciences/openscience": "2026-07-19",
-    "oil-oil/beautify-github-readme": "2026-07-19"
+    "oil-oil/beautify-github-readme": "2026-07-19",
+    "xai-org/grok-build": "2026-07-20",
+    "lopopolo/harness-engineering": "2026-07-20",
+    "x4gKing/X4G": "2026-07-20",
+    "xiejunjie524/handdraw-story-video": "2026-07-20",
+    "CluvexStudio/Aether": "2026-07-20"
   },
   "classic": {
-    "anomalyco/opencode": "2026-06-19",
     "github/gitignore": "2026-06-20",
     "521xueweihan/HelloGitHub": "2026-06-22",
     "multica-ai/andrej-karpathy-skills": "2026-06-23",
@@ -49,6 +48,7 @@
     "tensorflow/tensorflow": "2026-07-15",
     "NousResearch/hermes-agent": "2026-07-16",
     "n8n-io/n8n": "2026-07-17",
-    "torvalds/linux": "2026-07-18"
+    "torvalds/linux": "2026-07-18",
+    "trekhleb/javascript-algorithms": "2026-07-20"
   }
 }
