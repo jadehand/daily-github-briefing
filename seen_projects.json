@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Fei-Away/Codex-Dream-Skin": "2026-07-17",
-    "tandpfun/wardrobe": "2026-07-17",
-    "langchain-ai/openwiki": "2026-07-17",
-    "oso95/scroll-world": "2026-07-17",
-    "Yu9191/wloc": "2026-07-17",
     "baidu/Unlimited-OCR": "2026-07-18",
     "PengZhang64/circuit-framework": "2026-07-18",
     "pablostanley/yoinks": "2026-07-18",
@@ -21,10 +16,14 @@
     "lopopolo/harness-engineering": "2026-07-20",
     "x4gKing/X4G": "2026-07-20",
     "xiejunjie524/handdraw-story-video": "2026-07-20",
-    "CluvexStudio/Aether": "2026-07-20"
+    "CluvexStudio/Aether": "2026-07-20",
+    "Fei-Away/Codex-Dream-Skin": "2026-07-21",
+    "langchain-ai/openwiki": "2026-07-21",
+    "unicity-aos/aos-ce": "2026-07-21",
+    "oso95/scroll-world": "2026-07-21",
+    "tandpfun/wardrobe": "2026-07-21"
   },
   "classic": {
-    "github/gitignore": "2026-06-20",
     "521xueweihan/HelloGitHub": "2026-06-22",
     "multica-ai/andrej-karpathy-skills": "2026-06-23",
     "openclaw/openclaw": "2026-06-24",
@@ -49,6 +48,7 @@
     "NousResearch/hermes-agent": "2026-07-16",
     "n8n-io/n8n": "2026-07-17",
     "torvalds/linux": "2026-07-18",
-    "trekhleb/javascript-algorithms": "2026-07-20"
+    "trekhleb/javascript-algorithms": "2026-07-20",
+    "ultraworkers/claw-code": "2026-07-21"
   }
 }
