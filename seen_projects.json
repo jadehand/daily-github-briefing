@@ -1,10 +1,5 @@
 {
   "trending": {
-    "baidu/Unlimited-OCR": "2026-07-18",
-    "PengZhang64/circuit-framework": "2026-07-18",
-    "pablostanley/yoinks": "2026-07-18",
-    "withmarbleapp/os-taxonomy": "2026-07-18",
-    "elder-plinius/T3MP3ST": "2026-07-18",
     "JustVugg/colibri": "2026-07-19",
     "nethical6/conversation-steganography": "2026-07-19",
     "deepseek-ai/DeepSpec": "2026-07-19",
@@ -21,7 +16,12 @@
     "langchain-ai/openwiki": "2026-07-21",
     "unicity-aos/aos-ce": "2026-07-21",
     "oso95/scroll-world": "2026-07-21",
-    "tandpfun/wardrobe": "2026-07-21"
+    "tandpfun/wardrobe": "2026-07-21",
+    "Blaizzy/nativ": "2026-07-22",
+    "powerycy/goutoujunshi": "2026-07-22",
+    "withmarbleapp/os-taxonomy": "2026-07-22",
+    "elder-plinius/T3MP3ST": "2026-07-22",
+    "hoainho/img2threejs": "2026-07-22"
   },
   "classic": {
     "521xueweihan/HelloGitHub": "2026-06-22",
@@ -49,6 +49,7 @@
     "n8n-io/n8n": "2026-07-17",
     "torvalds/linux": "2026-07-18",
     "trekhleb/javascript-algorithms": "2026-07-20",
-    "ultraworkers/claw-code": "2026-07-21"
+    "ultraworkers/claw-code": "2026-07-21",
+    "EbookFoundation/free-programming-books": "2026-07-22"
   }
 }
