@@ -1,12 +1,5 @@
 {
   "trending": {
-    "JustVugg/colibri": "2026-07-19",
-    "nethical6/conversation-steganography": "2026-07-19",
-    "deepseek-ai/DeepSpec": "2026-07-19",
-    "littledivy/mimic": "2026-07-19",
-    "Blueturboguy07/cue": "2026-07-19",
-    "synthetic-sciences/openscience": "2026-07-19",
-    "oil-oil/beautify-github-readme": "2026-07-19",
     "xai-org/grok-build": "2026-07-20",
     "lopopolo/harness-engineering": "2026-07-20",
     "x4gKing/X4G": "2026-07-20",
@@ -21,10 +14,14 @@
     "powerycy/goutoujunshi": "2026-07-22",
     "withmarbleapp/os-taxonomy": "2026-07-22",
     "elder-plinius/T3MP3ST": "2026-07-22",
-    "hoainho/img2threejs": "2026-07-22"
+    "hoainho/img2threejs": "2026-07-22",
+    "JustVugg/colibri": "2026-07-23",
+    "Jakubantalik/thinking-orbs": "2026-07-23",
+    "0xhype/hyperliquid-tracker": "2026-07-23",
+    "gnipbao/story-to-handdrawn-video": "2026-07-23",
+    "deepseek-ai/DeepSpec": "2026-07-23"
   },
   "classic": {
-    "521xueweihan/HelloGitHub": "2026-06-22",
     "multica-ai/andrej-karpathy-skills": "2026-06-23",
     "openclaw/openclaw": "2026-06-24",
     "nilbuild/developer-roadmap": "2026-06-25",
@@ -50,6 +47,7 @@
     "torvalds/linux": "2026-07-18",
     "trekhleb/javascript-algorithms": "2026-07-20",
     "ultraworkers/claw-code": "2026-07-21",
-    "EbookFoundation/free-programming-books": "2026-07-22"
+    "EbookFoundation/free-programming-books": "2026-07-22",
+    "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23"
   }
 }
