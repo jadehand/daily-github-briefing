@@ -1,10 +1,5 @@
 {
   "trending": {
-    "xai-org/grok-build": "2026-07-20",
-    "lopopolo/harness-engineering": "2026-07-20",
-    "x4gKing/X4G": "2026-07-20",
-    "xiejunjie524/handdraw-story-video": "2026-07-20",
-    "CluvexStudio/Aether": "2026-07-20",
     "Fei-Away/Codex-Dream-Skin": "2026-07-21",
     "langchain-ai/openwiki": "2026-07-21",
     "unicity-aos/aos-ce": "2026-07-21",
@@ -19,10 +14,14 @@
     "Jakubantalik/thinking-orbs": "2026-07-23",
     "0xhype/hyperliquid-tracker": "2026-07-23",
     "gnipbao/story-to-handdrawn-video": "2026-07-23",
-    "deepseek-ai/DeepSpec": "2026-07-23"
+    "deepseek-ai/DeepSpec": "2026-07-23",
+    "xai-org/grok-build": "2026-07-24",
+    "lopopolo/harness-engineering": "2026-07-24",
+    "andrewyng/openworker": "2026-07-24",
+    "x4gKing/X4G": "2026-07-24",
+    "Vincentwei1021/video-shotcraft": "2026-07-24"
   },
   "classic": {
-    "multica-ai/andrej-karpathy-skills": "2026-06-23",
     "openclaw/openclaw": "2026-06-24",
     "nilbuild/developer-roadmap": "2026-06-25",
     "microsoft/markitdown": "2026-06-26",
@@ -48,6 +47,7 @@
     "trekhleb/javascript-algorithms": "2026-07-20",
     "ultraworkers/claw-code": "2026-07-21",
     "EbookFoundation/free-programming-books": "2026-07-22",
-    "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23"
+    "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
+    "trimstray/the-book-of-secret-knowledge": "2026-07-24"
   }
 }
