@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Fei-Away/Codex-Dream-Skin": "2026-07-21",
-    "langchain-ai/openwiki": "2026-07-21",
-    "unicity-aos/aos-ce": "2026-07-21",
-    "oso95/scroll-world": "2026-07-21",
-    "tandpfun/wardrobe": "2026-07-21",
     "Blaizzy/nativ": "2026-07-22",
     "powerycy/goutoujunshi": "2026-07-22",
     "withmarbleapp/os-taxonomy": "2026-07-22",
@@ -19,10 +14,14 @@
     "lopopolo/harness-engineering": "2026-07-24",
     "andrewyng/openworker": "2026-07-24",
     "x4gKing/X4G": "2026-07-24",
-    "Vincentwei1021/video-shotcraft": "2026-07-24"
+    "Vincentwei1021/video-shotcraft": "2026-07-24",
+    "Fei-Away/Codex-Dream-Skin": "2026-07-25",
+    "unicity-aos/aos-ce": "2026-07-25",
+    "slvDev/esp32-ai": "2026-07-25",
+    "oso95/scroll-world": "2026-07-25",
+    "MDX-Tom/gpt-5.6-instruct": "2026-07-25"
   },
   "classic": {
-    "openclaw/openclaw": "2026-06-24",
     "nilbuild/developer-roadmap": "2026-06-25",
     "microsoft/markitdown": "2026-06-26",
     "affaan-m/ECC": "2026-06-27",
@@ -48,6 +47,7 @@
     "ultraworkers/claw-code": "2026-07-21",
     "EbookFoundation/free-programming-books": "2026-07-22",
     "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
-    "trimstray/the-book-of-secret-knowledge": "2026-07-24"
+    "trimstray/the-book-of-secret-knowledge": "2026-07-24",
+    "vinta/awesome-python": "2026-07-25"
   }
 }
