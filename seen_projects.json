@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Blaizzy/nativ": "2026-07-22",
-    "powerycy/goutoujunshi": "2026-07-22",
-    "withmarbleapp/os-taxonomy": "2026-07-22",
-    "elder-plinius/T3MP3ST": "2026-07-22",
-    "hoainho/img2threejs": "2026-07-22",
     "JustVugg/colibri": "2026-07-23",
     "Jakubantalik/thinking-orbs": "2026-07-23",
     "0xhype/hyperliquid-tracker": "2026-07-23",
@@ -19,10 +14,16 @@
     "unicity-aos/aos-ce": "2026-07-25",
     "slvDev/esp32-ai": "2026-07-25",
     "oso95/scroll-world": "2026-07-25",
-    "MDX-Tom/gpt-5.6-instruct": "2026-07-25"
+    "MDX-Tom/gpt-5.6-instruct": "2026-07-25",
+    "mikiarlo3/ai-copywriter": "2026-07-26",
+    "img2threejs/img2threejs": "2026-07-26",
+    "melloworchid8rr6g/TG-Polymarket-bot": "2026-07-26",
+    "elder-plinius/T3MP3ST": "2026-07-26",
+    "withmarbleapp/os-taxonomy": "2026-07-26",
+    "Blaizzy/nativ": "2026-07-26",
+    "powerycy/goutoujunshi": "2026-07-26"
   },
   "classic": {
-    "nilbuild/developer-roadmap": "2026-06-25",
     "microsoft/markitdown": "2026-06-26",
     "affaan-m/ECC": "2026-06-27",
     "Significant-Gravitas/AutoGPT": "2026-06-29",
