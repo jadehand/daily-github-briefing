@@ -1,10 +1,5 @@
 {
   "trending": {
-    "JustVugg/colibri": "2026-07-23",
-    "Jakubantalik/thinking-orbs": "2026-07-23",
-    "0xhype/hyperliquid-tracker": "2026-07-23",
-    "gnipbao/story-to-handdrawn-video": "2026-07-23",
-    "deepseek-ai/DeepSpec": "2026-07-23",
     "xai-org/grok-build": "2026-07-24",
     "lopopolo/harness-engineering": "2026-07-24",
     "andrewyng/openworker": "2026-07-24",
@@ -21,10 +16,14 @@
     "elder-plinius/T3MP3ST": "2026-07-26",
     "withmarbleapp/os-taxonomy": "2026-07-26",
     "Blaizzy/nativ": "2026-07-26",
-    "powerycy/goutoujunshi": "2026-07-26"
+    "powerycy/goutoujunshi": "2026-07-26",
+    "JustVugg/colibri": "2026-07-27",
+    "mshumer/Claude-of-Duty": "2026-07-27",
+    "nyblnet/bento": "2026-07-27",
+    "Jakubantalik/thinking-orbs": "2026-07-27",
+    "petergyang/no-ai-slop": "2026-07-27"
   },
   "classic": {
-    "microsoft/markitdown": "2026-06-26",
     "affaan-m/ECC": "2026-06-27",
     "Significant-Gravitas/AutoGPT": "2026-06-29",
     "flutter/flutter": "2026-06-30",
@@ -49,6 +48,7 @@
     "EbookFoundation/free-programming-books": "2026-07-22",
     "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
     "trimstray/the-book-of-secret-knowledge": "2026-07-24",
-    "vinta/awesome-python": "2026-07-25"
+    "vinta/awesome-python": "2026-07-25",
+    "practical-tutorials/project-based-learning": "2026-07-27"
   }
 }
