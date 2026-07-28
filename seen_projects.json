@@ -1,10 +1,5 @@
 {
   "trending": {
-    "xai-org/grok-build": "2026-07-24",
-    "lopopolo/harness-engineering": "2026-07-24",
-    "andrewyng/openworker": "2026-07-24",
-    "x4gKing/X4G": "2026-07-24",
-    "Vincentwei1021/video-shotcraft": "2026-07-24",
     "Fei-Away/Codex-Dream-Skin": "2026-07-25",
     "unicity-aos/aos-ce": "2026-07-25",
     "slvDev/esp32-ai": "2026-07-25",
@@ -21,10 +16,14 @@
     "mshumer/Claude-of-Duty": "2026-07-27",
     "nyblnet/bento": "2026-07-27",
     "Jakubantalik/thinking-orbs": "2026-07-27",
-    "petergyang/no-ai-slop": "2026-07-27"
+    "petergyang/no-ai-slop": "2026-07-27",
+    "xai-org/grok-build": "2026-07-28",
+    "MoonshotAI/Kimi-K3": "2026-07-28",
+    "andrewyng/openworker": "2026-07-28",
+    "0xwilliamortiz/openclaude-improved": "2026-07-28",
+    "vercel-labs/scriptc": "2026-07-28"
   },
   "classic": {
-    "affaan-m/ECC": "2026-06-27",
     "Significant-Gravitas/AutoGPT": "2026-06-29",
     "flutter/flutter": "2026-06-30",
     "ohmyzsh/ohmyzsh": "2026-07-01",
@@ -49,6 +48,7 @@
     "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
     "trimstray/the-book-of-secret-knowledge": "2026-07-24",
     "vinta/awesome-python": "2026-07-25",
-    "practical-tutorials/project-based-learning": "2026-07-27"
+    "practical-tutorials/project-based-learning": "2026-07-27",
+    "microsoft/vscode": "2026-07-28"
   }
 }
