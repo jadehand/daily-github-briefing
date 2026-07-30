@@ -1,12 +1,5 @@
 {
   "trending": {
-    "mikiarlo3/ai-copywriter": "2026-07-26",
-    "img2threejs/img2threejs": "2026-07-26",
-    "melloworchid8rr6g/TG-Polymarket-bot": "2026-07-26",
-    "elder-plinius/T3MP3ST": "2026-07-26",
-    "withmarbleapp/os-taxonomy": "2026-07-26",
-    "Blaizzy/nativ": "2026-07-26",
-    "powerycy/goutoujunshi": "2026-07-26",
     "JustVugg/colibri": "2026-07-27",
     "mshumer/Claude-of-Duty": "2026-07-27",
     "nyblnet/bento": "2026-07-27",
@@ -21,10 +14,14 @@
     "unicity-aos/aos-ce": "2026-07-29",
     "0xwilliamortiz/ponytail-improved": "2026-07-29",
     "slvDev/esp32-ai": "2026-07-29",
-    "kvcache-ai/AgentENV": "2026-07-29"
+    "kvcache-ai/AgentENV": "2026-07-29",
+    "img2threejs/img2threejs": "2026-07-30",
+    "xikhar/persona": "2026-07-30",
+    "talivia-group/talivia": "2026-07-30",
+    "openai/codex-security": "2026-07-30",
+    "digimata/quill": "2026-07-30"
   },
   "classic": {
-    "Significant-Gravitas/AutoGPT": "2026-06-29",
     "flutter/flutter": "2026-06-30",
     "ohmyzsh/ohmyzsh": "2026-07-01",
     "donnemartin/system-design-primer": "2026-07-02",
@@ -50,6 +47,7 @@
     "vinta/awesome-python": "2026-07-25",
     "practical-tutorials/project-based-learning": "2026-07-27",
     "microsoft/vscode": "2026-07-28",
-    "DigitalPlatDev/FreeDomain": "2026-07-29"
+    "DigitalPlatDev/FreeDomain": "2026-07-29",
+    "anomalyco/opencode": "2026-07-30"
   }
 }
