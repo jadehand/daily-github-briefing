@@ -1,10 +1,5 @@
 {
   "trending": {
-    "JustVugg/colibri": "2026-07-27",
-    "mshumer/Claude-of-Duty": "2026-07-27",
-    "nyblnet/bento": "2026-07-27",
-    "Jakubantalik/thinking-orbs": "2026-07-27",
-    "petergyang/no-ai-slop": "2026-07-27",
     "xai-org/grok-build": "2026-07-28",
     "MoonshotAI/Kimi-K3": "2026-07-28",
     "andrewyng/openworker": "2026-07-28",
@@ -19,10 +14,14 @@
     "xikhar/persona": "2026-07-30",
     "talivia-group/talivia": "2026-07-30",
     "openai/codex-security": "2026-07-30",
-    "digimata/quill": "2026-07-30"
+    "digimata/quill": "2026-07-30",
+    "JustVugg/colibri": "2026-07-31",
+    "mshumer/Claude-of-Duty": "2026-07-31",
+    "x4gKing/X4G": "2026-07-31",
+    "Vincentwei1021/video-shotcraft": "2026-07-31",
+    "oso95/scroll-world": "2026-07-31"
   },
   "classic": {
-    "flutter/flutter": "2026-06-30",
     "ohmyzsh/ohmyzsh": "2026-07-01",
     "donnemartin/system-design-primer": "2026-07-02",
     "react/react": "2026-07-03",
@@ -48,6 +47,7 @@
     "practical-tutorials/project-based-learning": "2026-07-27",
     "microsoft/vscode": "2026-07-28",
     "DigitalPlatDev/FreeDomain": "2026-07-29",
-    "anomalyco/opencode": "2026-07-30"
+    "anomalyco/opencode": "2026-07-30",
+    "multica-ai/andrej-karpathy-skills": "2026-07-31"
   }
 }
