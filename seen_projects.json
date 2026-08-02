@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Fei-Away/Codex-Dream-Skin": "2026-07-29",
-    "unicity-aos/aos-ce": "2026-07-29",
-    "0xwilliamortiz/ponytail-improved": "2026-07-29",
-    "slvDev/esp32-ai": "2026-07-29",
-    "kvcache-ai/AgentENV": "2026-07-29",
     "img2threejs/img2threejs": "2026-07-30",
     "xikhar/persona": "2026-07-30",
     "talivia-group/talivia": "2026-07-30",
@@ -19,10 +14,18 @@
     "MoonshotAI/Kimi-K3": "2026-08-01",
     "xai-org/grok-build": "2026-08-01",
     "yc-software/qm": "2026-08-01",
-    "andrewyng/openworker": "2026-08-01"
+    "andrewyng/openworker": "2026-08-01",
+    "Fei-Away/Codex-Dream-Skin": "2026-08-02",
+    "trycompai/crm": "2026-08-02",
+    "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-08-02",
+    "WilonityDev/WilonityLoader": "2026-08-02",
+    "unicity-aos/aos-ce": "2026-08-02",
+    "0xwilliamortiz/ratchet": "2026-08-02",
+    "QwenAudio/qwen-audio-agent": "2026-08-02",
+    "drumih/turbo-fieldfare": "2026-08-02",
+    "nyblnet/bento": "2026-08-02"
   },
   "classic": {
-    "donnemartin/system-design-primer": "2026-07-02",
     "react/react": "2026-07-03",
     "freeCodeCamp/freeCodeCamp": "2026-07-04",
     "ossu/computer-science": "2026-07-06",
