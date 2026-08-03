@@ -1,10 +1,5 @@
 {
   "trending": {
-    "img2threejs/img2threejs": "2026-07-30",
-    "xikhar/persona": "2026-07-30",
-    "talivia-group/talivia": "2026-07-30",
-    "openai/codex-security": "2026-07-30",
-    "digimata/quill": "2026-07-30",
     "JustVugg/colibri": "2026-07-31",
     "mshumer/Claude-of-Duty": "2026-07-31",
     "x4gKing/X4G": "2026-07-31",
@@ -23,10 +18,14 @@
     "0xwilliamortiz/ratchet": "2026-08-02",
     "QwenAudio/qwen-audio-agent": "2026-08-02",
     "drumih/turbo-fieldfare": "2026-08-02",
-    "nyblnet/bento": "2026-08-02"
+    "nyblnet/bento": "2026-08-02",
+    "DannyMac180/sol-advisor": "2026-08-03",
+    "0xwilliamortiz/humanizer-cli": "2026-08-03",
+    "img2threejs/img2threejs": "2026-08-03",
+    "openai/codex-security": "2026-08-03",
+    "digimata/quill": "2026-08-03"
   },
   "classic": {
-    "react/react": "2026-07-03",
     "freeCodeCamp/freeCodeCamp": "2026-07-04",
     "ossu/computer-science": "2026-07-06",
     "sindresorhus/awesome": "2026-07-07",
@@ -51,6 +50,7 @@
     "DigitalPlatDev/FreeDomain": "2026-07-29",
     "anomalyco/opencode": "2026-07-30",
     "multica-ai/andrej-karpathy-skills": "2026-07-31",
-    "ohmyzsh/ohmyzsh": "2026-08-01"
+    "ohmyzsh/ohmyzsh": "2026-08-01",
+    "codecrafters-io/build-your-own-x": "2026-08-03"
   }
 }
