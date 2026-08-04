@@ -1,10 +1,5 @@
 {
   "trending": {
-    "JustVugg/colibri": "2026-07-31",
-    "mshumer/Claude-of-Duty": "2026-07-31",
-    "x4gKing/X4G": "2026-07-31",
-    "Vincentwei1021/video-shotcraft": "2026-07-31",
-    "oso95/scroll-world": "2026-07-31",
     "bashalarmistalt/decimen-optical-transfer": "2026-08-01",
     "MoonshotAI/Kimi-K3": "2026-08-01",
     "xai-org/grok-build": "2026-08-01",
@@ -23,10 +18,14 @@
     "0xwilliamortiz/humanizer-cli": "2026-08-03",
     "img2threejs/img2threejs": "2026-08-03",
     "openai/codex-security": "2026-08-03",
-    "digimata/quill": "2026-08-03"
+    "digimata/quill": "2026-08-03",
+    "thebuggeddev/anatomy": "2026-08-04",
+    "FareedKhan-dev/kimi-k3-in-c": "2026-08-04",
+    "imsai-sh/zhuzhiliao": "2026-08-04",
+    "slvDev/esp32-ai": "2026-08-04",
+    "microsoft/skill-recorder": "2026-08-04"
   },
   "classic": {
-    "freeCodeCamp/freeCodeCamp": "2026-07-04",
     "ossu/computer-science": "2026-07-06",
     "sindresorhus/awesome": "2026-07-07",
     "vuejs/vue": "2026-07-08",
@@ -51,6 +50,7 @@
     "anomalyco/opencode": "2026-07-30",
     "multica-ai/andrej-karpathy-skills": "2026-07-31",
     "ohmyzsh/ohmyzsh": "2026-08-01",
-    "codecrafters-io/build-your-own-x": "2026-08-03"
+    "codecrafters-io/build-your-own-x": "2026-08-03",
+    "freeCodeCamp/freeCodeCamp": "2026-08-04"
   }
 }
