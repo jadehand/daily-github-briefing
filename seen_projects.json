@@ -1,10 +1,5 @@
 {
   "trending": {
-    "bashalarmistalt/decimen-optical-transfer": "2026-08-01",
-    "MoonshotAI/Kimi-K3": "2026-08-01",
-    "xai-org/grok-build": "2026-08-01",
-    "yc-software/qm": "2026-08-01",
-    "andrewyng/openworker": "2026-08-01",
     "Fei-Away/Codex-Dream-Skin": "2026-08-02",
     "trycompai/crm": "2026-08-02",
     "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-08-02",
@@ -23,7 +18,12 @@
     "FareedKhan-dev/kimi-k3-in-c": "2026-08-04",
     "imsai-sh/zhuzhiliao": "2026-08-04",
     "slvDev/esp32-ai": "2026-08-04",
-    "microsoft/skill-recorder": "2026-08-04"
+    "microsoft/skill-recorder": "2026-08-04",
+    "yc-software/qm": "2026-08-05",
+    "firecrawl/anydoc": "2026-08-05",
+    "xai-org/grok-build": "2026-08-05",
+    "MoonshotAI/Kimi-K3": "2026-08-05",
+    "bashalarmistalt/decimen-optical-transfer": "2026-08-05"
   },
   "classic": {
     "ossu/computer-science": "2026-07-06",
@@ -51,6 +51,7 @@
     "multica-ai/andrej-karpathy-skills": "2026-07-31",
     "ohmyzsh/ohmyzsh": "2026-08-01",
     "codecrafters-io/build-your-own-x": "2026-08-03",
-    "freeCodeCamp/freeCodeCamp": "2026-08-04"
+    "freeCodeCamp/freeCodeCamp": "2026-08-04",
+    "ollama/ollama": "2026-08-05"
   }
 }
