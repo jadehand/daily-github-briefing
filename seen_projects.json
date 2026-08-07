@@ -1,10 +1,5 @@
 {
   "trending": {
-    "DannyMac180/sol-advisor": "2026-08-03",
-    "0xwilliamortiz/humanizer-cli": "2026-08-03",
-    "img2threejs/img2threejs": "2026-08-03",
-    "openai/codex-security": "2026-08-03",
-    "digimata/quill": "2026-08-03",
     "thebuggeddev/anatomy": "2026-08-04",
     "FareedKhan-dev/kimi-k3-in-c": "2026-08-04",
     "imsai-sh/zhuzhiliao": "2026-08-04",
@@ -19,10 +14,14 @@
     "KKKKhazix/human-writing": "2026-08-06",
     "andrewyng/openworker": "2026-08-06",
     "Binaryify/open-kimi-ppt-skill": "2026-08-06",
-    "Fei-Away/Codex-Dream-Skin": "2026-08-06"
+    "Fei-Away/Codex-Dream-Skin": "2026-08-06",
+    "ZzzLc0405/photo-abstract-editorial": "2026-08-07",
+    "img2threejs/img2threejs": "2026-08-07",
+    "openai/codex-security": "2026-08-07",
+    "genspark-ai/genoffice": "2026-08-07",
+    "unicity-aos/aos-ce": "2026-08-07"
   },
   "classic": {
-    "sindresorhus/awesome": "2026-07-07",
     "vuejs/vue": "2026-07-08",
     "public-apis/public-apis": "2026-07-09",
     "huggingface/transformers": "2026-07-10",
@@ -48,6 +47,7 @@
     "codecrafters-io/build-your-own-x": "2026-08-03",
     "freeCodeCamp/freeCodeCamp": "2026-08-04",
     "ollama/ollama": "2026-08-05",
-    "f/prompts.chat": "2026-08-06"
+    "f/prompts.chat": "2026-08-06",
+    "ossu/computer-science": "2026-08-07"
   }
 }
