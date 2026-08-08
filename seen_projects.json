@@ -1,10 +1,5 @@
 {
   "trending": {
-    "thebuggeddev/anatomy": "2026-08-04",
-    "FareedKhan-dev/kimi-k3-in-c": "2026-08-04",
-    "imsai-sh/zhuzhiliao": "2026-08-04",
-    "slvDev/esp32-ai": "2026-08-04",
-    "microsoft/skill-recorder": "2026-08-04",
     "yc-software/qm": "2026-08-05",
     "firecrawl/anydoc": "2026-08-05",
     "xai-org/grok-build": "2026-08-05",
@@ -19,10 +14,14 @@
     "img2threejs/img2threejs": "2026-08-07",
     "openai/codex-security": "2026-08-07",
     "genspark-ai/genoffice": "2026-08-07",
-    "unicity-aos/aos-ce": "2026-08-07"
+    "unicity-aos/aos-ce": "2026-08-07",
+    "FareedKhan-dev/kimi-k3-in-c": "2026-08-08",
+    "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-08-08",
+    "imsai-sh/zhuzhiliao": "2026-08-08",
+    "thebuggeddev/anatomy": "2026-08-08",
+    "DannyMac180/sol-advisor": "2026-08-08"
   },
   "classic": {
-    "vuejs/vue": "2026-07-08",
     "public-apis/public-apis": "2026-07-09",
     "huggingface/transformers": "2026-07-10",
     "massgravel/Microsoft-Activation-Scripts": "2026-07-11",
@@ -48,6 +47,7 @@
     "freeCodeCamp/freeCodeCamp": "2026-08-04",
     "ollama/ollama": "2026-08-05",
     "f/prompts.chat": "2026-08-06",
-    "ossu/computer-science": "2026-08-07"
+    "ossu/computer-science": "2026-08-07",
+    "jackfrued/Python-100-Days": "2026-08-08"
   }
 }
