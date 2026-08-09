@@ -1,10 +1,5 @@
 {
   "trending": {
-    "yc-software/qm": "2026-08-05",
-    "firecrawl/anydoc": "2026-08-05",
-    "xai-org/grok-build": "2026-08-05",
-    "MoonshotAI/Kimi-K3": "2026-08-05",
-    "bashalarmistalt/decimen-optical-transfer": "2026-08-05",
     "trycompai/crm": "2026-08-06",
     "KKKKhazix/human-writing": "2026-08-06",
     "andrewyng/openworker": "2026-08-06",
@@ -19,10 +14,18 @@
     "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-08-08",
     "imsai-sh/zhuzhiliao": "2026-08-08",
     "thebuggeddev/anatomy": "2026-08-08",
-    "DannyMac180/sol-advisor": "2026-08-08"
+    "DannyMac180/sol-advisor": "2026-08-08",
+    "firecrawl/anydoc": "2026-08-09",
+    "yc-software/qm": "2026-08-09",
+    "xai-org/grok-build": "2026-08-09",
+    "MoonshotAI/Kimi-K3": "2026-08-09",
+    "bashalarmistalt/decimen-optical-transfer": "2026-08-09",
+    "digimata/quill": "2026-08-09",
+    "drumih/turbo-fieldfare": "2026-08-09",
+    "slvDev/esp32-ai": "2026-08-09",
+    "0xwilliamortiz/claude-red": "2026-08-09"
   },
   "classic": {
-    "public-apis/public-apis": "2026-07-09",
     "huggingface/transformers": "2026-07-10",
     "massgravel/Microsoft-Activation-Scripts": "2026-07-11",
     "yt-dlp/yt-dlp": "2026-07-13",
