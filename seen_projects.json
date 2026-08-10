@@ -1,10 +1,5 @@
 {
   "trending": {
-    "trycompai/crm": "2026-08-06",
-    "KKKKhazix/human-writing": "2026-08-06",
-    "andrewyng/openworker": "2026-08-06",
-    "Binaryify/open-kimi-ppt-skill": "2026-08-06",
-    "Fei-Away/Codex-Dream-Skin": "2026-08-06",
     "ZzzLc0405/photo-abstract-editorial": "2026-08-07",
     "img2threejs/img2threejs": "2026-08-07",
     "openai/codex-security": "2026-08-07",
@@ -23,10 +18,14 @@
     "digimata/quill": "2026-08-09",
     "drumih/turbo-fieldfare": "2026-08-09",
     "slvDev/esp32-ai": "2026-08-09",
-    "0xwilliamortiz/claude-red": "2026-08-09"
+    "0xwilliamortiz/claude-red": "2026-08-09",
+    "trycompai/crm": "2026-08-10",
+    "andrewyng/openworker": "2026-08-10",
+    "MengTo/kage": "2026-08-10",
+    "Fei-Away/Codex-Dream-Skin": "2026-08-10",
+    "ShawnPana/phone-harness": "2026-08-10"
   },
   "classic": {
-    "huggingface/transformers": "2026-07-10",
     "massgravel/Microsoft-Activation-Scripts": "2026-07-11",
     "yt-dlp/yt-dlp": "2026-07-13",
     "twbs/bootstrap": "2026-07-14",
@@ -51,6 +50,7 @@
     "ollama/ollama": "2026-08-05",
     "f/prompts.chat": "2026-08-06",
     "ossu/computer-science": "2026-08-07",
-    "jackfrued/Python-100-Days": "2026-08-08"
+    "jackfrued/Python-100-Days": "2026-08-08",
+    "affaan-m/ECC": "2026-08-10"
   }
 }
