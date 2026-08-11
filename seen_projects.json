@@ -1,10 +1,5 @@
 {
   "trending": {
-    "ZzzLc0405/photo-abstract-editorial": "2026-08-07",
-    "img2threejs/img2threejs": "2026-08-07",
-    "openai/codex-security": "2026-08-07",
-    "genspark-ai/genoffice": "2026-08-07",
-    "unicity-aos/aos-ce": "2026-08-07",
     "FareedKhan-dev/kimi-k3-in-c": "2026-08-08",
     "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-08-08",
     "imsai-sh/zhuzhiliao": "2026-08-08",
@@ -23,10 +18,14 @@
     "andrewyng/openworker": "2026-08-10",
     "MengTo/kage": "2026-08-10",
     "Fei-Away/Codex-Dream-Skin": "2026-08-10",
-    "ShawnPana/phone-harness": "2026-08-10"
+    "ShawnPana/phone-harness": "2026-08-10",
+    "SMNETSTUDIO/WeChat-AI": "2026-08-11",
+    "img2threejs/img2threejs": "2026-08-11",
+    "oil-oil/oil-motion": "2026-08-11",
+    "MiniMax-AI/MiniMax-H3": "2026-08-11",
+    "KKKKhazix/human-writing": "2026-08-11"
   },
   "classic": {
-    "massgravel/Microsoft-Activation-Scripts": "2026-07-11",
     "yt-dlp/yt-dlp": "2026-07-13",
     "twbs/bootstrap": "2026-07-14",
     "tensorflow/tensorflow": "2026-07-15",
@@ -51,6 +50,7 @@
     "f/prompts.chat": "2026-08-06",
     "ossu/computer-science": "2026-08-07",
     "jackfrued/Python-100-Days": "2026-08-08",
-    "affaan-m/ECC": "2026-08-10"
+    "affaan-m/ECC": "2026-08-10",
+    "awesome-selfhosted/awesome-selfhosted": "2026-08-11"
   }
 }
