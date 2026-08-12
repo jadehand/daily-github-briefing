@@ -1,10 +1,5 @@
 {
   "trending": {
-    "FareedKhan-dev/kimi-k3-in-c": "2026-08-08",
-    "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-08-08",
-    "imsai-sh/zhuzhiliao": "2026-08-08",
-    "thebuggeddev/anatomy": "2026-08-08",
-    "DannyMac180/sol-advisor": "2026-08-08",
     "firecrawl/anydoc": "2026-08-09",
     "yc-software/qm": "2026-08-09",
     "xai-org/grok-build": "2026-08-09",
@@ -23,7 +18,12 @@
     "img2threejs/img2threejs": "2026-08-11",
     "oil-oil/oil-motion": "2026-08-11",
     "MiniMax-AI/MiniMax-H3": "2026-08-11",
-    "KKKKhazix/human-writing": "2026-08-11"
+    "KKKKhazix/human-writing": "2026-08-11",
+    "sohaibdevv/youtube-music": "2026-08-12",
+    "antirez/h3.c": "2026-08-12",
+    "FareedKhan-dev/kimi-k3-in-c": "2026-08-12",
+    "gvzdv/claudish-to-english": "2026-08-12",
+    "shadcn-ui/chatbot-template": "2026-08-12"
   },
   "classic": {
     "yt-dlp/yt-dlp": "2026-07-13",
@@ -51,6 +51,7 @@
     "ossu/computer-science": "2026-08-07",
     "jackfrued/Python-100-Days": "2026-08-08",
     "affaan-m/ECC": "2026-08-10",
-    "awesome-selfhosted/awesome-selfhosted": "2026-08-11"
+    "awesome-selfhosted/awesome-selfhosted": "2026-08-11",
+    "flutter/flutter": "2026-08-12"
   }
 }
