@@ -1,14 +1,5 @@
 {
   "trending": {
-    "firecrawl/anydoc": "2026-08-09",
-    "yc-software/qm": "2026-08-09",
-    "xai-org/grok-build": "2026-08-09",
-    "MoonshotAI/Kimi-K3": "2026-08-09",
-    "bashalarmistalt/decimen-optical-transfer": "2026-08-09",
-    "digimata/quill": "2026-08-09",
-    "drumih/turbo-fieldfare": "2026-08-09",
-    "slvDev/esp32-ai": "2026-08-09",
-    "0xwilliamortiz/claude-red": "2026-08-09",
     "trycompai/crm": "2026-08-10",
     "andrewyng/openworker": "2026-08-10",
     "MengTo/kage": "2026-08-10",
@@ -23,10 +14,14 @@
     "antirez/h3.c": "2026-08-12",
     "FareedKhan-dev/kimi-k3-in-c": "2026-08-12",
     "gvzdv/claudish-to-english": "2026-08-12",
-    "shadcn-ui/chatbot-template": "2026-08-12"
+    "shadcn-ui/chatbot-template": "2026-08-12",
+    "guillaumemeyer/watermarks-remover": "2026-08-13",
+    "firecrawl/anydoc": "2026-08-13",
+    "yc-software/qm": "2026-08-13",
+    "xai-org/grok-build": "2026-08-13",
+    "milind-soni/OpenMausBot": "2026-08-13"
   },
   "classic": {
-    "yt-dlp/yt-dlp": "2026-07-13",
     "twbs/bootstrap": "2026-07-14",
     "tensorflow/tensorflow": "2026-07-15",
     "NousResearch/hermes-agent": "2026-07-16",
@@ -52,6 +47,7 @@
     "jackfrued/Python-100-Days": "2026-08-08",
     "affaan-m/ECC": "2026-08-10",
     "awesome-selfhosted/awesome-selfhosted": "2026-08-11",
-    "flutter/flutter": "2026-08-12"
+    "flutter/flutter": "2026-08-12",
+    "Significant-Gravitas/AutoGPT": "2026-08-13"
   }
 }
