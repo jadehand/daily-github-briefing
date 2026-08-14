@@ -1,10 +1,5 @@
 {
   "trending": {
-    "trycompai/crm": "2026-08-10",
-    "andrewyng/openworker": "2026-08-10",
-    "MengTo/kage": "2026-08-10",
-    "Fei-Away/Codex-Dream-Skin": "2026-08-10",
-    "ShawnPana/phone-harness": "2026-08-10",
     "SMNETSTUDIO/WeChat-AI": "2026-08-11",
     "img2threejs/img2threejs": "2026-08-11",
     "oil-oil/oil-motion": "2026-08-11",
@@ -19,10 +14,14 @@
     "firecrawl/anydoc": "2026-08-13",
     "yc-software/qm": "2026-08-13",
     "xai-org/grok-build": "2026-08-13",
-    "milind-soni/OpenMausBot": "2026-08-13"
+    "milind-soni/OpenMausBot": "2026-08-13",
+    "deepseek-ai/deepseek-harness": "2026-08-14",
+    "Leutenegger/book-to-skill": "2026-08-14",
+    "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-14",
+    "cordiverse/paper": "2026-08-14",
+    "zhu1090093659/dsh-web-ui": "2026-08-14"
   },
   "classic": {
-    "twbs/bootstrap": "2026-07-14",
     "tensorflow/tensorflow": "2026-07-15",
     "NousResearch/hermes-agent": "2026-07-16",
     "n8n-io/n8n": "2026-07-17",
@@ -48,6 +47,7 @@
     "affaan-m/ECC": "2026-08-10",
     "awesome-selfhosted/awesome-selfhosted": "2026-08-11",
     "flutter/flutter": "2026-08-12",
-    "Significant-Gravitas/AutoGPT": "2026-08-13"
+    "Significant-Gravitas/AutoGPT": "2026-08-13",
+    "public-apis/public-apis": "2026-08-14"
   }
 }
