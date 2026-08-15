@@ -1,10 +1,5 @@
 {
   "trending": {
-    "SMNETSTUDIO/WeChat-AI": "2026-08-11",
-    "img2threejs/img2threejs": "2026-08-11",
-    "oil-oil/oil-motion": "2026-08-11",
-    "MiniMax-AI/MiniMax-H3": "2026-08-11",
-    "KKKKhazix/human-writing": "2026-08-11",
     "sohaibdevv/youtube-music": "2026-08-12",
     "antirez/h3.c": "2026-08-12",
     "FareedKhan-dev/kimi-k3-in-c": "2026-08-12",
@@ -19,10 +14,14 @@
     "Leutenegger/book-to-skill": "2026-08-14",
     "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-14",
     "cordiverse/paper": "2026-08-14",
-    "zhu1090093659/dsh-web-ui": "2026-08-14"
+    "zhu1090093659/dsh-web-ui": "2026-08-14",
+    "anywhere-labs/deepseek-harness-desktop": "2026-08-15",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-15",
+    "ccch1mneyyy/dsh-TUI": "2026-08-15",
+    "trycompai/crm": "2026-08-15",
+    "Small-tailqwq/dsh-deep-whale": "2026-08-15"
   },
   "classic": {
-    "tensorflow/tensorflow": "2026-07-15",
     "NousResearch/hermes-agent": "2026-07-16",
     "n8n-io/n8n": "2026-07-17",
     "torvalds/linux": "2026-07-18",
@@ -48,6 +47,7 @@
     "awesome-selfhosted/awesome-selfhosted": "2026-08-11",
     "flutter/flutter": "2026-08-12",
     "Significant-Gravitas/AutoGPT": "2026-08-13",
-    "public-apis/public-apis": "2026-08-14"
+    "public-apis/public-apis": "2026-08-14",
+    "github/gitignore": "2026-08-15"
   }
 }
