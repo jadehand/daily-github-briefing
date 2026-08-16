@@ -1,10 +1,5 @@
 {
   "trending": {
-    "sohaibdevv/youtube-music": "2026-08-12",
-    "antirez/h3.c": "2026-08-12",
-    "FareedKhan-dev/kimi-k3-in-c": "2026-08-12",
-    "gvzdv/claudish-to-english": "2026-08-12",
-    "shadcn-ui/chatbot-template": "2026-08-12",
     "guillaumemeyer/watermarks-remover": "2026-08-13",
     "firecrawl/anydoc": "2026-08-13",
     "yc-software/qm": "2026-08-13",
@@ -19,10 +14,16 @@
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-15",
     "ccch1mneyyy/dsh-TUI": "2026-08-15",
     "trycompai/crm": "2026-08-15",
-    "Small-tailqwq/dsh-deep-whale": "2026-08-15"
+    "Small-tailqwq/dsh-deep-whale": "2026-08-15",
+    "xiaobright/dsh-anchored-standard": "2026-08-16",
+    "yjh051108/dsh-routing-suite": "2026-08-16",
+    "andrewyng/openworker": "2026-08-16",
+    "MoonshotAI/Kimi-K3": "2026-08-16",
+    "dmmulroy/anti-slop": "2026-08-16",
+    "FareedKhan-dev/kimi-k3-in-c": "2026-08-16",
+    "MiniMax-AI/MiniMax-H3": "2026-08-16"
   },
   "classic": {
-    "NousResearch/hermes-agent": "2026-07-16",
     "n8n-io/n8n": "2026-07-17",
     "torvalds/linux": "2026-07-18",
     "trekhleb/javascript-algorithms": "2026-07-20",
