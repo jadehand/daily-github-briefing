@@ -1,10 +1,5 @@
 {
   "trending": {
-    "guillaumemeyer/watermarks-remover": "2026-08-13",
-    "firecrawl/anydoc": "2026-08-13",
-    "yc-software/qm": "2026-08-13",
-    "xai-org/grok-build": "2026-08-13",
-    "milind-soni/OpenMausBot": "2026-08-13",
     "deepseek-ai/deepseek-harness": "2026-08-14",
     "Leutenegger/book-to-skill": "2026-08-14",
     "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-14",
@@ -21,10 +16,13 @@
     "MoonshotAI/Kimi-K3": "2026-08-16",
     "dmmulroy/anti-slop": "2026-08-16",
     "FareedKhan-dev/kimi-k3-in-c": "2026-08-16",
-    "MiniMax-AI/MiniMax-H3": "2026-08-16"
+    "MiniMax-AI/MiniMax-H3": "2026-08-16",
+    "guillaumemeyer/watermarks-remover": "2026-08-17",
+    "firecrawl/anydoc": "2026-08-17",
+    "yc-software/qm": "2026-08-17",
+    "alchaincyf/deepseek-harness-orange-book": "2026-08-17"
   },
   "classic": {
-    "n8n-io/n8n": "2026-07-17",
     "torvalds/linux": "2026-07-18",
     "trekhleb/javascript-algorithms": "2026-07-20",
     "ultraworkers/claw-code": "2026-07-21",
@@ -49,6 +47,7 @@
     "flutter/flutter": "2026-08-12",
     "Significant-Gravitas/AutoGPT": "2026-08-13",
     "public-apis/public-apis": "2026-08-14",
-    "github/gitignore": "2026-08-15"
+    "github/gitignore": "2026-08-15",
+    "openclaw/openclaw": "2026-08-17"
   }
 }
