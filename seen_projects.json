@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-08-14",
-    "Leutenegger/book-to-skill": "2026-08-14",
-    "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-14",
-    "cordiverse/paper": "2026-08-14",
-    "zhu1090093659/dsh-web-ui": "2026-08-14",
     "anywhere-labs/deepseek-harness-desktop": "2026-08-15",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-15",
     "ccch1mneyyy/dsh-TUI": "2026-08-15",
@@ -20,10 +15,14 @@
     "guillaumemeyer/watermarks-remover": "2026-08-17",
     "firecrawl/anydoc": "2026-08-17",
     "yc-software/qm": "2026-08-17",
-    "alchaincyf/deepseek-harness-orange-book": "2026-08-17"
+    "alchaincyf/deepseek-harness-orange-book": "2026-08-17",
+    "deepseek-ai/deepseek-harness": "2026-08-18",
+    "yetone/cumora": "2026-08-18",
+    "zhu1090093659/dsh-web-ui": "2026-08-18",
+    "cordiverse/paper": "2026-08-18",
+    "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-18"
   },
   "classic": {
-    "torvalds/linux": "2026-07-18",
     "trekhleb/javascript-algorithms": "2026-07-20",
     "ultraworkers/claw-code": "2026-07-21",
     "EbookFoundation/free-programming-books": "2026-07-22",
@@ -48,6 +47,7 @@
     "Significant-Gravitas/AutoGPT": "2026-08-13",
     "public-apis/public-apis": "2026-08-14",
     "github/gitignore": "2026-08-15",
-    "openclaw/openclaw": "2026-08-17"
+    "openclaw/openclaw": "2026-08-17",
+    "huggingface/transformers": "2026-08-18"
   }
 }
