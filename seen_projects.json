@@ -1,10 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/deepseek-harness-desktop": "2026-08-15",
-    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-15",
-    "ccch1mneyyy/dsh-TUI": "2026-08-15",
-    "trycompai/crm": "2026-08-15",
-    "Small-tailqwq/dsh-deep-whale": "2026-08-15",
     "xiaobright/dsh-anchored-standard": "2026-08-16",
     "yjh051108/dsh-routing-suite": "2026-08-16",
     "andrewyng/openworker": "2026-08-16",
@@ -20,7 +15,12 @@
     "yetone/cumora": "2026-08-18",
     "zhu1090093659/dsh-web-ui": "2026-08-18",
     "cordiverse/paper": "2026-08-18",
-    "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-18"
+    "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-18",
+    "anywhere-labs/deepseek-harness-desktop": "2026-08-19",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-19",
+    "jdshfhds/northcinder": "2026-08-19",
+    "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report": "2026-08-19",
+    "trycompai/crm": "2026-08-19"
   },
   "classic": {
     "trekhleb/javascript-algorithms": "2026-07-20",
@@ -48,6 +48,7 @@
     "public-apis/public-apis": "2026-08-14",
     "github/gitignore": "2026-08-15",
     "openclaw/openclaw": "2026-08-17",
-    "huggingface/transformers": "2026-08-18"
+    "huggingface/transformers": "2026-08-18",
+    "mattpocock/skills": "2026-08-19"
   }
 }
