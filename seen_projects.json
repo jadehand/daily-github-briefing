@@ -1,12 +1,5 @@
 {
   "trending": {
-    "xiaobright/dsh-anchored-standard": "2026-08-16",
-    "yjh051108/dsh-routing-suite": "2026-08-16",
-    "andrewyng/openworker": "2026-08-16",
-    "MoonshotAI/Kimi-K3": "2026-08-16",
-    "dmmulroy/anti-slop": "2026-08-16",
-    "FareedKhan-dev/kimi-k3-in-c": "2026-08-16",
-    "MiniMax-AI/MiniMax-H3": "2026-08-16",
     "guillaumemeyer/watermarks-remover": "2026-08-17",
     "firecrawl/anydoc": "2026-08-17",
     "yc-software/qm": "2026-08-17",
@@ -20,10 +13,14 @@
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-19",
     "jdshfhds/northcinder": "2026-08-19",
     "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report": "2026-08-19",
-    "trycompai/crm": "2026-08-19"
+    "trycompai/crm": "2026-08-19",
+    "s1dashu/ip-as-logo-skill": "2026-08-20",
+    "yjh051108/dsh-routing-suite": "2026-08-20",
+    "Leutenegger/watermarks-remover": "2026-08-20",
+    "xiaobright/dsh-anchored-standard": "2026-08-20",
+    "cinderline/northcinder": "2026-08-20"
   },
   "classic": {
-    "trekhleb/javascript-algorithms": "2026-07-20",
     "ultraworkers/claw-code": "2026-07-21",
     "EbookFoundation/free-programming-books": "2026-07-22",
     "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
@@ -49,6 +46,7 @@
     "github/gitignore": "2026-08-15",
     "openclaw/openclaw": "2026-08-17",
     "huggingface/transformers": "2026-08-18",
-    "mattpocock/skills": "2026-08-19"
+    "mattpocock/skills": "2026-08-19",
+    "TheAlgorithms/Python": "2026-08-20"
   }
 }
