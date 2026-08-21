@@ -1,9 +1,5 @@
 {
   "trending": {
-    "guillaumemeyer/watermarks-remover": "2026-08-17",
-    "firecrawl/anydoc": "2026-08-17",
-    "yc-software/qm": "2026-08-17",
-    "alchaincyf/deepseek-harness-orange-book": "2026-08-17",
     "deepseek-ai/deepseek-harness": "2026-08-18",
     "yetone/cumora": "2026-08-18",
     "zhu1090093659/dsh-web-ui": "2026-08-18",
@@ -18,10 +14,14 @@
     "yjh051108/dsh-routing-suite": "2026-08-20",
     "Leutenegger/watermarks-remover": "2026-08-20",
     "xiaobright/dsh-anchored-standard": "2026-08-20",
-    "cinderline/northcinder": "2026-08-20"
+    "cinderline/northcinder": "2026-08-20",
+    "guillaumemeyer/watermarks-remover": "2026-08-21",
+    "firecrawl/anydoc": "2026-08-21",
+    "Leutenegger/vanity-eth": "2026-08-21",
+    "yc-software/qm": "2026-08-21",
+    "CopilotKit/OpenBot": "2026-08-21"
   },
   "classic": {
-    "ultraworkers/claw-code": "2026-07-21",
     "EbookFoundation/free-programming-books": "2026-07-22",
     "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
     "trimstray/the-book-of-secret-knowledge": "2026-07-24",
@@ -47,6 +47,7 @@
     "openclaw/openclaw": "2026-08-17",
     "huggingface/transformers": "2026-08-18",
     "mattpocock/skills": "2026-08-19",
-    "TheAlgorithms/Python": "2026-08-20"
+    "TheAlgorithms/Python": "2026-08-20",
+    "521xueweihan/HelloGitHub": "2026-08-21"
   }
 }
