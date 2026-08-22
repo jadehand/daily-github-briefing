@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-08-18",
-    "yetone/cumora": "2026-08-18",
-    "zhu1090093659/dsh-web-ui": "2026-08-18",
-    "cordiverse/paper": "2026-08-18",
-    "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-18",
     "anywhere-labs/deepseek-harness-desktop": "2026-08-19",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-19",
     "jdshfhds/northcinder": "2026-08-19",
@@ -19,10 +14,14 @@
     "firecrawl/anydoc": "2026-08-21",
     "Leutenegger/vanity-eth": "2026-08-21",
     "yc-software/qm": "2026-08-21",
-    "CopilotKit/OpenBot": "2026-08-21"
+    "CopilotKit/OpenBot": "2026-08-21",
+    "deepseek-ai/deepseek-harness": "2026-08-22",
+    "yetone/cumora": "2026-08-22",
+    "Leutenegger/coldcard-airgap": "2026-08-22",
+    "zhu1090093659/dsh-web-ui": "2026-08-22",
+    "Leutenegger/claudish-to-english": "2026-08-22"
   },
   "classic": {
-    "EbookFoundation/free-programming-books": "2026-07-22",
     "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
     "trimstray/the-book-of-secret-knowledge": "2026-07-24",
     "vinta/awesome-python": "2026-07-25",
@@ -48,6 +47,7 @@
     "huggingface/transformers": "2026-08-18",
     "mattpocock/skills": "2026-08-19",
     "TheAlgorithms/Python": "2026-08-20",
-    "521xueweihan/HelloGitHub": "2026-08-21"
+    "521xueweihan/HelloGitHub": "2026-08-21",
+    "jwasham/coding-interview-university": "2026-08-22"
   }
 }
