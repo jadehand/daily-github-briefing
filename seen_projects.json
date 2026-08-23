@@ -1,10 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/deepseek-harness-desktop": "2026-08-19",
-    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-19",
-    "jdshfhds/northcinder": "2026-08-19",
-    "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report": "2026-08-19",
-    "trycompai/crm": "2026-08-19",
     "s1dashu/ip-as-logo-skill": "2026-08-20",
     "yjh051108/dsh-routing-suite": "2026-08-20",
     "Leutenegger/watermarks-remover": "2026-08-20",
@@ -19,10 +14,16 @@
     "yetone/cumora": "2026-08-22",
     "Leutenegger/coldcard-airgap": "2026-08-22",
     "zhu1090093659/dsh-web-ui": "2026-08-22",
-    "Leutenegger/claudish-to-english": "2026-08-22"
+    "Leutenegger/claudish-to-english": "2026-08-22",
+    "anywhere-labs/deepseek-harness-desktop": "2026-08-23",
+    "MengTo/threeui": "2026-08-23",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-23",
+    "trycompai/crm": "2026-08-23",
+    "MoonshotAI/Kimi-K3": "2026-08-23",
+    "wang2122/sprix-sage-router": "2026-08-23",
+    "FareedKhan-dev/kimi-k3-in-c": "2026-08-23"
   },
   "classic": {
-    "AUTOMATIC1111/stable-diffusion-webui": "2026-07-23",
     "trimstray/the-book-of-secret-knowledge": "2026-07-24",
     "vinta/awesome-python": "2026-07-25",
     "practical-tutorials/project-based-learning": "2026-07-27",
