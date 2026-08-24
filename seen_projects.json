@@ -1,10 +1,5 @@
 {
   "trending": {
-    "s1dashu/ip-as-logo-skill": "2026-08-20",
-    "yjh051108/dsh-routing-suite": "2026-08-20",
-    "Leutenegger/watermarks-remover": "2026-08-20",
-    "xiaobright/dsh-anchored-standard": "2026-08-20",
-    "cinderline/northcinder": "2026-08-20",
     "guillaumemeyer/watermarks-remover": "2026-08-21",
     "firecrawl/anydoc": "2026-08-21",
     "Leutenegger/vanity-eth": "2026-08-21",
@@ -21,10 +16,14 @@
     "trycompai/crm": "2026-08-23",
     "MoonshotAI/Kimi-K3": "2026-08-23",
     "wang2122/sprix-sage-router": "2026-08-23",
-    "FareedKhan-dev/kimi-k3-in-c": "2026-08-23"
+    "FareedKhan-dev/kimi-k3-in-c": "2026-08-23",
+    "duty1g/x64dbg-mcp-server": "2026-08-24",
+    "s1dashu/ip-as-logo-skill": "2026-08-24",
+    "ShadowAqueduct/watermark-remover": "2026-08-24",
+    "yjh051108/dsh-routing-suite": "2026-08-24",
+    "xiaobright/dsh-anchored-standard": "2026-08-24"
   },
   "classic": {
-    "trimstray/the-book-of-secret-knowledge": "2026-07-24",
     "vinta/awesome-python": "2026-07-25",
     "practical-tutorials/project-based-learning": "2026-07-27",
     "microsoft/vscode": "2026-07-28",
@@ -49,6 +48,7 @@
     "mattpocock/skills": "2026-08-19",
     "TheAlgorithms/Python": "2026-08-20",
     "521xueweihan/HelloGitHub": "2026-08-21",
-    "jwasham/coding-interview-university": "2026-08-22"
+    "jwasham/coding-interview-university": "2026-08-22",
+    "EbookFoundation/free-programming-books": "2026-08-24"
   }
 }
