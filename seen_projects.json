@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-08-22",
-    "yetone/cumora": "2026-08-22",
-    "Leutenegger/coldcard-airgap": "2026-08-22",
-    "zhu1090093659/dsh-web-ui": "2026-08-22",
-    "Leutenegger/claudish-to-english": "2026-08-22",
     "anywhere-labs/deepseek-harness-desktop": "2026-08-23",
     "MengTo/threeui": "2026-08-23",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-23",
@@ -21,7 +16,12 @@
     "b-nnett/grok-bot-0.18-reconstructed": "2026-08-25",
     "guillaumemeyer/watermarks-remover": "2026-08-25",
     "tobi/walgit": "2026-08-25",
-    "firecrawl/anydoc": "2026-08-25"
+    "firecrawl/anydoc": "2026-08-25",
+    "deepseek-ai/deepseek-harness": "2026-08-26",
+    "bryllim/workout-guide": "2026-08-26",
+    "yc-software/qm": "2026-08-26",
+    "zhu1090093659/dsh-web": "2026-08-26",
+    "nateherkai/scroll-craft": "2026-08-26"
   },
   "classic": {
     "practical-tutorials/project-based-learning": "2026-07-27",
@@ -49,6 +49,7 @@
     "521xueweihan/HelloGitHub": "2026-08-21",
     "jwasham/coding-interview-university": "2026-08-22",
     "EbookFoundation/free-programming-books": "2026-08-24",
-    "react/react": "2026-08-25"
+    "react/react": "2026-08-25",
+    "avelino/awesome-go": "2026-08-26"
   }
 }
