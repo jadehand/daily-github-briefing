@@ -1,12 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/deepseek-harness-desktop": "2026-08-23",
-    "MengTo/threeui": "2026-08-23",
-    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-23",
-    "trycompai/crm": "2026-08-23",
-    "MoonshotAI/Kimi-K3": "2026-08-23",
-    "wang2122/sprix-sage-router": "2026-08-23",
-    "FareedKhan-dev/kimi-k3-in-c": "2026-08-23",
     "duty1g/x64dbg-mcp-server": "2026-08-24",
     "s1dashu/ip-as-logo-skill": "2026-08-24",
     "ShadowAqueduct/watermark-remover": "2026-08-24",
@@ -21,10 +14,14 @@
     "bryllim/workout-guide": "2026-08-26",
     "yc-software/qm": "2026-08-26",
     "zhu1090093659/dsh-web": "2026-08-26",
-    "nateherkai/scroll-craft": "2026-08-26"
+    "nateherkai/scroll-craft": "2026-08-26",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-27",
+    "MengTo/threeui": "2026-08-27",
+    "wide-trace/open-higgsfield": "2026-08-27",
+    "trycompai/crm": "2026-08-27",
+    "pathwaycom/arc-task-gen": "2026-08-27"
   },
   "classic": {
-    "practical-tutorials/project-based-learning": "2026-07-27",
     "microsoft/vscode": "2026-07-28",
     "DigitalPlatDev/FreeDomain": "2026-07-29",
     "anomalyco/opencode": "2026-07-30",
@@ -50,6 +47,7 @@
     "jwasham/coding-interview-university": "2026-08-22",
     "EbookFoundation/free-programming-books": "2026-08-24",
     "react/react": "2026-08-25",
-    "avelino/awesome-go": "2026-08-26"
+    "avelino/awesome-go": "2026-08-26",
+    "nilbuild/developer-roadmap": "2026-08-27"
   }
 }
