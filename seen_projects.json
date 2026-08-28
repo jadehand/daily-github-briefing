@@ -1,10 +1,5 @@
 {
   "trending": {
-    "duty1g/x64dbg-mcp-server": "2026-08-24",
-    "s1dashu/ip-as-logo-skill": "2026-08-24",
-    "ShadowAqueduct/watermark-remover": "2026-08-24",
-    "yjh051108/dsh-routing-suite": "2026-08-24",
-    "xiaobright/dsh-anchored-standard": "2026-08-24",
     "anywhere-labs/dsh-desktop": "2026-08-25",
     "b-nnett/grok-bot-0.18-reconstructed": "2026-08-25",
     "guillaumemeyer/watermarks-remover": "2026-08-25",
@@ -19,10 +14,14 @@
     "MengTo/threeui": "2026-08-27",
     "wide-trace/open-higgsfield": "2026-08-27",
     "trycompai/crm": "2026-08-27",
-    "pathwaycom/arc-task-gen": "2026-08-27"
+    "pathwaycom/arc-task-gen": "2026-08-27",
+    "HEJustinSun/my-girlfriend-jingtian-latex": "2026-08-28",
+    "sapientinc/PRAXIST": "2026-08-28",
+    "yjh051108/dsh-routing-suite": "2026-08-28",
+    "s1dashu/ip-as-logo-skill": "2026-08-28",
+    "duty1g/x64dbg-mcp-server": "2026-08-28"
   },
   "classic": {
-    "microsoft/vscode": "2026-07-28",
     "DigitalPlatDev/FreeDomain": "2026-07-29",
     "anomalyco/opencode": "2026-07-30",
     "multica-ai/andrej-karpathy-skills": "2026-07-31",
@@ -48,6 +47,7 @@
     "EbookFoundation/free-programming-books": "2026-08-24",
     "react/react": "2026-08-25",
     "avelino/awesome-go": "2026-08-26",
-    "nilbuild/developer-roadmap": "2026-08-27"
+    "nilbuild/developer-roadmap": "2026-08-27",
+    "vinta/awesome-python": "2026-08-28"
   }
 }
