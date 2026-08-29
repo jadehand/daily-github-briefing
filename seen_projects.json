@@ -1,10 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/dsh-desktop": "2026-08-25",
-    "b-nnett/grok-bot-0.18-reconstructed": "2026-08-25",
-    "guillaumemeyer/watermarks-remover": "2026-08-25",
-    "tobi/walgit": "2026-08-25",
-    "firecrawl/anydoc": "2026-08-25",
     "deepseek-ai/deepseek-harness": "2026-08-26",
     "bryllim/workout-guide": "2026-08-26",
     "yc-software/qm": "2026-08-26",
@@ -19,10 +14,14 @@
     "sapientinc/PRAXIST": "2026-08-28",
     "yjh051108/dsh-routing-suite": "2026-08-28",
     "s1dashu/ip-as-logo-skill": "2026-08-28",
-    "duty1g/x64dbg-mcp-server": "2026-08-28"
+    "duty1g/x64dbg-mcp-server": "2026-08-28",
+    "anywhere-labs/dsh-desktop": "2026-08-29",
+    "guillaumemeyer/watermarks-remover": "2026-08-29",
+    "firecrawl/anydoc": "2026-08-29",
+    "b-nnett/grok-bot-0.18-reconstructed": "2026-08-29",
+    "tobi/walgit": "2026-08-29"
   },
   "classic": {
-    "DigitalPlatDev/FreeDomain": "2026-07-29",
     "anomalyco/opencode": "2026-07-30",
     "multica-ai/andrej-karpathy-skills": "2026-07-31",
     "ohmyzsh/ohmyzsh": "2026-08-01",
@@ -48,6 +47,7 @@
     "react/react": "2026-08-25",
     "avelino/awesome-go": "2026-08-26",
     "nilbuild/developer-roadmap": "2026-08-27",
-    "vinta/awesome-python": "2026-08-28"
+    "vinta/awesome-python": "2026-08-28",
+    "sindresorhus/awesome": "2026-08-29"
   }
 }
