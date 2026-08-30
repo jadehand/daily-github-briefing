@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-08-26",
-    "bryllim/workout-guide": "2026-08-26",
-    "yc-software/qm": "2026-08-26",
-    "zhu1090093659/dsh-web": "2026-08-26",
-    "nateherkai/scroll-craft": "2026-08-26",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-27",
     "MengTo/threeui": "2026-08-27",
     "wide-trace/open-higgsfield": "2026-08-27",
@@ -19,10 +14,16 @@
     "guillaumemeyer/watermarks-remover": "2026-08-29",
     "firecrawl/anydoc": "2026-08-29",
     "b-nnett/grok-bot-0.18-reconstructed": "2026-08-29",
-    "tobi/walgit": "2026-08-29"
+    "tobi/walgit": "2026-08-29",
+    "deepseek-ai/deepseek-harness": "2026-08-30",
+    "XiaoDuoYa/codex-with-chatgpt": "2026-08-30",
+    "MetaMask-AI/metamask-desktop": "2026-08-30",
+    "Nanako0129/sepia": "2026-08-30",
+    "chrisgreg/boop": "2026-08-30",
+    "zhu1090093659/dsh-web": "2026-08-30",
+    "tradecatlabs/shulihuazixuecongshu": "2026-08-30"
   },
   "classic": {
-    "anomalyco/opencode": "2026-07-30",
     "multica-ai/andrej-karpathy-skills": "2026-07-31",
     "ohmyzsh/ohmyzsh": "2026-08-01",
     "codecrafters-io/build-your-own-x": "2026-08-03",
