@@ -1,10 +1,5 @@
 {
   "trending": {
-    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-27",
-    "MengTo/threeui": "2026-08-27",
-    "wide-trace/open-higgsfield": "2026-08-27",
-    "trycompai/crm": "2026-08-27",
-    "pathwaycom/arc-task-gen": "2026-08-27",
     "HEJustinSun/my-girlfriend-jingtian-latex": "2026-08-28",
     "sapientinc/PRAXIST": "2026-08-28",
     "yjh051108/dsh-routing-suite": "2026-08-28",
@@ -21,10 +16,14 @@
     "Nanako0129/sepia": "2026-08-30",
     "chrisgreg/boop": "2026-08-30",
     "zhu1090093659/dsh-web": "2026-08-30",
-    "tradecatlabs/shulihuazixuecongshu": "2026-08-30"
+    "tradecatlabs/shulihuazixuecongshu": "2026-08-30",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-31",
+    "MengTo/threeui": "2026-08-31",
+    "cbrock84/headcount": "2026-08-31",
+    "pathwaycom/arc-task-gen": "2026-08-31",
+    "wide-trace/open-higgsfield": "2026-08-31"
   },
   "classic": {
-    "multica-ai/andrej-karpathy-skills": "2026-07-31",
     "ohmyzsh/ohmyzsh": "2026-08-01",
     "codecrafters-io/build-your-own-x": "2026-08-03",
     "freeCodeCamp/freeCodeCamp": "2026-08-04",
@@ -49,6 +48,7 @@
     "avelino/awesome-go": "2026-08-26",
     "nilbuild/developer-roadmap": "2026-08-27",
     "vinta/awesome-python": "2026-08-28",
-    "sindresorhus/awesome": "2026-08-29"
+    "sindresorhus/awesome": "2026-08-29",
+    "n8n-io/n8n": "2026-08-31"
   }
 }
