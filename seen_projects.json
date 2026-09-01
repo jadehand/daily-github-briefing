@@ -1,10 +1,5 @@
 {
   "trending": {
-    "HEJustinSun/my-girlfriend-jingtian-latex": "2026-08-28",
-    "sapientinc/PRAXIST": "2026-08-28",
-    "yjh051108/dsh-routing-suite": "2026-08-28",
-    "s1dashu/ip-as-logo-skill": "2026-08-28",
-    "duty1g/x64dbg-mcp-server": "2026-08-28",
     "anywhere-labs/dsh-desktop": "2026-08-29",
     "guillaumemeyer/watermarks-remover": "2026-08-29",
     "firecrawl/anydoc": "2026-08-29",
@@ -21,10 +16,14 @@
     "MengTo/threeui": "2026-08-31",
     "cbrock84/headcount": "2026-08-31",
     "pathwaycom/arc-task-gen": "2026-08-31",
-    "wide-trace/open-higgsfield": "2026-08-31"
+    "wide-trace/open-higgsfield": "2026-08-31",
+    "sapientinc/PRAXIST": "2026-09-01",
+    "HEJustinSun/my-girlfriend-jingtian-latex": "2026-09-01",
+    "GangTailorUpgrade/CoomeRtool": "2026-09-01",
+    "yjh051108/dsh-routing-suite": "2026-09-01",
+    "s1dashu/ip-as-logo-skill": "2026-09-01"
   },
   "classic": {
-    "ohmyzsh/ohmyzsh": "2026-08-01",
     "codecrafters-io/build-your-own-x": "2026-08-03",
     "freeCodeCamp/freeCodeCamp": "2026-08-04",
     "ollama/ollama": "2026-08-05",
@@ -49,6 +48,7 @@
     "nilbuild/developer-roadmap": "2026-08-27",
     "vinta/awesome-python": "2026-08-28",
     "sindresorhus/awesome": "2026-08-29",
-    "n8n-io/n8n": "2026-08-31"
+    "n8n-io/n8n": "2026-08-31",
+    "anthropics/skills": "2026-09-01"
   }
 }
