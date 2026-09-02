@@ -1,10 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/dsh-desktop": "2026-08-29",
-    "guillaumemeyer/watermarks-remover": "2026-08-29",
-    "firecrawl/anydoc": "2026-08-29",
-    "b-nnett/grok-bot-0.18-reconstructed": "2026-08-29",
-    "tobi/walgit": "2026-08-29",
     "deepseek-ai/deepseek-harness": "2026-08-30",
     "XiaoDuoYa/codex-with-chatgpt": "2026-08-30",
     "MetaMask-AI/metamask-desktop": "2026-08-30",
@@ -21,7 +16,12 @@
     "HEJustinSun/my-girlfriend-jingtian-latex": "2026-09-01",
     "GangTailorUpgrade/CoomeRtool": "2026-09-01",
     "yjh051108/dsh-routing-suite": "2026-09-01",
-    "s1dashu/ip-as-logo-skill": "2026-09-01"
+    "s1dashu/ip-as-logo-skill": "2026-09-01",
+    "anywhere-labs/dsh-desktop": "2026-09-02",
+    "guillaumemeyer/watermarks-remover": "2026-09-02",
+    "firecrawl/anydoc": "2026-09-02",
+    "b-nnett/grok-bot-0.18-reconstructed": "2026-09-02",
+    "crmne/fastpotify": "2026-09-02"
   },
   "classic": {
     "codecrafters-io/build-your-own-x": "2026-08-03",
@@ -49,6 +49,7 @@
     "vinta/awesome-python": "2026-08-28",
     "sindresorhus/awesome": "2026-08-29",
     "n8n-io/n8n": "2026-08-31",
-    "anthropics/skills": "2026-09-01"
+    "anthropics/skills": "2026-09-01",
+    "multica-ai/andrej-karpathy-skills": "2026-09-02"
   }
 }
