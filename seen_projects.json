@@ -1,12 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-08-30",
-    "XiaoDuoYa/codex-with-chatgpt": "2026-08-30",
-    "MetaMask-AI/metamask-desktop": "2026-08-30",
-    "Nanako0129/sepia": "2026-08-30",
-    "chrisgreg/boop": "2026-08-30",
-    "zhu1090093659/dsh-web": "2026-08-30",
-    "tradecatlabs/shulihuazixuecongshu": "2026-08-30",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-31",
     "MengTo/threeui": "2026-08-31",
     "cbrock84/headcount": "2026-08-31",
@@ -21,10 +14,14 @@
     "guillaumemeyer/watermarks-remover": "2026-09-02",
     "firecrawl/anydoc": "2026-09-02",
     "b-nnett/grok-bot-0.18-reconstructed": "2026-09-02",
-    "crmne/fastpotify": "2026-09-02"
+    "crmne/fastpotify": "2026-09-02",
+    "deepseek-ai/deepseek-harness": "2026-09-03",
+    "anthropics/commerce-agents": "2026-09-03",
+    "XiaoDuoYa/codex-with-chatgpt": "2026-09-03",
+    "Nanako0129/sepia": "2026-09-03",
+    "zhu1090093659/dsh-web": "2026-09-03"
   },
   "classic": {
-    "codecrafters-io/build-your-own-x": "2026-08-03",
     "freeCodeCamp/freeCodeCamp": "2026-08-04",
     "ollama/ollama": "2026-08-05",
     "f/prompts.chat": "2026-08-06",
@@ -50,6 +47,7 @@
     "sindresorhus/awesome": "2026-08-29",
     "n8n-io/n8n": "2026-08-31",
     "anthropics/skills": "2026-09-01",
-    "multica-ai/andrej-karpathy-skills": "2026-09-02"
+    "multica-ai/andrej-karpathy-skills": "2026-09-02",
+    "donnemartin/system-design-primer": "2026-09-03"
   }
 }
