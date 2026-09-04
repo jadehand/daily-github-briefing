@@ -1,10 +1,5 @@
 {
   "trending": {
-    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-31",
-    "MengTo/threeui": "2026-08-31",
-    "cbrock84/headcount": "2026-08-31",
-    "pathwaycom/arc-task-gen": "2026-08-31",
-    "wide-trace/open-higgsfield": "2026-08-31",
     "sapientinc/PRAXIST": "2026-09-01",
     "HEJustinSun/my-girlfriend-jingtian-latex": "2026-09-01",
     "GangTailorUpgrade/CoomeRtool": "2026-09-01",
@@ -19,10 +14,14 @@
     "anthropics/commerce-agents": "2026-09-03",
     "XiaoDuoYa/codex-with-chatgpt": "2026-09-03",
     "Nanako0129/sepia": "2026-09-03",
-    "zhu1090093659/dsh-web": "2026-09-03"
+    "zhu1090093659/dsh-web": "2026-09-03",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-04",
+    "lnkiai/m3e-canvas": "2026-09-04",
+    "MSNightmare/FalconFlank": "2026-09-04",
+    "PhiloLabs/fable51-worlds": "2026-09-04",
+    "MengTo/threeui": "2026-09-04"
   },
   "classic": {
-    "freeCodeCamp/freeCodeCamp": "2026-08-04",
     "ollama/ollama": "2026-08-05",
     "f/prompts.chat": "2026-08-06",
     "ossu/computer-science": "2026-08-07",
@@ -48,6 +47,7 @@
     "n8n-io/n8n": "2026-08-31",
     "anthropics/skills": "2026-09-01",
     "multica-ai/andrej-karpathy-skills": "2026-09-02",
-    "donnemartin/system-design-primer": "2026-09-03"
+    "donnemartin/system-design-primer": "2026-09-03",
+    "trimstray/the-book-of-secret-knowledge": "2026-09-04"
   }
 }
