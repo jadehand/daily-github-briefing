@@ -1,10 +1,5 @@
 {
   "trending": {
-    "sapientinc/PRAXIST": "2026-09-01",
-    "HEJustinSun/my-girlfriend-jingtian-latex": "2026-09-01",
-    "GangTailorUpgrade/CoomeRtool": "2026-09-01",
-    "yjh051108/dsh-routing-suite": "2026-09-01",
-    "s1dashu/ip-as-logo-skill": "2026-09-01",
     "anywhere-labs/dsh-desktop": "2026-09-02",
     "guillaumemeyer/watermarks-remover": "2026-09-02",
     "firecrawl/anydoc": "2026-09-02",
@@ -19,10 +14,14 @@
     "lnkiai/m3e-canvas": "2026-09-04",
     "MSNightmare/FalconFlank": "2026-09-04",
     "PhiloLabs/fable51-worlds": "2026-09-04",
-    "MengTo/threeui": "2026-09-04"
+    "MengTo/threeui": "2026-09-04",
+    "sapientinc/PRAXIST": "2026-09-05",
+    "Albert-Weasker/niubigeo": "2026-09-05",
+    "yjh051108/dsh-routing-suite": "2026-09-05",
+    "nahrek/polyledger": "2026-09-05",
+    "s1dashu/ip-as-logo-skill": "2026-09-05"
   },
   "classic": {
-    "ollama/ollama": "2026-08-05",
     "f/prompts.chat": "2026-08-06",
     "ossu/computer-science": "2026-08-07",
     "jackfrued/Python-100-Days": "2026-08-08",
@@ -48,6 +47,7 @@
     "anthropics/skills": "2026-09-01",
     "multica-ai/andrej-karpathy-skills": "2026-09-02",
     "donnemartin/system-design-primer": "2026-09-03",
-    "trimstray/the-book-of-secret-knowledge": "2026-09-04"
+    "trimstray/the-book-of-secret-knowledge": "2026-09-04",
+    "vuejs/vue": "2026-09-05"
   }
 }
