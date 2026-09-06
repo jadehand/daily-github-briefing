@@ -1,10 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/dsh-desktop": "2026-09-02",
-    "guillaumemeyer/watermarks-remover": "2026-09-02",
-    "firecrawl/anydoc": "2026-09-02",
-    "b-nnett/grok-bot-0.18-reconstructed": "2026-09-02",
-    "crmne/fastpotify": "2026-09-02",
     "deepseek-ai/deepseek-harness": "2026-09-03",
     "anthropics/commerce-agents": "2026-09-03",
     "XiaoDuoYa/codex-with-chatgpt": "2026-09-03",
@@ -19,10 +14,19 @@
     "Albert-Weasker/niubigeo": "2026-09-05",
     "yjh051108/dsh-routing-suite": "2026-09-05",
     "nahrek/polyledger": "2026-09-05",
-    "s1dashu/ip-as-logo-skill": "2026-09-05"
+    "s1dashu/ip-as-logo-skill": "2026-09-05",
+    "anywhere-labs/dsh-desktop": "2026-09-06",
+    "guillaumemeyer/watermarks-remover": "2026-09-06",
+    "anthropics/fermats-last-theorem": "2026-09-06",
+    "ashemag/human-atlas": "2026-09-06",
+    "Rion-Wu-tech/wechat-intelligence-hub": "2026-09-06",
+    "b-nnett/grok-bot-0.18-reconstructed": "2026-09-06",
+    "shadcn-ui/cn": "2026-09-06",
+    "ahujasid/camera-to-blender": "2026-09-06",
+    "danielblnc/DLSS-NR-on-AMD": "2026-09-06",
+    "CopilotKit/OpenBot": "2026-09-06"
   },
   "classic": {
-    "f/prompts.chat": "2026-08-06",
     "ossu/computer-science": "2026-08-07",
     "jackfrued/Python-100-Days": "2026-08-08",
     "affaan-m/ECC": "2026-08-10",
