@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-09-03",
-    "anthropics/commerce-agents": "2026-09-03",
-    "XiaoDuoYa/codex-with-chatgpt": "2026-09-03",
-    "Nanako0129/sepia": "2026-09-03",
-    "zhu1090093659/dsh-web": "2026-09-03",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-04",
     "lnkiai/m3e-canvas": "2026-09-04",
     "MSNightmare/FalconFlank": "2026-09-04",
@@ -24,10 +19,14 @@
     "shadcn-ui/cn": "2026-09-06",
     "ahujasid/camera-to-blender": "2026-09-06",
     "danielblnc/DLSS-NR-on-AMD": "2026-09-06",
-    "CopilotKit/OpenBot": "2026-09-06"
+    "CopilotKit/OpenBot": "2026-09-06",
+    "deepseek-ai/deepseek-harness": "2026-09-07",
+    "pierrenade/short-video-generator-AI": "2026-09-07",
+    "vinzdg/codenotch": "2026-09-07",
+    "anthropics/commerce-agents": "2026-09-07",
+    "crmne/fastpotify": "2026-09-07"
   },
   "classic": {
-    "ossu/computer-science": "2026-08-07",
     "jackfrued/Python-100-Days": "2026-08-08",
     "affaan-m/ECC": "2026-08-10",
     "awesome-selfhosted/awesome-selfhosted": "2026-08-11",
@@ -52,6 +51,7 @@
     "multica-ai/andrej-karpathy-skills": "2026-09-02",
     "donnemartin/system-design-primer": "2026-09-03",
     "trimstray/the-book-of-secret-knowledge": "2026-09-04",
-    "vuejs/vue": "2026-09-05"
+    "vuejs/vue": "2026-09-05",
+    "massgravel/Microsoft-Activation-Scripts": "2026-09-07"
   }
 }
