@@ -1,10 +1,5 @@
 {
   "trending": {
-    "sapientinc/PRAXIST": "2026-09-05",
-    "Albert-Weasker/niubigeo": "2026-09-05",
-    "yjh051108/dsh-routing-suite": "2026-09-05",
-    "nahrek/polyledger": "2026-09-05",
-    "s1dashu/ip-as-logo-skill": "2026-09-05",
     "anywhere-labs/dsh-desktop": "2026-09-06",
     "guillaumemeyer/watermarks-remover": "2026-09-06",
     "anthropics/fermats-last-theorem": "2026-09-06",
@@ -24,7 +19,12 @@
     "EverettFish/holo-card-studio": "2026-09-08",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-08",
     "MengTo/threeui": "2026-09-08",
-    "Jarvis322/macos-sysdata": "2026-09-08"
+    "Jarvis322/macos-sysdata": "2026-09-08",
+    "openai/NavierStokesAndEuler": "2026-09-09",
+    "sapientinc/PRAXIST": "2026-09-09",
+    "Albert-Weasker/niubigeo": "2026-09-09",
+    "XiaoDuoYa/codex-with-chatgpt": "2026-09-09",
+    "yjh051108/dsh-routing-suite": "2026-09-09"
   },
   "classic": {
     "affaan-m/ECC": "2026-08-10",
@@ -52,6 +52,7 @@
     "trimstray/the-book-of-secret-knowledge": "2026-09-04",
     "vuejs/vue": "2026-09-05",
     "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
-    "obra/superpowers": "2026-09-08"
+    "obra/superpowers": "2026-09-08",
+    "996icu/996.ICU": "2026-09-09"
   }
 }
