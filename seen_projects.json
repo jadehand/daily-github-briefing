@@ -1,15 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/dsh-desktop": "2026-09-06",
-    "guillaumemeyer/watermarks-remover": "2026-09-06",
-    "anthropics/fermats-last-theorem": "2026-09-06",
-    "ashemag/human-atlas": "2026-09-06",
-    "Rion-Wu-tech/wechat-intelligence-hub": "2026-09-06",
-    "b-nnett/grok-bot-0.18-reconstructed": "2026-09-06",
-    "shadcn-ui/cn": "2026-09-06",
-    "ahujasid/camera-to-blender": "2026-09-06",
-    "danielblnc/DLSS-NR-on-AMD": "2026-09-06",
-    "CopilotKit/OpenBot": "2026-09-06",
     "deepseek-ai/deepseek-harness": "2026-09-07",
     "pierrenade/short-video-generator-AI": "2026-09-07",
     "vinzdg/codenotch": "2026-09-07",
@@ -24,10 +14,14 @@
     "sapientinc/PRAXIST": "2026-09-09",
     "Albert-Weasker/niubigeo": "2026-09-09",
     "XiaoDuoYa/codex-with-chatgpt": "2026-09-09",
-    "yjh051108/dsh-routing-suite": "2026-09-09"
+    "yjh051108/dsh-routing-suite": "2026-09-09",
+    "anywhere-labs/dsh-desktop": "2026-09-10",
+    "guillaumemeyer/watermarks-remover": "2026-09-10",
+    "ashemag/human-atlas": "2026-09-10",
+    "Rion-Wu-tech/wechat-intelligence-hub": "2026-09-10",
+    "sdli1995/dlssg_for_sm86": "2026-09-10"
   },
   "classic": {
-    "affaan-m/ECC": "2026-08-10",
     "awesome-selfhosted/awesome-selfhosted": "2026-08-11",
     "flutter/flutter": "2026-08-12",
     "Significant-Gravitas/AutoGPT": "2026-08-13",
@@ -53,6 +47,7 @@
     "vuejs/vue": "2026-09-05",
     "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
     "obra/superpowers": "2026-09-08",
-    "996icu/996.ICU": "2026-09-09"
+    "996icu/996.ICU": "2026-09-09",
+    "ollama/ollama": "2026-09-10"
   }
 }
