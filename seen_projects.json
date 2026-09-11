@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-09-07",
-    "pierrenade/short-video-generator-AI": "2026-09-07",
-    "vinzdg/codenotch": "2026-09-07",
-    "anthropics/commerce-agents": "2026-09-07",
-    "crmne/fastpotify": "2026-09-07",
     "lnkiai/m3e-canvas": "2026-09-08",
     "EverettFish/holo-card-studio": "2026-09-08",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-08",
@@ -19,10 +14,14 @@
     "guillaumemeyer/watermarks-remover": "2026-09-10",
     "ashemag/human-atlas": "2026-09-10",
     "Rion-Wu-tech/wechat-intelligence-hub": "2026-09-10",
-    "sdli1995/dlssg_for_sm86": "2026-09-10"
+    "sdli1995/dlssg_for_sm86": "2026-09-10",
+    "deepseek-ai/deepseek-harness": "2026-09-11",
+    "Faizpi/bank-sampah": "2026-09-11",
+    "Edge0-AI/Edge0": "2026-09-11",
+    "Vincentwei1021/anything2explainer": "2026-09-11",
+    "gazijarin/itsgiving": "2026-09-11"
   },
   "classic": {
-    "awesome-selfhosted/awesome-selfhosted": "2026-08-11",
     "flutter/flutter": "2026-08-12",
     "Significant-Gravitas/AutoGPT": "2026-08-13",
     "public-apis/public-apis": "2026-08-14",
@@ -48,6 +47,7 @@
     "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
     "obra/superpowers": "2026-09-08",
     "996icu/996.ICU": "2026-09-09",
-    "ollama/ollama": "2026-09-10"
+    "ollama/ollama": "2026-09-10",
+    "yt-dlp/yt-dlp": "2026-09-11"
   }
 }
