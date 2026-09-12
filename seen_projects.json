@@ -1,10 +1,5 @@
 {
   "trending": {
-    "lnkiai/m3e-canvas": "2026-09-08",
-    "EverettFish/holo-card-studio": "2026-09-08",
-    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-08",
-    "MengTo/threeui": "2026-09-08",
-    "Jarvis322/macos-sysdata": "2026-09-08",
     "openai/NavierStokesAndEuler": "2026-09-09",
     "sapientinc/PRAXIST": "2026-09-09",
     "Albert-Weasker/niubigeo": "2026-09-09",
@@ -19,10 +14,14 @@
     "Faizpi/bank-sampah": "2026-09-11",
     "Edge0-AI/Edge0": "2026-09-11",
     "Vincentwei1021/anything2explainer": "2026-09-11",
-    "gazijarin/itsgiving": "2026-09-11"
+    "gazijarin/itsgiving": "2026-09-11",
+    "lnkiai/m3e-canvas": "2026-09-12",
+    "sumimakito/Mac-Duo": "2026-09-12",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-12",
+    "angusdevgo/IDM_Pro_Tool": "2026-09-12",
+    "EverettFish/holo-card-studio": "2026-09-12"
   },
   "classic": {
-    "flutter/flutter": "2026-08-12",
     "Significant-Gravitas/AutoGPT": "2026-08-13",
     "public-apis/public-apis": "2026-08-14",
     "github/gitignore": "2026-08-15",
@@ -48,6 +47,7 @@
     "obra/superpowers": "2026-09-08",
     "996icu/996.ICU": "2026-09-09",
     "ollama/ollama": "2026-09-10",
-    "yt-dlp/yt-dlp": "2026-09-11"
+    "yt-dlp/yt-dlp": "2026-09-11",
+    "anomalyco/opencode": "2026-09-12"
   }
 }
