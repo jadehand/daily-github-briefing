@@ -1,10 +1,5 @@
 {
   "trending": {
-    "openai/NavierStokesAndEuler": "2026-09-09",
-    "sapientinc/PRAXIST": "2026-09-09",
-    "Albert-Weasker/niubigeo": "2026-09-09",
-    "XiaoDuoYa/codex-with-chatgpt": "2026-09-09",
-    "yjh051108/dsh-routing-suite": "2026-09-09",
     "anywhere-labs/dsh-desktop": "2026-09-10",
     "guillaumemeyer/watermarks-remover": "2026-09-10",
     "ashemag/human-atlas": "2026-09-10",
@@ -19,10 +14,19 @@
     "sumimakito/Mac-Duo": "2026-09-12",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-12",
     "angusdevgo/IDM_Pro_Tool": "2026-09-12",
-    "EverettFish/holo-card-studio": "2026-09-12"
+    "EverettFish/holo-card-studio": "2026-09-12",
+    "rizqinrr/viserys-agent": "2026-09-13",
+    "openai/NavierStokesAndEuler": "2026-09-13",
+    "sapientinc/PRAXIST": "2026-09-13",
+    "rakanki911/DLSS5-Swapper": "2026-09-13",
+    "XiaoDuoYa/codex-with-chatgpt": "2026-09-13",
+    "MengTo/threeui": "2026-09-13",
+    "anthropics/commerce-agents": "2026-09-13",
+    "yjh051108/dsh-routing-suite": "2026-09-13",
+    "crmne/fastpotify": "2026-09-13",
+    "s1dashu/ip-as-logo-skill": "2026-09-13"
   },
   "classic": {
-    "Significant-Gravitas/AutoGPT": "2026-08-13",
     "public-apis/public-apis": "2026-08-14",
     "github/gitignore": "2026-08-15",
     "openclaw/openclaw": "2026-08-17",
