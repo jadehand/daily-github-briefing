@@ -1,10 +1,5 @@
 {
   "trending": {
-    "anywhere-labs/dsh-desktop": "2026-09-10",
-    "guillaumemeyer/watermarks-remover": "2026-09-10",
-    "ashemag/human-atlas": "2026-09-10",
-    "Rion-Wu-tech/wechat-intelligence-hub": "2026-09-10",
-    "sdli1995/dlssg_for_sm86": "2026-09-10",
     "deepseek-ai/deepseek-harness": "2026-09-11",
     "Faizpi/bank-sampah": "2026-09-11",
     "Edge0-AI/Edge0": "2026-09-11",
@@ -24,10 +19,13 @@
     "anthropics/commerce-agents": "2026-09-13",
     "yjh051108/dsh-routing-suite": "2026-09-13",
     "crmne/fastpotify": "2026-09-13",
-    "s1dashu/ip-as-logo-skill": "2026-09-13"
+    "s1dashu/ip-as-logo-skill": "2026-09-13",
+    "yifanzhang-pro/recurrent-looped-tranformer": "2026-09-14",
+    "sdli1995/dlssg_for_sm86": "2026-09-14",
+    "ashemag/human-atlas": "2026-09-14",
+    "eternityspring/reelbench-skills": "2026-09-14"
   },
   "classic": {
-    "public-apis/public-apis": "2026-08-14",
     "github/gitignore": "2026-08-15",
     "openclaw/openclaw": "2026-08-17",
     "huggingface/transformers": "2026-08-18",
@@ -52,6 +50,7 @@
     "996icu/996.ICU": "2026-09-09",
     "ollama/ollama": "2026-09-10",
     "yt-dlp/yt-dlp": "2026-09-11",
-    "anomalyco/opencode": "2026-09-12"
+    "anomalyco/opencode": "2026-09-12",
+    "practical-tutorials/project-based-learning": "2026-09-14"
   }
 }
