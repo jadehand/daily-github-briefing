@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/deepseek-harness": "2026-09-11",
-    "Faizpi/bank-sampah": "2026-09-11",
-    "Edge0-AI/Edge0": "2026-09-11",
-    "Vincentwei1021/anything2explainer": "2026-09-11",
-    "gazijarin/itsgiving": "2026-09-11",
     "lnkiai/m3e-canvas": "2026-09-12",
     "sumimakito/Mac-Duo": "2026-09-12",
     "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-12",
@@ -23,10 +18,14 @@
     "yifanzhang-pro/recurrent-looped-tranformer": "2026-09-14",
     "sdli1995/dlssg_for_sm86": "2026-09-14",
     "ashemag/human-atlas": "2026-09-14",
-    "eternityspring/reelbench-skills": "2026-09-14"
+    "eternityspring/reelbench-skills": "2026-09-14",
+    "Chuloo/mural": "2026-09-15",
+    "zjwzcx/Awesome-Astra-Embodied-AI": "2026-09-15",
+    "Edge0-AI/Edge0": "2026-09-15",
+    "kruzovic7/ai-data-extractor": "2026-09-15",
+    "crmne/spotifast": "2026-09-15"
   },
   "classic": {
-    "github/gitignore": "2026-08-15",
     "openclaw/openclaw": "2026-08-17",
     "huggingface/transformers": "2026-08-18",
     "mattpocock/skills": "2026-08-19",
@@ -51,6 +50,7 @@
     "ollama/ollama": "2026-09-10",
     "yt-dlp/yt-dlp": "2026-09-11",
     "anomalyco/opencode": "2026-09-12",
-    "practical-tutorials/project-based-learning": "2026-09-14"
+    "practical-tutorials/project-based-learning": "2026-09-14",
+    "github/gitignore": "2026-09-15"
   }
 }
