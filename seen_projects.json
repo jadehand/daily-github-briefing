@@ -1,10 +1,5 @@
 {
   "trending": {
-    "lnkiai/m3e-canvas": "2026-09-12",
-    "sumimakito/Mac-Duo": "2026-09-12",
-    "awesome-dsh-plugin/awesome-dsh-plugin": "2026-09-12",
-    "angusdevgo/IDM_Pro_Tool": "2026-09-12",
-    "EverettFish/holo-card-studio": "2026-09-12",
     "rizqinrr/viserys-agent": "2026-09-13",
     "openai/NavierStokesAndEuler": "2026-09-13",
     "sapientinc/PRAXIST": "2026-09-13",
@@ -23,7 +18,12 @@
     "zjwzcx/Awesome-Astra-Embodied-AI": "2026-09-15",
     "Edge0-AI/Edge0": "2026-09-15",
     "kruzovic7/ai-data-extractor": "2026-09-15",
-    "crmne/spotifast": "2026-09-15"
+    "crmne/spotifast": "2026-09-15",
+    "ai-sucks-butt/ai-sucks-butt": "2026-09-16",
+    "nilbuild/page-mascot": "2026-09-16",
+    "lnkiai/m3e-canvas": "2026-09-16",
+    "letorig/video-generator-client": "2026-09-16",
+    "agentverse-os/AgentVerse-OS": "2026-09-16"
   },
   "classic": {
     "openclaw/openclaw": "2026-08-17",
@@ -51,6 +51,7 @@
     "yt-dlp/yt-dlp": "2026-09-11",
     "anomalyco/opencode": "2026-09-12",
     "practical-tutorials/project-based-learning": "2026-09-14",
-    "github/gitignore": "2026-09-15"
+    "github/gitignore": "2026-09-15",
+    "ultraworkers/claw-code": "2026-09-16"
   }
 }
