@@ -1,15 +1,5 @@
 {
   "trending": {
-    "rizqinrr/viserys-agent": "2026-09-13",
-    "openai/NavierStokesAndEuler": "2026-09-13",
-    "sapientinc/PRAXIST": "2026-09-13",
-    "rakanki911/DLSS5-Swapper": "2026-09-13",
-    "XiaoDuoYa/codex-with-chatgpt": "2026-09-13",
-    "MengTo/threeui": "2026-09-13",
-    "anthropics/commerce-agents": "2026-09-13",
-    "yjh051108/dsh-routing-suite": "2026-09-13",
-    "crmne/fastpotify": "2026-09-13",
-    "s1dashu/ip-as-logo-skill": "2026-09-13",
     "yifanzhang-pro/recurrent-looped-tranformer": "2026-09-14",
     "sdli1995/dlssg_for_sm86": "2026-09-14",
     "ashemag/human-atlas": "2026-09-14",
@@ -23,10 +13,14 @@
     "nilbuild/page-mascot": "2026-09-16",
     "lnkiai/m3e-canvas": "2026-09-16",
     "letorig/video-generator-client": "2026-09-16",
-    "agentverse-os/AgentVerse-OS": "2026-09-16"
+    "agentverse-os/AgentVerse-OS": "2026-09-16",
+    "rakanki911/DLSS5-Swapper": "2026-09-17",
+    "sapientinc/PRAXIST": "2026-09-17",
+    "XiaoDuoYa/codex-with-chatgpt": "2026-09-17",
+    "MengTo/threeui": "2026-09-17",
+    "saragordic/window-sweaters": "2026-09-17"
   },
   "classic": {
-    "openclaw/openclaw": "2026-08-17",
     "huggingface/transformers": "2026-08-18",
     "mattpocock/skills": "2026-08-19",
     "TheAlgorithms/Python": "2026-08-20",
@@ -52,6 +46,7 @@
     "anomalyco/opencode": "2026-09-12",
     "practical-tutorials/project-based-learning": "2026-09-14",
     "github/gitignore": "2026-09-15",
-    "ultraworkers/claw-code": "2026-09-16"
+    "ultraworkers/claw-code": "2026-09-16",
+    "tensorflow/tensorflow": "2026-09-17"
   }
 }
