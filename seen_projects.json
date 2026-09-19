@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Chuloo/mural": "2026-09-15",
-    "zjwzcx/Awesome-Astra-Embodied-AI": "2026-09-15",
-    "Edge0-AI/Edge0": "2026-09-15",
-    "kruzovic7/ai-data-extractor": "2026-09-15",
-    "crmne/spotifast": "2026-09-15",
     "ai-sucks-butt/ai-sucks-butt": "2026-09-16",
     "nilbuild/page-mascot": "2026-09-16",
     "lnkiai/m3e-canvas": "2026-09-16",
@@ -19,10 +14,14 @@
     "TheoLeeCJ/openjev": "2026-09-18",
     "tamaratran/fast-jev-compaction": "2026-09-18",
     "vinnylarouge/jevlike": "2026-09-18",
-    "jarrodwatts/jev-trader": "2026-09-18"
+    "jarrodwatts/jev-trader": "2026-09-18",
+    "TheoLeeCJ/SemIf": "2026-09-19",
+    "eternity4719/HowToLiveBetter": "2026-09-19",
+    "robbietilton/Compositor": "2026-09-19",
+    "mcncarl/jianying-headless": "2026-09-19",
+    "korcarc/text-humanizer": "2026-09-19"
   },
   "classic": {
-    "mattpocock/skills": "2026-08-19",
     "TheAlgorithms/Python": "2026-08-20",
     "521xueweihan/HelloGitHub": "2026-08-21",
     "jwasham/coding-interview-university": "2026-08-22",
@@ -48,6 +47,7 @@
     "github/gitignore": "2026-09-15",
     "ultraworkers/claw-code": "2026-09-16",
     "tensorflow/tensorflow": "2026-09-17",
-    "NousResearch/hermes-agent": "2026-09-18"
+    "NousResearch/hermes-agent": "2026-09-18",
+    "f/prompts.chat": "2026-09-19"
   }
 }
