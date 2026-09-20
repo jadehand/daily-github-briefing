@@ -1,10 +1,5 @@
 {
   "trending": {
-    "ai-sucks-butt/ai-sucks-butt": "2026-09-16",
-    "nilbuild/page-mascot": "2026-09-16",
-    "lnkiai/m3e-canvas": "2026-09-16",
-    "letorig/video-generator-client": "2026-09-16",
-    "agentverse-os/AgentVerse-OS": "2026-09-16",
     "rakanki911/DLSS5-Swapper": "2026-09-17",
     "sapientinc/PRAXIST": "2026-09-17",
     "XiaoDuoYa/codex-with-chatgpt": "2026-09-17",
@@ -19,10 +14,18 @@
     "eternity4719/HowToLiveBetter": "2026-09-19",
     "robbietilton/Compositor": "2026-09-19",
     "mcncarl/jianying-headless": "2026-09-19",
-    "korcarc/text-humanizer": "2026-09-19"
+    "korcarc/text-humanizer": "2026-09-19",
+    "NandhaKishorM/laya": "2026-09-20",
+    "arvindear/wp2shell-PoC": "2026-09-20",
+    "bespokelabsai/nimble": "2026-09-20",
+    "TianyuCodings/NanoJev": "2026-09-20",
+    "lnkiai/m3e-canvas": "2026-09-20",
+    "sdli1995/dlssg_for_sm86": "2026-09-20",
+    "jaredpalmer/kev": "2026-09-20",
+    "yynxxxxx/gpt_sub_analysis": "2026-09-20",
+    "ashemag/human-atlas": "2026-09-20"
   },
   "classic": {
-    "TheAlgorithms/Python": "2026-08-20",
     "521xueweihan/HelloGitHub": "2026-08-21",
     "jwasham/coding-interview-university": "2026-08-22",
     "EbookFoundation/free-programming-books": "2026-08-24",
