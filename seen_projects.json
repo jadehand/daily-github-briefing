@@ -1,10 +1,5 @@
 {
   "trending": {
-    "rakanki911/DLSS5-Swapper": "2026-09-17",
-    "sapientinc/PRAXIST": "2026-09-17",
-    "XiaoDuoYa/codex-with-chatgpt": "2026-09-17",
-    "MengTo/threeui": "2026-09-17",
-    "saragordic/window-sweaters": "2026-09-17",
     "browser-use/jev-ultrafast": "2026-09-18",
     "TheoLeeCJ/openjev": "2026-09-18",
     "tamaratran/fast-jev-compaction": "2026-09-18",
@@ -23,10 +18,14 @@
     "sdli1995/dlssg_for_sm86": "2026-09-20",
     "jaredpalmer/kev": "2026-09-20",
     "yynxxxxx/gpt_sub_analysis": "2026-09-20",
-    "ashemag/human-atlas": "2026-09-20"
+    "ashemag/human-atlas": "2026-09-20",
+    "zai-org/ZCode": "2026-09-21",
+    "mizorewww/laya-mlx": "2026-09-21",
+    "rakanki911/DLSS5-Swapper": "2026-09-21",
+    "sapientinc/PRAXIST": "2026-09-21",
+    "XiaoDuoYa/codex-with-chatgpt": "2026-09-21"
   },
   "classic": {
-    "521xueweihan/HelloGitHub": "2026-08-21",
     "jwasham/coding-interview-university": "2026-08-22",
     "EbookFoundation/free-programming-books": "2026-08-24",
     "react/react": "2026-08-25",
@@ -51,6 +50,7 @@
     "ultraworkers/claw-code": "2026-09-16",
     "tensorflow/tensorflow": "2026-09-17",
     "NousResearch/hermes-agent": "2026-09-18",
-    "f/prompts.chat": "2026-09-19"
+    "f/prompts.chat": "2026-09-19",
+    "trekhleb/javascript-algorithms": "2026-09-21"
   }
 }
