@@ -1,10 +1,5 @@
 {
   "trending": {
-    "browser-use/jev-ultrafast": "2026-09-18",
-    "TheoLeeCJ/openjev": "2026-09-18",
-    "tamaratran/fast-jev-compaction": "2026-09-18",
-    "vinnylarouge/jevlike": "2026-09-18",
-    "jarrodwatts/jev-trader": "2026-09-18",
     "TheoLeeCJ/SemIf": "2026-09-19",
     "eternity4719/HowToLiveBetter": "2026-09-19",
     "robbietilton/Compositor": "2026-09-19",
@@ -23,10 +18,14 @@
     "mizorewww/laya-mlx": "2026-09-21",
     "rakanki911/DLSS5-Swapper": "2026-09-21",
     "sapientinc/PRAXIST": "2026-09-21",
-    "XiaoDuoYa/codex-with-chatgpt": "2026-09-21"
+    "XiaoDuoYa/codex-with-chatgpt": "2026-09-21",
+    "browser-use/jev-ultrafast": "2026-09-22",
+    "tamaratran/fast-jev-compaction": "2026-09-22",
+    "jev-chat/jev-chat-jarvis": "2026-09-22",
+    "mizorewww/laya-coreml": "2026-09-22",
+    "jarrodwatts/jev-trader": "2026-09-22"
   },
   "classic": {
-    "jwasham/coding-interview-university": "2026-08-22",
     "EbookFoundation/free-programming-books": "2026-08-24",
     "react/react": "2026-08-25",
     "avelino/awesome-go": "2026-08-26",
@@ -51,6 +50,7 @@
     "tensorflow/tensorflow": "2026-09-17",
     "NousResearch/hermes-agent": "2026-09-18",
     "f/prompts.chat": "2026-09-19",
-    "trekhleb/javascript-algorithms": "2026-09-21"
+    "trekhleb/javascript-algorithms": "2026-09-21",
+    "TheAlgorithms/Python": "2026-09-22"
   }
 }
