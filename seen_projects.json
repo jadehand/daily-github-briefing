@@ -1,14 +1,5 @@
 {
   "trending": {
-    "NandhaKishorM/laya": "2026-09-20",
-    "arvindear/wp2shell-PoC": "2026-09-20",
-    "bespokelabsai/nimble": "2026-09-20",
-    "TianyuCodings/NanoJev": "2026-09-20",
-    "lnkiai/m3e-canvas": "2026-09-20",
-    "sdli1995/dlssg_for_sm86": "2026-09-20",
-    "jaredpalmer/kev": "2026-09-20",
-    "yynxxxxx/gpt_sub_analysis": "2026-09-20",
-    "ashemag/human-atlas": "2026-09-20",
     "zai-org/ZCode": "2026-09-21",
     "mizorewww/laya-mlx": "2026-09-21",
     "rakanki911/DLSS5-Swapper": "2026-09-21",
@@ -23,10 +14,14 @@
     "robbietilton/Compositor": "2026-09-23",
     "eternity4719/HowToLiveBetter": "2026-09-23",
     "TheoLeeCJ/SemIf": "2026-09-23",
-    "Mak5er/AirCard": "2026-09-23"
+    "Mak5er/AirCard": "2026-09-23",
+    "NandhaKishorM/laya": "2026-09-24",
+    "jaredpalmer/kev": "2026-09-24",
+    "SewCabinSpout/cleanupper": "2026-09-24",
+    "TheoLeeCJ/SemIf-OpenJev": "2026-09-24",
+    "lnkiai/m3e-canvas": "2026-09-24"
   },
   "classic": {
-    "EbookFoundation/free-programming-books": "2026-08-24",
     "react/react": "2026-08-25",
     "avelino/awesome-go": "2026-08-26",
     "nilbuild/developer-roadmap": "2026-08-27",
@@ -52,6 +47,7 @@
     "f/prompts.chat": "2026-09-19",
     "trekhleb/javascript-algorithms": "2026-09-21",
     "TheAlgorithms/Python": "2026-09-22",
-    "deepseek-ai/deepseek-harness": "2026-09-23"
+    "deepseek-ai/deepseek-harness": "2026-09-23",
+    "getify/You-Dont-Know-JS": "2026-09-24"
   }
 }
