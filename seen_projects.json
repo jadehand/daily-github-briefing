@@ -1,10 +1,5 @@
 {
   "trending": {
-    "browser-use/jev-ultrafast": "2026-09-22",
-    "tamaratran/fast-jev-compaction": "2026-09-22",
-    "jev-chat/jev-chat-jarvis": "2026-09-22",
-    "mizorewww/laya-coreml": "2026-09-22",
-    "jarrodwatts/jev-trader": "2026-09-22",
     "unreallabsai/unreal-agent": "2026-09-23",
     "robbietilton/Compositor": "2026-09-23",
     "eternity4719/HowToLiveBetter": "2026-09-23",
@@ -19,10 +14,14 @@
     "mizorewww/laya-mlx": "2026-09-25",
     "mikehasa/golive-skill": "2026-09-25",
     "Contrastive-LM/CLM": "2026-09-25",
-    "riba2534/claude-opus-5-5-demo": "2026-09-25"
+    "riba2534/claude-opus-5-5-demo": "2026-09-25",
+    "browser-use/jev-ultrafast": "2026-09-26",
+    "jev-chat/jev-chat-jarvis": "2026-09-26",
+    "tobi/disktree": "2026-09-26",
+    "tamaratran/fast-jev-compaction": "2026-09-26",
+    "yetone/magpie": "2026-09-26"
   },
   "classic": {
-    "avelino/awesome-go": "2026-08-26",
     "nilbuild/developer-roadmap": "2026-08-27",
     "vinta/awesome-python": "2026-08-28",
     "sindresorhus/awesome": "2026-08-29",
@@ -48,6 +47,7 @@
     "TheAlgorithms/Python": "2026-09-22",
     "deepseek-ai/deepseek-harness": "2026-09-23",
     "getify/You-Dont-Know-JS": "2026-09-24",
-    "jackfrued/Python-100-Days": "2026-09-25"
+    "jackfrued/Python-100-Days": "2026-09-25",
+    "ohmyzsh/ohmyzsh": "2026-09-26"
   }
 }
