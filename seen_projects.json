@@ -1,10 +1,5 @@
 {
   "trending": {
-    "zai-org/ZCode": "2026-09-25",
-    "mizorewww/laya-mlx": "2026-09-25",
-    "mikehasa/golive-skill": "2026-09-25",
-    "Contrastive-LM/CLM": "2026-09-25",
-    "riba2534/claude-opus-5-5-demo": "2026-09-25",
     "browser-use/jev-ultrafast": "2026-09-26",
     "jev-chat/jev-chat-jarvis": "2026-09-26",
     "tobi/disktree": "2026-09-26",
@@ -20,10 +15,14 @@
     "dzhng/jevgrep": "2026-09-28",
     "jaredpalmer/kev": "2026-09-28",
     "mexicat/pdoom-video": "2026-09-28",
-    "TheoLeeCJ/SemIf-OpenJev": "2026-09-28"
+    "TheoLeeCJ/SemIf-OpenJev": "2026-09-28",
+    "KKKKhazix/AIHOT": "2026-09-29",
+    "zai-org/ZCode": "2026-09-29",
+    "yihui-dev/awesome-opus5-5-videos": "2026-09-29",
+    "mizorewww/laya-mlx": "2026-09-29",
+    "Contrastive-LM/CLM": "2026-09-29"
   },
   "classic": {
-    "sindresorhus/awesome": "2026-08-29",
     "n8n-io/n8n": "2026-08-31",
     "anthropics/skills": "2026-09-01",
     "multica-ai/andrej-karpathy-skills": "2026-09-02",
@@ -48,6 +47,7 @@
     "getify/You-Dont-Know-JS": "2026-09-24",
     "jackfrued/Python-100-Days": "2026-09-25",
     "ohmyzsh/ohmyzsh": "2026-09-26",
-    "vinta/awesome-python": "2026-09-28"
+    "vinta/awesome-python": "2026-09-28",
+    "microsoft/vscode": "2026-09-29"
   }
 }
