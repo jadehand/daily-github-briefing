@@ -1,10 +1,5 @@
 {
   "trending": {
-    "browser-use/jev-ultrafast": "2026-09-26",
-    "jev-chat/jev-chat-jarvis": "2026-09-26",
-    "tobi/disktree": "2026-09-26",
-    "tamaratran/fast-jev-compaction": "2026-09-26",
-    "yetone/magpie": "2026-09-26",
     "eternity4719/HowToLiveBetter": "2026-09-27",
     "robbietilton/Compositor": "2026-09-27",
     "Mak5er/AirCard": "2026-09-27",
@@ -20,7 +15,12 @@
     "zai-org/ZCode": "2026-09-29",
     "yihui-dev/awesome-opus5-5-videos": "2026-09-29",
     "mizorewww/laya-mlx": "2026-09-29",
-    "Contrastive-LM/CLM": "2026-09-29"
+    "Contrastive-LM/CLM": "2026-09-29",
+    "browser-use/jev-ultrafast": "2026-09-30",
+    "firelex/jeff": "2026-09-30",
+    "jev-chat/jev-chat-jarvis": "2026-09-30",
+    "tamaratran/fast-jev-compaction": "2026-09-30",
+    "wy51ai/floorplan-3d": "2026-09-30"
   },
   "classic": {
     "n8n-io/n8n": "2026-08-31",
@@ -48,6 +48,7 @@
     "jackfrued/Python-100-Days": "2026-09-25",
     "ohmyzsh/ohmyzsh": "2026-09-26",
     "vinta/awesome-python": "2026-09-28",
-    "microsoft/vscode": "2026-09-29"
+    "microsoft/vscode": "2026-09-29",
+    "ossu/computer-science": "2026-09-30"
   }
 }
