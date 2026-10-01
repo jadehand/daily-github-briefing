@@ -1,11 +1,5 @@
 {
   "trending": {
-    "eternity4719/HowToLiveBetter": "2026-09-27",
-    "robbietilton/Compositor": "2026-09-27",
-    "Mak5er/AirCard": "2026-09-27",
-    "unreallabsai/unreal-agent": "2026-09-27",
-    "driceroland/Search": "2026-09-27",
-    "JohnHeibel/PDoomVideo": "2026-09-27",
     "NandhaKishorM/laya": "2026-09-28",
     "dzhng/jevgrep": "2026-09-28",
     "jaredpalmer/kev": "2026-09-28",
@@ -20,10 +14,14 @@
     "firelex/jeff": "2026-09-30",
     "jev-chat/jev-chat-jarvis": "2026-09-30",
     "tamaratran/fast-jev-compaction": "2026-09-30",
-    "wy51ai/floorplan-3d": "2026-09-30"
+    "wy51ai/floorplan-3d": "2026-09-30",
+    "feder-cr/dots": "2026-10-01",
+    "eternity4719/HowToLiveBetter": "2026-10-01",
+    "rehan-remade/universal-modder": "2026-10-01",
+    "yetone/magpie": "2026-10-01",
+    "OpSafari/hypoarena": "2026-10-01"
   },
   "classic": {
-    "n8n-io/n8n": "2026-08-31",
     "anthropics/skills": "2026-09-01",
     "multica-ai/andrej-karpathy-skills": "2026-09-02",
     "donnemartin/system-design-primer": "2026-09-03",
@@ -49,6 +47,7 @@
     "ohmyzsh/ohmyzsh": "2026-09-26",
     "vinta/awesome-python": "2026-09-28",
     "microsoft/vscode": "2026-09-29",
-    "ossu/computer-science": "2026-09-30"
+    "ossu/computer-science": "2026-09-30",
+    "awesome-selfhosted/awesome-selfhosted": "2026-10-01"
   }
 }
