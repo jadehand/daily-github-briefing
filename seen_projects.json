@@ -1,10 +1,5 @@
 {
   "trending": {
-    "KKKKhazix/AIHOT": "2026-09-29",
-    "zai-org/ZCode": "2026-09-29",
-    "yihui-dev/awesome-opus5-5-videos": "2026-09-29",
-    "mizorewww/laya-mlx": "2026-09-29",
-    "Contrastive-LM/CLM": "2026-09-29",
     "browser-use/jev-ultrafast": "2026-09-30",
     "firelex/jeff": "2026-09-30",
     "jev-chat/jev-chat-jarvis": "2026-09-30",
@@ -19,10 +14,14 @@
     "nanaism/yomiyasu": "2026-10-02",
     "Niko1221/Strata": "2026-10-02",
     "Louis-CFM/coucou": "2026-10-02",
-    "jaredpalmer/kev": "2026-10-02"
+    "jaredpalmer/kev": "2026-10-02",
+    "KKKKhazix/AIHOT": "2026-10-03",
+    "zai-org/ZCode": "2026-10-03",
+    "CopilotKit/OpenDots": "2026-10-03",
+    "mizorewww/laya-mlx": "2026-10-03",
+    "cdyforever/how-to-live-better": "2026-10-03"
   },
   "classic": {
-    "multica-ai/andrej-karpathy-skills": "2026-09-02",
     "donnemartin/system-design-primer": "2026-09-03",
     "trimstray/the-book-of-secret-knowledge": "2026-09-04",
     "vuejs/vue": "2026-09-05",
@@ -48,6 +47,7 @@
     "microsoft/vscode": "2026-09-29",
     "ossu/computer-science": "2026-09-30",
     "awesome-selfhosted/awesome-selfhosted": "2026-10-01",
-    "DigitalPlatDev/FreeDomain": "2026-10-02"
+    "DigitalPlatDev/FreeDomain": "2026-10-02",
+    "twbs/bootstrap": "2026-10-03"
   }
 }
