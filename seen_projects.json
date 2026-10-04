@@ -1,10 +1,5 @@
 {
   "trending": {
-    "browser-use/jev-ultrafast": "2026-09-30",
-    "firelex/jeff": "2026-09-30",
-    "jev-chat/jev-chat-jarvis": "2026-09-30",
-    "tamaratran/fast-jev-compaction": "2026-09-30",
-    "wy51ai/floorplan-3d": "2026-09-30",
     "feder-cr/dots": "2026-10-01",
     "eternity4719/HowToLiveBetter": "2026-10-01",
     "rehan-remade/universal-modder": "2026-10-01",
@@ -19,10 +14,15 @@
     "zai-org/ZCode": "2026-10-03",
     "CopilotKit/OpenDots": "2026-10-03",
     "mizorewww/laya-mlx": "2026-10-03",
-    "cdyforever/how-to-live-better": "2026-10-03"
+    "cdyforever/how-to-live-better": "2026-10-03",
+    "browser-use/jev-ultrafast": "2026-10-04",
+    "facebookincubator/muse-gadget-sdk": "2026-10-04",
+    "jev-chat/jev-chat-jarvis": "2026-10-04",
+    "tamaratran/fast-jev-compaction": "2026-10-04",
+    "robbietilton/Compositor": "2026-10-04",
+    "Mak5er/AirCard": "2026-10-04"
   },
   "classic": {
-    "donnemartin/system-design-primer": "2026-09-03",
     "trimstray/the-book-of-secret-knowledge": "2026-09-04",
     "vuejs/vue": "2026-09-05",
     "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
