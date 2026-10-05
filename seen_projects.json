@@ -1,10 +1,5 @@
 {
   "trending": {
-    "feder-cr/dots": "2026-10-01",
-    "eternity4719/HowToLiveBetter": "2026-10-01",
-    "rehan-remade/universal-modder": "2026-10-01",
-    "yetone/magpie": "2026-10-01",
-    "OpSafari/hypoarena": "2026-10-01",
     "NandhaKishorM/laya": "2026-10-02",
     "nanaism/yomiyasu": "2026-10-02",
     "Niko1221/Strata": "2026-10-02",
@@ -20,10 +15,14 @@
     "jev-chat/jev-chat-jarvis": "2026-10-04",
     "tamaratran/fast-jev-compaction": "2026-10-04",
     "robbietilton/Compositor": "2026-10-04",
-    "Mak5er/AirCard": "2026-10-04"
+    "Mak5er/AirCard": "2026-10-04",
+    "eternity4719/HowToLiveBetter": "2026-10-05",
+    "kargulstudio/sales-crm": "2026-10-05",
+    "rehan-remade/universal-modder": "2026-10-05",
+    "QingYunA/answer-me-with-html": "2026-10-05",
+    "feder-cr/dots": "2026-10-05"
   },
   "classic": {
-    "trimstray/the-book-of-secret-knowledge": "2026-09-04",
     "vuejs/vue": "2026-09-05",
     "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
     "obra/superpowers": "2026-09-08",
@@ -48,6 +47,7 @@
     "ossu/computer-science": "2026-09-30",
     "awesome-selfhosted/awesome-selfhosted": "2026-10-01",
     "DigitalPlatDev/FreeDomain": "2026-10-02",
-    "twbs/bootstrap": "2026-10-03"
+    "twbs/bootstrap": "2026-10-03",
+    "jwasham/coding-interview-university": "2026-10-05"
   }
 }
