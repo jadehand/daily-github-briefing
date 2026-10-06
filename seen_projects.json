@@ -1,10 +1,5 @@
 {
   "trending": {
-    "NandhaKishorM/laya": "2026-10-02",
-    "nanaism/yomiyasu": "2026-10-02",
-    "Niko1221/Strata": "2026-10-02",
-    "Louis-CFM/coucou": "2026-10-02",
-    "jaredpalmer/kev": "2026-10-02",
     "KKKKhazix/AIHOT": "2026-10-03",
     "zai-org/ZCode": "2026-10-03",
     "CopilotKit/OpenDots": "2026-10-03",
@@ -20,10 +15,14 @@
     "kargulstudio/sales-crm": "2026-10-05",
     "rehan-remade/universal-modder": "2026-10-05",
     "QingYunA/answer-me-with-html": "2026-10-05",
-    "feder-cr/dots": "2026-10-05"
+    "feder-cr/dots": "2026-10-05",
+    "NandhaKishorM/laya": "2026-10-06",
+    "Niko1221/Strata": "2026-10-06",
+    "jaredpalmer/kev": "2026-10-06",
+    "storytold/photocraft": "2026-10-06",
+    "shihabal3amri/DiPlay": "2026-10-06"
   },
   "classic": {
-    "vuejs/vue": "2026-09-05",
     "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
     "obra/superpowers": "2026-09-08",
     "996icu/996.ICU": "2026-09-09",
@@ -48,6 +47,7 @@
     "awesome-selfhosted/awesome-selfhosted": "2026-10-01",
     "DigitalPlatDev/FreeDomain": "2026-10-02",
     "twbs/bootstrap": "2026-10-03",
-    "jwasham/coding-interview-university": "2026-10-05"
+    "jwasham/coding-interview-university": "2026-10-05",
+    "mattpocock/skills": "2026-10-06"
   }
 }
