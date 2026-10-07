@@ -1,10 +1,5 @@
 {
   "trending": {
-    "KKKKhazix/AIHOT": "2026-10-03",
-    "zai-org/ZCode": "2026-10-03",
-    "CopilotKit/OpenDots": "2026-10-03",
-    "mizorewww/laya-mlx": "2026-10-03",
-    "cdyforever/how-to-live-better": "2026-10-03",
     "browser-use/jev-ultrafast": "2026-10-04",
     "facebookincubator/muse-gadget-sdk": "2026-10-04",
     "jev-chat/jev-chat-jarvis": "2026-10-04",
@@ -20,7 +15,12 @@
     "Niko1221/Strata": "2026-10-06",
     "jaredpalmer/kev": "2026-10-06",
     "storytold/photocraft": "2026-10-06",
-    "shihabal3amri/DiPlay": "2026-10-06"
+    "shihabal3amri/DiPlay": "2026-10-06",
+    "openai/math": "2026-10-07",
+    "alchaincyf/huashu-art-motion": "2026-10-07",
+    "KKKKhazix/AIHOT": "2026-10-07",
+    "cdyforever/how-to-live-better": "2026-10-07",
+    "zai-org/ZCode": "2026-10-07"
   },
   "classic": {
     "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
@@ -48,6 +48,7 @@
     "DigitalPlatDev/FreeDomain": "2026-10-02",
     "twbs/bootstrap": "2026-10-03",
     "jwasham/coding-interview-university": "2026-10-05",
-    "mattpocock/skills": "2026-10-06"
+    "mattpocock/skills": "2026-10-06",
+    "avelino/awesome-go": "2026-10-07"
   }
 }
