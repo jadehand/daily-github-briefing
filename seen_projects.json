@@ -1,11 +1,5 @@
 {
   "trending": {
-    "browser-use/jev-ultrafast": "2026-10-04",
-    "facebookincubator/muse-gadget-sdk": "2026-10-04",
-    "jev-chat/jev-chat-jarvis": "2026-10-04",
-    "tamaratran/fast-jev-compaction": "2026-10-04",
-    "robbietilton/Compositor": "2026-10-04",
-    "Mak5er/AirCard": "2026-10-04",
     "eternity4719/HowToLiveBetter": "2026-10-05",
     "kargulstudio/sales-crm": "2026-10-05",
     "rehan-remade/universal-modder": "2026-10-05",
@@ -20,10 +14,14 @@
     "alchaincyf/huashu-art-motion": "2026-10-07",
     "KKKKhazix/AIHOT": "2026-10-07",
     "cdyforever/how-to-live-better": "2026-10-07",
-    "zai-org/ZCode": "2026-10-07"
+    "zai-org/ZCode": "2026-10-07",
+    "browser-use/jev-ultrafast": "2026-10-08",
+    "LoreanXavier/pt-pc": "2026-10-08",
+    "alejandrobujan/tendedero": "2026-10-08",
+    "robbietilton/Compositor": "2026-10-08",
+    "CopilotKit/OpenDots": "2026-10-08"
   },
   "classic": {
-    "massgravel/Microsoft-Activation-Scripts": "2026-09-07",
     "obra/superpowers": "2026-09-08",
     "996icu/996.ICU": "2026-09-09",
     "ollama/ollama": "2026-09-10",
@@ -49,6 +47,7 @@
     "twbs/bootstrap": "2026-10-03",
     "jwasham/coding-interview-university": "2026-10-05",
     "mattpocock/skills": "2026-10-06",
-    "avelino/awesome-go": "2026-10-07"
+    "avelino/awesome-go": "2026-10-07",
+    "nilbuild/developer-roadmap": "2026-10-08"
   }
 }
