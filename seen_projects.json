@@ -1,10 +1,5 @@
 {
   "trending": {
-    "eternity4719/HowToLiveBetter": "2026-10-05",
-    "kargulstudio/sales-crm": "2026-10-05",
-    "rehan-remade/universal-modder": "2026-10-05",
-    "QingYunA/answer-me-with-html": "2026-10-05",
-    "feder-cr/dots": "2026-10-05",
     "NandhaKishorM/laya": "2026-10-06",
     "Niko1221/Strata": "2026-10-06",
     "jaredpalmer/kev": "2026-10-06",
@@ -19,10 +14,14 @@
     "LoreanXavier/pt-pc": "2026-10-08",
     "alejandrobujan/tendedero": "2026-10-08",
     "robbietilton/Compositor": "2026-10-08",
-    "CopilotKit/OpenDots": "2026-10-08"
+    "CopilotKit/OpenDots": "2026-10-08",
+    "nullmoth/nvidia-macos-driver": "2026-10-09",
+    "mhtsec/ARTEX": "2026-10-09",
+    "storytold/wordcraft": "2026-10-09",
+    "storytold/cadcraft": "2026-10-09",
+    "shadany7824/playgta5": "2026-10-09"
   },
   "classic": {
-    "obra/superpowers": "2026-09-08",
     "996icu/996.ICU": "2026-09-09",
     "ollama/ollama": "2026-09-10",
     "yt-dlp/yt-dlp": "2026-09-11",
@@ -48,6 +47,7 @@
     "jwasham/coding-interview-university": "2026-10-05",
     "mattpocock/skills": "2026-10-06",
     "avelino/awesome-go": "2026-10-07",
-    "nilbuild/developer-roadmap": "2026-10-08"
+    "nilbuild/developer-roadmap": "2026-10-08",
+    "flutter/flutter": "2026-10-09"
   }
 }
