@@ -1,10 +1,5 @@
 {
   "trending": {
-    "NandhaKishorM/laya": "2026-10-06",
-    "Niko1221/Strata": "2026-10-06",
-    "jaredpalmer/kev": "2026-10-06",
-    "storytold/photocraft": "2026-10-06",
-    "shihabal3amri/DiPlay": "2026-10-06",
     "openai/math": "2026-10-07",
     "alchaincyf/huashu-art-motion": "2026-10-07",
     "KKKKhazix/AIHOT": "2026-10-07",
@@ -19,10 +14,14 @@
     "mhtsec/ARTEX": "2026-10-09",
     "storytold/wordcraft": "2026-10-09",
     "storytold/cadcraft": "2026-10-09",
-    "shadany7824/playgta5": "2026-10-09"
+    "shadany7824/playgta5": "2026-10-09",
+    "storytold/photocraft": "2026-10-10",
+    "NandhaKishorM/laya": "2026-10-10",
+    "Niko1221/Strata": "2026-10-10",
+    "noahdunnagan/fsearch": "2026-10-10",
+    "storytold/lightcraft": "2026-10-10"
   },
   "classic": {
-    "996icu/996.ICU": "2026-09-09",
     "ollama/ollama": "2026-09-10",
     "yt-dlp/yt-dlp": "2026-09-11",
     "anomalyco/opencode": "2026-09-12",
@@ -48,6 +47,7 @@
     "mattpocock/skills": "2026-10-06",
     "avelino/awesome-go": "2026-10-07",
     "nilbuild/developer-roadmap": "2026-10-08",
-    "flutter/flutter": "2026-10-09"
+    "flutter/flutter": "2026-10-09",
+    "freeCodeCamp/freeCodeCamp": "2026-10-10"
   }
 }
