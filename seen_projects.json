@@ -1,10 +1,5 @@
 {
   "trending": {
-    "openai/math": "2026-10-07",
-    "alchaincyf/huashu-art-motion": "2026-10-07",
-    "KKKKhazix/AIHOT": "2026-10-07",
-    "cdyforever/how-to-live-better": "2026-10-07",
-    "zai-org/ZCode": "2026-10-07",
     "browser-use/jev-ultrafast": "2026-10-08",
     "LoreanXavier/pt-pc": "2026-10-08",
     "alejandrobujan/tendedero": "2026-10-08",
@@ -19,10 +14,18 @@
     "NandhaKishorM/laya": "2026-10-10",
     "Niko1221/Strata": "2026-10-10",
     "noahdunnagan/fsearch": "2026-10-10",
-    "storytold/lightcraft": "2026-10-10"
+    "storytold/lightcraft": "2026-10-10",
+    "openai/math": "2026-10-11",
+    "storytold/filmcraft": "2026-10-11",
+    "storytold/pdfcraft": "2026-10-11",
+    "alchaincyf/huashu-art-motion": "2026-10-11",
+    "t4t5/omdrop-owl": "2026-10-11",
+    "zhongerxin/iPhone-use": "2026-10-11",
+    "storytold/gridcraft": "2026-10-11",
+    "KKKKhazix/AIHOT": "2026-10-11",
+    "shihabal3amri/DiPlay": "2026-10-11"
   },
   "classic": {
-    "ollama/ollama": "2026-09-10",
     "yt-dlp/yt-dlp": "2026-09-11",
     "anomalyco/opencode": "2026-09-12",
     "practical-tutorials/project-based-learning": "2026-09-14",
