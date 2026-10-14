@@ -1,10 +1,5 @@
 {
   "trending": {
-    "storytold/photocraft": "2026-10-10",
-    "NandhaKishorM/laya": "2026-10-10",
-    "Niko1221/Strata": "2026-10-10",
-    "noahdunnagan/fsearch": "2026-10-10",
-    "storytold/lightcraft": "2026-10-10",
     "openai/math": "2026-10-11",
     "storytold/filmcraft": "2026-10-11",
     "storytold/pdfcraft": "2026-10-11",
@@ -23,7 +18,12 @@
     "liseami/CCBaga": "2026-10-13",
     "mhtsec/ARTEX": "2026-10-13",
     "Ebony-Vinyl/dsh-our-free-model": "2026-10-13",
-    "storytold/cadcraft": "2026-10-13"
+    "storytold/cadcraft": "2026-10-13",
+    "storytold/photocraft": "2026-10-14",
+    "NandhaKishorM/laya": "2026-10-14",
+    "Niko1221/Strata": "2026-10-14",
+    "storytold/lightcraft": "2026-10-14",
+    "onehumanbeing/esp32-iphone-agent": "2026-10-14"
   },
   "classic": {
     "practical-tutorials/project-based-learning": "2026-09-14",
@@ -51,6 +51,7 @@
     "flutter/flutter": "2026-10-09",
     "freeCodeCamp/freeCodeCamp": "2026-10-10",
     "react/react": "2026-10-12",
-    "microsoft/markitdown": "2026-10-13"
+    "microsoft/markitdown": "2026-10-13",
+    "openclaw/openclaw": "2026-10-14"
   }
 }
