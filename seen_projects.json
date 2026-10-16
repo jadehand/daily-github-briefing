@@ -1,19 +1,5 @@
 {
   "trending": {
-    "openai/math": "2026-10-11",
-    "storytold/filmcraft": "2026-10-11",
-    "storytold/pdfcraft": "2026-10-11",
-    "alchaincyf/huashu-art-motion": "2026-10-11",
-    "t4t5/omdrop-owl": "2026-10-11",
-    "zhongerxin/iPhone-use": "2026-10-11",
-    "storytold/gridcraft": "2026-10-11",
-    "KKKKhazix/AIHOT": "2026-10-11",
-    "shihabal3amri/DiPlay": "2026-10-11",
-    "wheresryan22/anatomy": "2026-10-12",
-    "browser-use/jev-ultrafast": "2026-10-12",
-    "storytold/vectorcraft": "2026-10-12",
-    "storytold/craft-launcher": "2026-10-12",
-    "robbietilton/Compositor": "2026-10-12",
     "storytold/wordcraft": "2026-10-13",
     "liseami/CCBaga": "2026-10-13",
     "mhtsec/ARTEX": "2026-10-13",
@@ -23,11 +9,14 @@
     "NandhaKishorM/laya": "2026-10-14",
     "Niko1221/Strata": "2026-10-14",
     "storytold/lightcraft": "2026-10-14",
-    "onehumanbeing/esp32-iphone-agent": "2026-10-14"
+    "onehumanbeing/esp32-iphone-agent": "2026-10-14",
+    "wheresryan22/anatomy": "2026-10-16",
+    "openai/math": "2026-10-16",
+    "ahwootech/BRUTAL": "2026-10-16",
+    "chenglou/handwired": "2026-10-16",
+    "jhaizhou-ops/d2r-mobile": "2026-10-16"
   },
   "classic": {
-    "practical-tutorials/project-based-learning": "2026-09-14",
-    "github/gitignore": "2026-09-15",
     "ultraworkers/claw-code": "2026-09-16",
     "tensorflow/tensorflow": "2026-09-17",
     "NousResearch/hermes-agent": "2026-09-18",
@@ -52,6 +41,7 @@
     "freeCodeCamp/freeCodeCamp": "2026-10-10",
     "react/react": "2026-10-12",
     "microsoft/markitdown": "2026-10-13",
-    "openclaw/openclaw": "2026-10-14"
+    "openclaw/openclaw": "2026-10-14",
+    "firecrawl/firecrawl": "2026-10-16"
   }
 }
