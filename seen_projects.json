@@ -19,10 +19,14 @@
     "storytold/vectorcraft": "2026-10-18",
     "Arekejoker/qwen21-nsfw-pose-skill": "2026-10-18",
     "HeyPuter/everything": "2026-10-18",
-    "onehumanbeing/esp32-iphone-agent": "2026-10-18"
+    "onehumanbeing/esp32-iphone-agent": "2026-10-18",
+    "Gathin23/tv-vibehack": "2026-10-19",
+    "ly05010419/MacNativeGames": "2026-10-19",
+    "google-research/harness2": "2026-10-19",
+    "shihabal3amri/DiPlay": "2026-10-19",
+    "rehan-remade/universal-modder": "2026-10-19"
   },
   "classic": {
-    "NousResearch/hermes-agent": "2026-09-18",
     "f/prompts.chat": "2026-09-19",
     "trekhleb/javascript-algorithms": "2026-09-21",
     "TheAlgorithms/Python": "2026-09-22",
@@ -46,6 +50,7 @@
     "microsoft/markitdown": "2026-10-13",
     "openclaw/openclaw": "2026-10-14",
     "firecrawl/firecrawl": "2026-10-16",
-    "codecrafters-io/build-your-own-x": "2026-10-17"
+    "codecrafters-io/build-your-own-x": "2026-10-17",
+    "521xueweihan/HelloGitHub": "2026-10-19"
   }
 }
