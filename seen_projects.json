@@ -1,10 +1,5 @@
 {
   "trending": {
-    "wheresryan22/anatomy": "2026-10-16",
-    "openai/math": "2026-10-16",
-    "ahwootech/BRUTAL": "2026-10-16",
-    "chenglou/handwired": "2026-10-16",
-    "jhaizhou-ops/d2r-mobile": "2026-10-16",
     "storytold/wordcraft": "2026-10-17",
     "feder-cr/git-ai": "2026-10-17",
     "storytold/pdfcraft": "2026-10-17",
@@ -24,10 +19,14 @@
     "ly05010419/MacNativeGames": "2026-10-19",
     "google-research/harness2": "2026-10-19",
     "shihabal3amri/DiPlay": "2026-10-19",
-    "rehan-remade/universal-modder": "2026-10-19"
+    "rehan-remade/universal-modder": "2026-10-19",
+    "Gathin23/cleanyourtv": "2026-10-20",
+    "wheresryan22/anatomy": "2026-10-20",
+    "openai/math": "2026-10-20",
+    "xiaoyang111222/cn-math-taxonomy": "2026-10-20",
+    "alchaincyf/huashu-motion": "2026-10-20"
   },
   "classic": {
-    "f/prompts.chat": "2026-09-19",
     "trekhleb/javascript-algorithms": "2026-09-21",
     "TheAlgorithms/Python": "2026-09-22",
     "deepseek-ai/deepseek-harness": "2026-09-23",
@@ -51,6 +50,7 @@
     "openclaw/openclaw": "2026-10-14",
     "firecrawl/firecrawl": "2026-10-16",
     "codecrafters-io/build-your-own-x": "2026-10-17",
-    "521xueweihan/HelloGitHub": "2026-10-19"
+    "521xueweihan/HelloGitHub": "2026-10-19",
+    "996icu/996.ICU": "2026-10-20"
   }
 }
