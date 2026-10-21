@@ -1,10 +1,5 @@
 {
   "trending": {
-    "storytold/wordcraft": "2026-10-17",
-    "feder-cr/git-ai": "2026-10-17",
-    "storytold/pdfcraft": "2026-10-17",
-    "storytold/filmcraft": "2026-10-17",
-    "Ebony-Vinyl/dsh-our-free-model": "2026-10-17",
     "storytold/photocraft": "2026-10-18",
     "Niko1221/Strata": "2026-10-18",
     "NandhaKishorM/laya": "2026-10-18",
@@ -24,7 +19,12 @@
     "wheresryan22/anatomy": "2026-10-20",
     "openai/math": "2026-10-20",
     "xiaoyang111222/cn-math-taxonomy": "2026-10-20",
-    "alchaincyf/huashu-motion": "2026-10-20"
+    "alchaincyf/huashu-motion": "2026-10-20",
+    "deepseek-ai/DeepInfer": "2026-10-21",
+    "simbasjungles/free-my-tv": "2026-10-21",
+    "Ebony-Vinyl/dsh-our-free-model": "2026-10-21",
+    "storytold/wordcraft": "2026-10-21",
+    "JoasASantos/REA-Prompts": "2026-10-21"
   },
   "classic": {
     "trekhleb/javascript-algorithms": "2026-09-21",
@@ -51,6 +51,7 @@
     "firecrawl/firecrawl": "2026-10-16",
     "codecrafters-io/build-your-own-x": "2026-10-17",
     "521xueweihan/HelloGitHub": "2026-10-19",
-    "996icu/996.ICU": "2026-10-20"
+    "996icu/996.ICU": "2026-10-20",
+    "anthropics/skills": "2026-10-21"
   }
 }
