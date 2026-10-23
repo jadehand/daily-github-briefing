@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Gathin23/tv-vibehack": "2026-10-19",
-    "ly05010419/MacNativeGames": "2026-10-19",
-    "google-research/harness2": "2026-10-19",
-    "shihabal3amri/DiPlay": "2026-10-19",
-    "rehan-remade/universal-modder": "2026-10-19",
     "Gathin23/cleanyourtv": "2026-10-20",
     "wheresryan22/anatomy": "2026-10-20",
     "openai/math": "2026-10-20",
@@ -19,10 +14,14 @@
     "pengchujin/aerial-tv": "2026-10-22",
     "Niko1221/Strata": "2026-10-22",
     "ikow/php2shell-poc": "2026-10-22",
-    "storytold/pdfcraft": "2026-10-22"
+    "storytold/pdfcraft": "2026-10-22",
+    "google-research/harness2": "2026-10-23",
+    "9bie/php2shell-bypass-aslr-exp": "2026-10-23",
+    "ly05010419/MacNativeGames": "2026-10-23",
+    "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC": "2026-10-23",
+    "storytold/filmcraft": "2026-10-23"
   },
   "classic": {
-    "TheAlgorithms/Python": "2026-09-22",
     "deepseek-ai/deepseek-harness": "2026-09-23",
     "getify/You-Dont-Know-JS": "2026-09-24",
     "jackfrued/Python-100-Days": "2026-09-25",
@@ -47,6 +46,7 @@
     "521xueweihan/HelloGitHub": "2026-10-19",
     "996icu/996.ICU": "2026-10-20",
     "anthropics/skills": "2026-10-21",
-    "multica-ai/andrej-karpathy-skills": "2026-10-22"
+    "multica-ai/andrej-karpathy-skills": "2026-10-22",
+    "tensorflow/tensorflow": "2026-10-23"
   }
 }
