@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/DeepInfer": "2026-10-21",
-    "simbasjungles/free-my-tv": "2026-10-21",
-    "Ebony-Vinyl/dsh-our-free-model": "2026-10-21",
-    "storytold/wordcraft": "2026-10-21",
-    "JoasASantos/REA-Prompts": "2026-10-21",
     "storytold/photocraft": "2026-10-22",
     "pengchujin/aerial-tv": "2026-10-22",
     "Niko1221/Strata": "2026-10-22",
@@ -19,10 +14,17 @@
     "wheresryan22/anatomy": "2026-10-24",
     "oosexgang/hackios-xnu-kernel": "2026-10-24",
     "openai/math": "2026-10-24",
-    "storytold/lightcraft": "2026-10-24"
+    "storytold/lightcraft": "2026-10-24",
+    "deepseek-ai/DeepInfer": "2026-10-25",
+    "storytold/wordcraft": "2026-10-25",
+    "simbasjungles/free-my-tv": "2026-10-25",
+    "tangency-labs/solidcraft": "2026-10-25",
+    "xevrion/hatchzip": "2026-10-25",
+    "wesbos/3d-model-anything": "2026-10-25",
+    "xiaoyang111222/cn-math-taxonomy": "2026-10-25",
+    "KnifeLemon/Filee": "2026-10-25"
   },
   "classic": {
-    "getify/You-Dont-Know-JS": "2026-09-24",
     "jackfrued/Python-100-Days": "2026-09-25",
     "ohmyzsh/ohmyzsh": "2026-09-26",
     "vinta/awesome-python": "2026-09-28",
