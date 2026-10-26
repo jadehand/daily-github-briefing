@@ -1,10 +1,5 @@
 {
   "trending": {
-    "storytold/photocraft": "2026-10-22",
-    "pengchujin/aerial-tv": "2026-10-22",
-    "Niko1221/Strata": "2026-10-22",
-    "ikow/php2shell-poc": "2026-10-22",
-    "storytold/pdfcraft": "2026-10-22",
     "google-research/harness2": "2026-10-23",
     "9bie/php2shell-bypass-aslr-exp": "2026-10-23",
     "ly05010419/MacNativeGames": "2026-10-23",
@@ -22,10 +17,14 @@
     "xevrion/hatchzip": "2026-10-25",
     "wesbos/3d-model-anything": "2026-10-25",
     "xiaoyang111222/cn-math-taxonomy": "2026-10-25",
-    "KnifeLemon/Filee": "2026-10-25"
+    "KnifeLemon/Filee": "2026-10-25",
+    "storytold/photocraft": "2026-10-26",
+    "JustAResearcher/gpu-unlock-ada": "2026-10-26",
+    "pengchujin/aerial-tv": "2026-10-26",
+    "rddmwmddr/android-ad-cleaner": "2026-10-26",
+    "Zagitta/gpu-unlock": "2026-10-26"
   },
   "classic": {
-    "jackfrued/Python-100-Days": "2026-09-25",
     "ohmyzsh/ohmyzsh": "2026-09-26",
     "vinta/awesome-python": "2026-09-28",
     "microsoft/vscode": "2026-09-29",
@@ -49,6 +48,7 @@
     "anthropics/skills": "2026-10-21",
     "multica-ai/andrej-karpathy-skills": "2026-10-22",
     "tensorflow/tensorflow": "2026-10-23",
-    "trimstray/the-book-of-secret-knowledge": "2026-10-24"
+    "trimstray/the-book-of-secret-knowledge": "2026-10-24",
+    "anomalyco/opencode": "2026-10-26"
   }
 }
