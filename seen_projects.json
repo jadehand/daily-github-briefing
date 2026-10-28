@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Gathin23/cleanyourtv": "2026-10-24",
-    "wheresryan22/anatomy": "2026-10-24",
-    "oosexgang/hackios-xnu-kernel": "2026-10-24",
-    "openai/math": "2026-10-24",
-    "storytold/lightcraft": "2026-10-24",
     "deepseek-ai/DeepInfer": "2026-10-25",
     "storytold/wordcraft": "2026-10-25",
     "simbasjungles/free-my-tv": "2026-10-25",
@@ -22,7 +17,12 @@
     "google-research/harness2": "2026-10-27",
     "t3dotgg/tstack": "2026-10-27",
     "storytold/pdfcraft": "2026-10-27",
-    "storytold/filmcraft": "2026-10-27"
+    "storytold/filmcraft": "2026-10-27",
+    "Gathin23/cleanyourtv": "2026-10-28",
+    "DLSS-5-Swaper-New/.github": "2026-10-28",
+    "unclebob/ub-mode": "2026-10-28",
+    "andyhuo520/digital-human-koubo": "2026-10-28",
+    "wheresryan22/anatomy": "2026-10-28"
   },
   "classic": {
     "vinta/awesome-python": "2026-09-28",
@@ -49,6 +49,7 @@
     "tensorflow/tensorflow": "2026-10-23",
     "trimstray/the-book-of-secret-knowledge": "2026-10-24",
     "anomalyco/opencode": "2026-10-26",
-    "public-apis/public-apis": "2026-10-27"
+    "public-apis/public-apis": "2026-10-27",
+    "getify/You-Dont-Know-JS": "2026-10-28"
   }
 }
