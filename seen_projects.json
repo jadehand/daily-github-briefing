@@ -1,13 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/DeepInfer": "2026-10-25",
-    "storytold/wordcraft": "2026-10-25",
-    "simbasjungles/free-my-tv": "2026-10-25",
-    "tangency-labs/solidcraft": "2026-10-25",
-    "xevrion/hatchzip": "2026-10-25",
-    "wesbos/3d-model-anything": "2026-10-25",
-    "xiaoyang111222/cn-math-taxonomy": "2026-10-25",
-    "KnifeLemon/Filee": "2026-10-25",
     "storytold/photocraft": "2026-10-26",
     "JustAResearcher/gpu-unlock-ada": "2026-10-26",
     "pengchujin/aerial-tv": "2026-10-26",
@@ -22,10 +14,14 @@
     "DLSS-5-Swaper-New/.github": "2026-10-28",
     "unclebob/ub-mode": "2026-10-28",
     "andyhuo520/digital-human-koubo": "2026-10-28",
-    "wheresryan22/anatomy": "2026-10-28"
+    "wheresryan22/anatomy": "2026-10-28",
+    "anhao/ai-pose-gallery-zh": "2026-10-29",
+    "deepseek-ai/DeepInfer": "2026-10-29",
+    "interplains/Zero-Breach-Toolkit": "2026-10-29",
+    "storytold/wordcraft": "2026-10-29",
+    "openai/math": "2026-10-29"
   },
   "classic": {
-    "vinta/awesome-python": "2026-09-28",
     "microsoft/vscode": "2026-09-29",
     "ossu/computer-science": "2026-09-30",
     "awesome-selfhosted/awesome-selfhosted": "2026-10-01",
@@ -50,6 +46,7 @@
     "trimstray/the-book-of-secret-knowledge": "2026-10-24",
     "anomalyco/opencode": "2026-10-26",
     "public-apis/public-apis": "2026-10-27",
-    "getify/You-Dont-Know-JS": "2026-10-28"
+    "getify/You-Dont-Know-JS": "2026-10-28",
+    "vuejs/vue": "2026-10-29"
   }
 }
