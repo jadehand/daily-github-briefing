@@ -1,10 +1,5 @@
 {
   "trending": {
-    "storytold/photocraft": "2026-10-26",
-    "JustAResearcher/gpu-unlock-ada": "2026-10-26",
-    "pengchujin/aerial-tv": "2026-10-26",
-    "rddmwmddr/android-ad-cleaner": "2026-10-26",
-    "Zagitta/gpu-unlock": "2026-10-26",
     "designfuchen/word-atlas": "2026-10-27",
     "google-research/harness2": "2026-10-27",
     "t3dotgg/tstack": "2026-10-27",
@@ -19,10 +14,14 @@
     "deepseek-ai/DeepInfer": "2026-10-29",
     "interplains/Zero-Breach-Toolkit": "2026-10-29",
     "storytold/wordcraft": "2026-10-29",
-    "openai/math": "2026-10-29"
+    "openai/math": "2026-10-29",
+    "storytold/photocraft": "2026-10-30",
+    "Zagitta/gpu-unlock": "2026-10-30",
+    "rddmwmddr/android-ad-cleaner": "2026-10-30",
+    "pengchujin/aerial-tv": "2026-10-30",
+    "JustAResearcher/gpu-unlock-ada": "2026-10-30"
   },
   "classic": {
-    "microsoft/vscode": "2026-09-29",
     "ossu/computer-science": "2026-09-30",
     "awesome-selfhosted/awesome-selfhosted": "2026-10-01",
     "DigitalPlatDev/FreeDomain": "2026-10-02",
@@ -47,6 +46,7 @@
     "anomalyco/opencode": "2026-10-26",
     "public-apis/public-apis": "2026-10-27",
     "getify/You-Dont-Know-JS": "2026-10-28",
-    "vuejs/vue": "2026-10-29"
+    "vuejs/vue": "2026-10-29",
+    "n8n-io/n8n": "2026-10-30"
   }
 }
