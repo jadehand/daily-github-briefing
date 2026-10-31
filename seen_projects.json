@@ -1,10 +1,5 @@
 {
   "trending": {
-    "designfuchen/word-atlas": "2026-10-27",
-    "google-research/harness2": "2026-10-27",
-    "t3dotgg/tstack": "2026-10-27",
-    "storytold/pdfcraft": "2026-10-27",
-    "storytold/filmcraft": "2026-10-27",
     "Gathin23/cleanyourtv": "2026-10-28",
     "DLSS-5-Swaper-New/.github": "2026-10-28",
     "unclebob/ub-mode": "2026-10-28",
@@ -19,10 +14,14 @@
     "Zagitta/gpu-unlock": "2026-10-30",
     "rddmwmddr/android-ad-cleaner": "2026-10-30",
     "pengchujin/aerial-tv": "2026-10-30",
-    "JustAResearcher/gpu-unlock-ada": "2026-10-30"
+    "JustAResearcher/gpu-unlock-ada": "2026-10-30",
+    "valentderah/totk-pc-recomp": "2026-10-31",
+    "wangzan101/Mika": "2026-10-31",
+    "heydamir/unslop": "2026-10-31",
+    "paipiange/nvzhuang": "2026-10-31",
+    "google-research/harness2": "2026-10-31"
   },
   "classic": {
-    "ossu/computer-science": "2026-09-30",
     "awesome-selfhosted/awesome-selfhosted": "2026-10-01",
     "DigitalPlatDev/FreeDomain": "2026-10-02",
     "twbs/bootstrap": "2026-10-03",
@@ -47,6 +46,7 @@
     "public-apis/public-apis": "2026-10-27",
     "getify/You-Dont-Know-JS": "2026-10-28",
     "vuejs/vue": "2026-10-29",
-    "n8n-io/n8n": "2026-10-30"
+    "n8n-io/n8n": "2026-10-30",
+    "ultraworkers/claw-code": "2026-10-31"
   }
 }
