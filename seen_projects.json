@@ -1,10 +1,5 @@
 {
   "trending": {
-    "valentderah/totk-pc-recomp": "2026-10-31",
-    "wangzan101/Mika": "2026-10-31",
-    "heydamir/unslop": "2026-10-31",
-    "paipiange/nvzhuang": "2026-10-31",
-    "google-research/harness2": "2026-10-31",
     "deepseek-ai/dsh-superagent-prototype": "2026-11-01",
     "Gathin23/cleanyourtv": "2026-11-01",
     "patch-gg/pixelfx": "2026-11-01",
@@ -22,7 +17,12 @@
     "Zagitta/gpu-unlock": "2026-11-03",
     "Verlintas/NOIR": "2026-11-03",
     "pengchujin/aerial-tv": "2026-11-03",
-    "seedds/nxnative": "2026-11-03"
+    "seedds/nxnative": "2026-11-03",
+    "heydamir/unslop": "2026-11-04",
+    "wangzan101/Mika": "2026-11-04",
+    "valentderah/totk-pc-recomp": "2026-11-04",
+    "google-research/harness2": "2026-11-04",
+    "BryceYuuu/RUN": "2026-11-04"
   },
   "classic": {
     "jwasham/coding-interview-university": "2026-10-05",
@@ -49,6 +49,7 @@
     "n8n-io/n8n": "2026-10-30",
     "ultraworkers/claw-code": "2026-10-31",
     "yt-dlp/yt-dlp": "2026-11-02",
-    "morluto/rea": "2026-11-03"
+    "morluto/rea": "2026-11-03",
+    "ollama/ollama": "2026-11-04"
   }
 }
