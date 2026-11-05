@@ -1,13 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/dsh-superagent-prototype": "2026-11-01",
-    "Gathin23/cleanyourtv": "2026-11-01",
-    "patch-gg/pixelfx": "2026-11-01",
-    "kevinraymond/florilegium": "2026-11-01",
-    "wheresryan22/anatomy": "2026-11-01",
-    "unclebob/ub-mode": "2026-11-01",
-    "ccch1mneyyy/dsh-Go": "2026-11-01",
-    "designfuchen/word-atlas": "2026-11-01",
     "deepseek-ai/DeepInfer": "2026-11-02",
     "storytold/craft-anything": "2026-11-02",
     "anhao/ai-pose-gallery-zh": "2026-11-02",
@@ -22,10 +14,14 @@
     "wangzan101/Mika": "2026-11-04",
     "valentderah/totk-pc-recomp": "2026-11-04",
     "google-research/harness2": "2026-11-04",
-    "BryceYuuu/RUN": "2026-11-04"
+    "BryceYuuu/RUN": "2026-11-04",
+    "deepseek-ai/dsh-superagent-prototype": "2026-11-05",
+    "Gathin23/cleanyourtv": "2026-11-05",
+    "KKKKhazix/agent-autoloop": "2026-11-05",
+    "ccch1mneyyy/dsh-Go": "2026-11-05",
+    "patch-gg/pixelfx": "2026-11-05"
   },
   "classic": {
-    "jwasham/coding-interview-university": "2026-10-05",
     "mattpocock/skills": "2026-10-06",
     "avelino/awesome-go": "2026-10-07",
     "nilbuild/developer-roadmap": "2026-10-08",
@@ -50,6 +46,7 @@
     "ultraworkers/claw-code": "2026-10-31",
     "yt-dlp/yt-dlp": "2026-11-02",
     "morluto/rea": "2026-11-03",
-    "ollama/ollama": "2026-11-04"
+    "ollama/ollama": "2026-11-04",
+    "TheAlgorithms/Python": "2026-11-05"
   }
 }
