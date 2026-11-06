@@ -1,10 +1,5 @@
 {
   "trending": {
-    "deepseek-ai/DeepInfer": "2026-11-02",
-    "storytold/craft-anything": "2026-11-02",
-    "anhao/ai-pose-gallery-zh": "2026-11-02",
-    "storytold/wordcraft": "2026-11-02",
-    "openai/math": "2026-11-02",
     "caru-ini/stack-diagram": "2026-11-03",
     "Zagitta/gpu-unlock": "2026-11-03",
     "Verlintas/NOIR": "2026-11-03",
@@ -19,10 +14,14 @@
     "Gathin23/cleanyourtv": "2026-11-05",
     "KKKKhazix/agent-autoloop": "2026-11-05",
     "ccch1mneyyy/dsh-Go": "2026-11-05",
-    "patch-gg/pixelfx": "2026-11-05"
+    "patch-gg/pixelfx": "2026-11-05",
+    "storytold/craft-anything": "2026-11-06",
+    "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": "2026-11-06",
+    "deepseek-ai/DeepInfer": "2026-11-06",
+    "wheresryan22/anatomy": "2026-11-06",
+    "govijr/terminal-mac": "2026-11-06"
   },
   "classic": {
-    "mattpocock/skills": "2026-10-06",
     "avelino/awesome-go": "2026-10-07",
     "nilbuild/developer-roadmap": "2026-10-08",
     "flutter/flutter": "2026-10-09",
@@ -47,6 +46,7 @@
     "yt-dlp/yt-dlp": "2026-11-02",
     "morluto/rea": "2026-11-03",
     "ollama/ollama": "2026-11-04",
-    "TheAlgorithms/Python": "2026-11-05"
+    "TheAlgorithms/Python": "2026-11-05",
+    "awesome-selfhosted/awesome-selfhosted": "2026-11-06"
   }
 }
