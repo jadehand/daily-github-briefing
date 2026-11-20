@@ -1,38 +1,12 @@
 {
   "trending": {
-    "caru-ini/stack-diagram": "2026-11-03",
-    "Zagitta/gpu-unlock": "2026-11-03",
-    "Verlintas/NOIR": "2026-11-03",
-    "pengchujin/aerial-tv": "2026-11-03",
-    "seedds/nxnative": "2026-11-03",
-    "heydamir/unslop": "2026-11-04",
-    "wangzan101/Mika": "2026-11-04",
-    "valentderah/totk-pc-recomp": "2026-11-04",
-    "google-research/harness2": "2026-11-04",
-    "BryceYuuu/RUN": "2026-11-04",
-    "deepseek-ai/dsh-superagent-prototype": "2026-11-05",
-    "Gathin23/cleanyourtv": "2026-11-05",
-    "KKKKhazix/agent-autoloop": "2026-11-05",
-    "ccch1mneyyy/dsh-Go": "2026-11-05",
-    "patch-gg/pixelfx": "2026-11-05",
-    "storytold/craft-anything": "2026-11-06",
-    "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": "2026-11-06",
-    "deepseek-ai/DeepInfer": "2026-11-06",
-    "wheresryan22/anatomy": "2026-11-06",
-    "govijr/terminal-mac": "2026-11-06"
+    "storytold/craft-anything": "2026-11-20",
+    "erkamyaman/rust-anything": "2026-11-20",
+    "krisgfx9/Wireless-Device-Battery-Monitor": "2026-11-20",
+    "deepseek-ai/dsh-superagent-prototype": "2026-11-20",
+    "gylive/google-ultra": "2026-11-20"
   },
   "classic": {
-    "avelino/awesome-go": "2026-10-07",
-    "nilbuild/developer-roadmap": "2026-10-08",
-    "flutter/flutter": "2026-10-09",
-    "freeCodeCamp/freeCodeCamp": "2026-10-10",
-    "react/react": "2026-10-12",
-    "microsoft/markitdown": "2026-10-13",
-    "openclaw/openclaw": "2026-10-14",
-    "firecrawl/firecrawl": "2026-10-16",
-    "codecrafters-io/build-your-own-x": "2026-10-17",
-    "521xueweihan/HelloGitHub": "2026-10-19",
-    "996icu/996.ICU": "2026-10-20",
     "anthropics/skills": "2026-10-21",
     "multica-ai/andrej-karpathy-skills": "2026-10-22",
     "tensorflow/tensorflow": "2026-10-23",
@@ -47,6 +21,7 @@
     "morluto/rea": "2026-11-03",
     "ollama/ollama": "2026-11-04",
     "TheAlgorithms/Python": "2026-11-05",
-    "awesome-selfhosted/awesome-selfhosted": "2026-11-06"
+    "awesome-selfhosted/awesome-selfhosted": "2026-11-06",
+    "flutter/flutter": "2026-11-20"
   }
 }
