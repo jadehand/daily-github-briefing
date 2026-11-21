@@ -4,10 +4,14 @@
     "erkamyaman/rust-anything": "2026-11-20",
     "krisgfx9/Wireless-Device-Battery-Monitor": "2026-11-20",
     "deepseek-ai/dsh-superagent-prototype": "2026-11-20",
-    "gylive/google-ultra": "2026-11-20"
+    "gylive/google-ultra": "2026-11-20",
+    "bookwjitchieni1986/blender-ai-mcp-addon": "2026-11-21",
+    "iamajmeena/neonclipping": "2026-11-21",
+    "ccch1mneyyy/dsh-Go": "2026-11-21",
+    "heydamir/unslop": "2026-11-21",
+    "huami1314/GestaltX": "2026-11-21"
   },
   "classic": {
-    "anthropics/skills": "2026-10-21",
     "multica-ai/andrej-karpathy-skills": "2026-10-22",
     "tensorflow/tensorflow": "2026-10-23",
     "trimstray/the-book-of-secret-knowledge": "2026-10-24",
@@ -22,6 +26,7 @@
     "ollama/ollama": "2026-11-04",
     "TheAlgorithms/Python": "2026-11-05",
     "awesome-selfhosted/awesome-selfhosted": "2026-11-06",
-    "flutter/flutter": "2026-11-20"
+    "flutter/flutter": "2026-11-20",
+    "affaan-m/ECC": "2026-11-21"
   }
 }
