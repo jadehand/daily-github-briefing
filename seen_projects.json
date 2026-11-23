@@ -19,10 +19,12 @@
     "Minireel/HGhub": "2026-11-22",
     "janestreet/agent_skills": "2026-11-22",
     "JuneYaooo/rea-video": "2026-11-22",
-    "zortos293/Lichii": "2026-11-22"
+    "zortos293/Lichii": "2026-11-22",
+    "EL4CTEO/fast-anything": "2026-11-23",
+    "os6/nospeaker": "2026-11-23",
+    "wangzan101/Mika": "2026-11-23"
   },
   "classic": {
-    "tensorflow/tensorflow": "2026-10-23",
     "trimstray/the-book-of-secret-knowledge": "2026-10-24",
     "anomalyco/opencode": "2026-10-26",
     "public-apis/public-apis": "2026-10-27",
@@ -36,6 +38,7 @@
     "TheAlgorithms/Python": "2026-11-05",
     "awesome-selfhosted/awesome-selfhosted": "2026-11-06",
     "flutter/flutter": "2026-11-20",
-    "affaan-m/ECC": "2026-11-21"
+    "affaan-m/ECC": "2026-11-21",
+    "EbookFoundation/free-programming-books": "2026-11-23"
   }
 }
