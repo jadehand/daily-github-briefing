@@ -1,10 +1,5 @@
 {
   "trending": {
-    "storytold/craft-anything": "2026-11-20",
-    "erkamyaman/rust-anything": "2026-11-20",
-    "krisgfx9/Wireless-Device-Battery-Monitor": "2026-11-20",
-    "deepseek-ai/dsh-superagent-prototype": "2026-11-20",
-    "gylive/google-ultra": "2026-11-20",
     "bookwjitchieni1986/blender-ai-mcp-addon": "2026-11-21",
     "iamajmeena/neonclipping": "2026-11-21",
     "ccch1mneyyy/dsh-Go": "2026-11-21",
@@ -22,10 +17,14 @@
     "zortos293/Lichii": "2026-11-22",
     "EL4CTEO/fast-anything": "2026-11-23",
     "os6/nospeaker": "2026-11-23",
-    "wangzan101/Mika": "2026-11-23"
+    "wangzan101/Mika": "2026-11-23",
+    "Marvisak/VIctory": "2026-11-24",
+    "storytold/craft-anything": "2026-11-24",
+    "ivall/xcl": "2026-11-24",
+    "erkamyaman/rust-anything": "2026-11-24",
+    "deepseek-ai/dsh-superagent-prototype": "2026-11-24"
   },
   "classic": {
-    "trimstray/the-book-of-secret-knowledge": "2026-10-24",
     "anomalyco/opencode": "2026-10-26",
     "public-apis/public-apis": "2026-10-27",
     "getify/You-Dont-Know-JS": "2026-10-28",
@@ -39,6 +38,7 @@
     "awesome-selfhosted/awesome-selfhosted": "2026-11-06",
     "flutter/flutter": "2026-11-20",
     "affaan-m/ECC": "2026-11-21",
-    "EbookFoundation/free-programming-books": "2026-11-23"
+    "EbookFoundation/free-programming-books": "2026-11-23",
+    "Significant-Gravitas/AutoGPT": "2026-11-24"
   }
 }
