@@ -1,10 +1,5 @@
 {
   "trending": {
-    "bookwjitchieni1986/blender-ai-mcp-addon": "2026-11-21",
-    "iamajmeena/neonclipping": "2026-11-21",
-    "ccch1mneyyy/dsh-Go": "2026-11-21",
-    "heydamir/unslop": "2026-11-21",
-    "huami1314/GestaltX": "2026-11-21",
     "ItsNotRexed/Leonida": "2026-11-22",
     "hatsunemiku-ai/google-one-tools": "2026-11-22",
     "R0Y00/Xbox2Windows": "2026-11-22",
@@ -22,7 +17,12 @@
     "storytold/craft-anything": "2026-11-24",
     "ivall/xcl": "2026-11-24",
     "erkamyaman/rust-anything": "2026-11-24",
-    "deepseek-ai/dsh-superagent-prototype": "2026-11-24"
+    "deepseek-ai/dsh-superagent-prototype": "2026-11-24",
+    "fxceless/victory-fork": "2026-11-25",
+    "ubiquitarianism/leonida": "2026-11-25",
+    "xcl-dev/xcl": "2026-11-25",
+    "4lwayz/portwatch-vi": "2026-11-25",
+    "Indigo-0167/universal-game-mod-manager": "2026-11-25"
   },
   "classic": {
     "anomalyco/opencode": "2026-10-26",
@@ -39,6 +39,7 @@
     "flutter/flutter": "2026-11-20",
     "affaan-m/ECC": "2026-11-21",
     "EbookFoundation/free-programming-books": "2026-11-23",
-    "Significant-Gravitas/AutoGPT": "2026-11-24"
+    "Significant-Gravitas/AutoGPT": "2026-11-24",
+    "mattpocock/skills": "2026-11-25"
   }
 }
