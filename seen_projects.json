@@ -1,15 +1,5 @@
 {
   "trending": {
-    "ItsNotRexed/Leonida": "2026-11-22",
-    "hatsunemiku-ai/google-one-tools": "2026-11-22",
-    "R0Y00/Xbox2Windows": "2026-11-22",
-    "omonkeyz/xbox-emulator": "2026-11-22",
-    "anefzaoui/misterdownloadmanager": "2026-11-22",
-    "libracoder/kiri": "2026-11-22",
-    "Minireel/HGhub": "2026-11-22",
-    "janestreet/agent_skills": "2026-11-22",
-    "JuneYaooo/rea-video": "2026-11-22",
-    "zortos293/Lichii": "2026-11-22",
     "EL4CTEO/fast-anything": "2026-11-23",
     "os6/nospeaker": "2026-11-23",
     "wangzan101/Mika": "2026-11-23",
@@ -22,10 +12,14 @@
     "ubiquitarianism/leonida": "2026-11-25",
     "xcl-dev/xcl": "2026-11-25",
     "4lwayz/portwatch-vi": "2026-11-25",
-    "Indigo-0167/universal-game-mod-manager": "2026-11-25"
+    "Indigo-0167/universal-game-mod-manager": "2026-11-25",
+    "Belobug/VIctory-Belobug-AMD": "2026-11-26",
+    "avatarmanz/VIctory-7900XTX": "2026-11-26",
+    "heydamir/unslop": "2026-11-26",
+    "AFK-surf/xnulinux": "2026-11-26",
+    "anefzaoui/misterdownloadmanager": "2026-11-26"
   },
   "classic": {
-    "anomalyco/opencode": "2026-10-26",
     "public-apis/public-apis": "2026-10-27",
     "getify/You-Dont-Know-JS": "2026-10-28",
     "vuejs/vue": "2026-10-29",
@@ -40,6 +34,7 @@
     "affaan-m/ECC": "2026-11-21",
     "EbookFoundation/free-programming-books": "2026-11-23",
     "Significant-Gravitas/AutoGPT": "2026-11-24",
-    "mattpocock/skills": "2026-11-25"
+    "mattpocock/skills": "2026-11-25",
+    "NousResearch/hermes-agent": "2026-11-26"
   }
 }
