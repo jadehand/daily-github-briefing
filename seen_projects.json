@@ -1,8 +1,5 @@
 {
   "trending": {
-    "EL4CTEO/fast-anything": "2026-11-23",
-    "os6/nospeaker": "2026-11-23",
-    "wangzan101/Mika": "2026-11-23",
     "Marvisak/VIctory": "2026-11-24",
     "storytold/craft-anything": "2026-11-24",
     "ivall/xcl": "2026-11-24",
@@ -17,10 +14,14 @@
     "avatarmanz/VIctory-7900XTX": "2026-11-26",
     "heydamir/unslop": "2026-11-26",
     "AFK-surf/xnulinux": "2026-11-26",
-    "anefzaoui/misterdownloadmanager": "2026-11-26"
+    "anefzaoui/misterdownloadmanager": "2026-11-26",
+    "alesha-pro/llm.asm": "2026-11-27",
+    "nexu-io/opengame": "2026-11-27",
+    "EL4CTEO/fast-anything": "2026-11-27",
+    "libracoder/kiri": "2026-11-27",
+    "Minireel/HGhub": "2026-11-27"
   },
   "classic": {
-    "public-apis/public-apis": "2026-10-27",
     "getify/You-Dont-Know-JS": "2026-10-28",
     "vuejs/vue": "2026-10-29",
     "n8n-io/n8n": "2026-10-30",
@@ -35,6 +36,7 @@
     "EbookFoundation/free-programming-books": "2026-11-23",
     "Significant-Gravitas/AutoGPT": "2026-11-24",
     "mattpocock/skills": "2026-11-25",
-    "NousResearch/hermes-agent": "2026-11-26"
+    "NousResearch/hermes-agent": "2026-11-26",
+    "donnemartin/system-design-primer": "2026-11-27"
   }
 }
