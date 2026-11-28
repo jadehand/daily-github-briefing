@@ -1,10 +1,5 @@
 {
   "trending": {
-    "Marvisak/VIctory": "2026-11-24",
-    "storytold/craft-anything": "2026-11-24",
-    "ivall/xcl": "2026-11-24",
-    "erkamyaman/rust-anything": "2026-11-24",
-    "deepseek-ai/dsh-superagent-prototype": "2026-11-24",
     "fxceless/victory-fork": "2026-11-25",
     "ubiquitarianism/leonida": "2026-11-25",
     "xcl-dev/xcl": "2026-11-25",
@@ -19,10 +14,14 @@
     "nexu-io/opengame": "2026-11-27",
     "EL4CTEO/fast-anything": "2026-11-27",
     "libracoder/kiri": "2026-11-27",
-    "Minireel/HGhub": "2026-11-27"
+    "Minireel/HGhub": "2026-11-27",
+    "Marvisak/VIctory": "2026-11-28",
+    "trustno1-coder/VIctory-NVIDIA": "2026-11-28",
+    "storytold/craft-anything": "2026-11-28",
+    "Pixel679-cmyk/windows-titlebar-blur-customizer": "2026-11-28",
+    "erkamyaman/rust-anything": "2026-11-28"
   },
   "classic": {
-    "getify/You-Dont-Know-JS": "2026-10-28",
     "vuejs/vue": "2026-10-29",
     "n8n-io/n8n": "2026-10-30",
     "ultraworkers/claw-code": "2026-10-31",
@@ -37,6 +36,7 @@
     "Significant-Gravitas/AutoGPT": "2026-11-24",
     "mattpocock/skills": "2026-11-25",
     "NousResearch/hermes-agent": "2026-11-26",
-    "donnemartin/system-design-primer": "2026-11-27"
+    "donnemartin/system-design-primer": "2026-11-27",
+    "microsoft/markitdown": "2026-11-28"
   }
 }
